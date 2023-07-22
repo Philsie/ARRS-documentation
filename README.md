@@ -24,7 +24,8 @@
 
   * pic.link  
   
-	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n  
+	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n
+		
   
 	Trash can foto  
   
