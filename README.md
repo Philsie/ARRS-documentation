@@ -31,7 +31,7 @@
 	l: galx3  
 	p: 6.62 ~607015x~ 10^-34JxHz^-1  	--> planck constant  
   
-  *  
+  *  copy_error.log  
   < - file - >  
 VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdG  
 2023-07-01 13:51:34.089 +03:00|0.11.01.7.12380|Info|EncryptSystemHash: OK   
@@ -60,21 +60,174 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 2023-07-01 13:56:01.102 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local| Success Login  
 < - end of file - >  
 
-   *  2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---> Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099
-     Login: 728dec3865ffbdf7905b24d093ad7987095227d2 --> sha1 of __observer33-4__  
-     Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of __098712345__
+   ---
+  	  2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---> Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099
+    	 Login: 728dec3865ffbdf7905b24d093ad7987095227d2 --> sha1 of __observer33-4__  
+  	   Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of __098712345__
 
-    * Scrabled text --> base64
-      VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdGhlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMuVGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg  
-      The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.  
-      VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4  
-      The more you see cycles, the more you see boundaries.
-      The more you see boundaries, the more you want to go beyond them..
+
+		## new login: observer33-4 | 098712345 ##  
+
+
+	 ---  
+	 	Scrabled text --> base64  
+	    
+	 	VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdGhlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMuVGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg  
+		VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4  
+	
+	  
+		The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.  
+	 	The more you see cycles, the more you see boundaries.  
+		The more you see boundaries, the more you want to go beyond them..    
+	      
+
+* notes
+	* for_you
   
-    	The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.
-  	The more you see cycles, the more you see boundaries.
-	The more you see boundaries, the more you want to go beyond them..  
-      
+	Saw my hint to drop by here? Awesome. Curiosity is a great trait of yours. I'm glad you're keeping up with your progress and sharing your information with everyone.  
+  
+	But all right, let's cut to the chase.&nbsp;  
+  
+	A guy who owes me sent some interesting photos before he was caught. We need to capitalize on the situation before it gets shut down.  
+  
+	Mr. Kerman  
+
+# observer33-4:098712345  
+* dir
+	* task.exe
+   		 TASK MANAGEMENT  
+  
+		Task 1: Parse all project documents with the DELETED key  
+		Status: Not completed  
+		  
+		Task 2: Parse the project documentation for the Bunker application and its activation keys  
+		  
+		Status: Not completed  
+		  
+		Task 3: DELETED  
+		  
+		Status: Not completed  
+		  
+		Task 4: Parse the project information with the DELETED key. Project is in an inactive profile  
+		L: NAQMCRMECLWRHLPAHEUFCLWR  
+		P: DELETED  
+		  
+		Status: Not completed  
+		  
+		Task 5: Stop drawing at work. Or at least try to.  
+		  
+		Status: Not completed  
+		  
+		Task 6: Draw myself  
+		  
+		Status: Completed  
+  
+***
+  
+	NAQMCRMECLWRHLPAHEUFCLWR  
+ 	+   
+	R E M B A  
+	C D F G H  
+	I K L N O  
+	P Q S T U  
+	V W X Y Z  
+  
+	from note1 using playfair cipher -->   OBSERVERFIVEFOURDASHFIVE
+
+	## OBSERVERFIVEFOURDASHFIVE  / observer54-5 ##  
+   
+* notes
+	* note1   
+		TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
+	Been given a lot of tasks. SBwZW9wbGUgc2VlIHRvIHRoZSBob3Jpem9uLCB3aGlsZSBvdG  
+	Don't want to do them. hlcnMgc2VlIGJleW9uZCB0aGUgaG9yaXpvbi4KSSByZWFsbH Failed so many inspections that the fines are higher than my paycheck now. I feel like this guy in the pic when I look at my bank account. kgYXNwaXJlIHRvIGJlY29tZSB0aGF0IHBlcnNvbiB3aG8gc2V At this rate I'm not gonna have enough money to buy myself that fancy P square.  
+	───────▄▀▀▀▀▀▀▀▀▀▀▄▄  
+	────▄▀▀─────────────▀▄  
+	──▄▀──────────────────▀▄  
+	──█─────────────────────▀▄  
+	─▐▌────────▄▄▄▄▄▄▄───────▐▌  
+	─█───────────▄▄▄▄──▀▀▀▀▀──█  
+	▐R▌───────▀E▀▀─────▀M▀▀▀B───▐A▌  
+	█─────────▄▄▀▀▀▀▀────▀▀▀▀▄─█  
+	█────────────────▀───▐─────▐▌  
+	▐C▌────────D─▐▀▀██▄─F───G──▄▄H▐▌  
+	─█───────────▀▀▀──────▀▀██──█  
+	─▐▌────▄─────────────▌──────█  
+	──▐▌──▐──────────────▀▄─────█  
+	───█───▌────────▐▀────▄▀───▐▌  
+	─I─▐▌──▀▄──K──────▀─L▀─▀▀N───▄O▀  
+	───▐▌──▐▀▄────────────────█  
+	─P─▐▌───▌─▀▄Q────▀▀S▀▀▀─T──█U  
+	───█───▀────▀▄──────────▄▀  
+	──▐▌──────────▀▄──────▄▀  
+	─V▄▀───▄▀───W─────▀X▀▀█Y▀───Z  
+	▀───▄▀──────────▀───▀▀▀▀▄▄▄▄▄  
+  
+		lcyBiZXlvbmQgdGhlIGhvcml6b24uCkV2ZXJ5IHRpbWUgS  
+  
+	***
+		scrambled text  + base64  
+		TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
+		SBwZW9wbGUgc2VlIHRvIHRoZSBob3Jpem9uLCB3aGlsZSBvdG  
+		hlcnMgc2VlIGJleW9uZCB0aGUgaG9yaXpvbi4KSSByZWFsbH  
+		kgYXNwaXJlIHRvIGJlY29tZSB0aGF0IHBlcnNvbiB3aG8gc2V   
+		lcyBiZXlvbmQgdGhlIGhvcml6b24uCkV2ZXJ5IHRpbWUgS  
+		  
+		Mankind is built in such a way that some people see to the horizon, while others see beyond the horizon.  
+		I really aspire to become that person who sees beyond the horizon.    
+		Every time     
+
+  
+
+	* note2 
+	
+	SBtYW5hZ2UgdG8gZ2V0IGNsb3NlIHRvIHRoZSBob3J  <br>
+	They told me today that if I don't start working, I'll get fired.  <br>
+	pem9uLCBtb3JlIGFuZCBtb3JlIGRldGFpbHMgYXJl I just feel so empty right now.  <br>
+	Wanted to just lie on the couch, but decided to draw a little.  <br>
+	Showed it to my coworkers, but they didn't like it. IHJldmVhbGVkIHRvIG1lLgpBbmQgdGhlc2Ug  <br>
+	&nbsp;&nbsp;██▄▄▄▄▄▄▄▄▄&nbsp;&nbsp;  <br>
+	&nbsp;&nbsp;▒▒▒▒▒▒▒▒▒▒▓██&nbsp;&nbsp;  <br>
+	&nbsp;&nbsp;▀▀▒▒▒▀▀▒▒▒▓▓▓▓█&nbsp;  <br>
+	&nbsp;▄▄▄▒▒░&nbsp;&nbsp;░░▒▒▒▓█&nbsp;  <br>
+	&nbsp;▀▀▀▒▄▄▄&nbsp;&nbsp;░░▒▒▒▓█&nbsp;  <br>
+	&nbsp;&nbsp;█▄░&nbsp;&nbsp;░░▒▒▒▒▓▓█&nbsp;  <br>
+	&nbsp;&nbsp;▀█▄▄▄▄▄▄▄▄▄▀▀&nbsp;  <br>
+	
+	---
+		scrambled text  + base64  
+		SBtYW5hZ2UgdG8gZ2V0IGNsb3NlIHRvIHRoZSBob3J 
+		pem9uLCBtb3JlIGFuZCBtb3JlIGRldGFpbHMgYXJl 
+		IHJldmVhbGVkIHRvIG1lLgpBbmQgdGhlc2Ug
+		  
+		i manage to get close to the horizon, more and more details are revealed to me.  
+		And these
+	
+	* note3
+	
+	ZGV0YWlscyBhcmUgd29ydGggc2hv Before I got fired, I thought I'd see what my boss was doing.  
+	d2luZywgaXQncyBpbXBvcn Caught a glimpse of his username and password.  
+	RhbnQgdG8gcmVhY2gg But I should probably keep it to myself.  
+	Maybe I'll leak it to someone later. Overseers you are assholes.  
+	I DON'T GIVE A SHIT THAT YOU READ MY NOTES!    
+	dGhlIGhvcml6b24gdG    
+	9nZXRoZXIu
+	
+	---
+		scrambled text  + base64   
+		ZGV0YWlscyBhcmUgd29ydGggc2hv
+		d2luZywgaXQncyBpbXBvcn
+		RhbnQgdG8gcmVhY2gg
+		dGhlIGhvcml6b24gdG
+		9nZXRoZXIu
+		details are worth showing, it's important to reach the horizon together.
+	* note1-3
+	
+	Mankind is built in such a way that some people see to the horizon, while others see beyond the horizon. <br>
+	I really aspire to become that person who sees beyond the horizon. <br>
+	Every time i manage to get close to the horizon, more and more details are revealed to me. <br>
+	And these details are worth showing, it's important to reach the horizon together. <br>
 
 
-* for_you
+
+
