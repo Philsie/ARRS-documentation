@@ -115,8 +115,8 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		Truth, which is often not visi  
 * dir
 	* task.exe
-   		 TASK MANAGEMENT  
-  
+   		TASK MANAGEMENT  
+    
 		Task 1: Parse all project documents with the DELETED key  
 		Status: Not completed  
 		  
