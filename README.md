@@ -24,7 +24,9 @@
 
   * pic.link  
   
-	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n
+	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n  
+  
+	Being your slave, what should I do but tend  --> Sonnet 57 - Shakespear
 		
   
 	Trash can foto  
