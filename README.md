@@ -142,19 +142,19 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		  
 		Status: Completed  
   
-***
+		***
   
-	NAQMCRMECLWRHLPAHEUFCLWR  
- 	+   
-	R E M B A  
-	C D F G H  
-	I K L N O  
-	P Q S T U  
-	V W X Y Z  
-  
-	from note1 using playfair cipher -->   OBSERVERFIVEFOURDASHFIVE
-
-	## OBSERVERFIVEFOURDASHFIVE  / observer54-5 ##  
+			NAQMCRMECLWRHLPAHEUFCLWR  
+		 	+   
+			R E M B A  
+			C D F G H  
+			I K L N O  
+			P Q S T U  
+			V W X Y Z  
+		  
+			from note1 using playfair cipher -->   OBSERVERFIVEFOURDASHFIVE
+		
+			## OBSERVERFIVEFOURDASHFIVE  / observer54-5 ##  
    
 * notes
 	* note1
