@@ -84,13 +84,13 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 * notes
 	* for_you
   
-	Saw my hint to drop by here? Awesome. Curiosity is a great trait of yours. I'm glad you're keeping up with your progress and sharing your information with everyone.  
-  
-	But all right, let's cut to the chase.&nbsp;  
-  
-	A guy who owes me sent some interesting photos before he was caught. We need to capitalize on the situation before it gets shut down.  
-  
-	Mr. Kerman  
+		Saw my hint to drop by here? Awesome. Curiosity is a great trait of yours. I'm glad you're keeping up with your progress and sharing your information with everyone.  
+	  
+		But all right, let's cut to the chase.&nbsp;  
+	  
+		A guy who owes me sent some interesting photos before he was caught. We need to capitalize on the situation before it gets shut down.  
+	  
+		Mr. Kerman  
 
 # observer33-4:098712345  
 * dir
