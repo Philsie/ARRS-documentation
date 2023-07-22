@@ -65,11 +65,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
      Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of __098712345__
 
     * Scrabled text --> base64
-      VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdGhlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMuVGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg
-      The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.
-      VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4
+      VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdGhlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMuVGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg  
+      The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.  
+      VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4  
       The more you see cycles, the more you see boundaries.
-      The more you see boundaries, the more you want to go beyond them..  
+      The more you see boundaries, the more you want to go beyond them..
+  
+    	The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.
+  	The more you see cycles, the more you see boundaries.
+	The more you see boundaries, the more you want to go beyond them..  
       
 
 
