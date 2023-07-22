@@ -137,8 +137,9 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	## OBSERVERFIVEFOURDASHFIVE  / observer54-5 ##  
    
 * notes
-	* note1   
-		TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
+	* note1
+     
+	TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
 	Been given a lot of tasks. SBwZW9wbGUgc2VlIHRvIHRoZSBob3Jpem9uLCB3aGlsZSBvdG  
 	Don't want to do them. hlcnMgc2VlIGJleW9uZCB0aGUgaG9yaXpvbi4KSSByZWFsbH Failed so many inspections that the fines are higher than my paycheck now. I feel like this guy in the pic when I look at my bank account. kgYXNwaXJlIHRvIGJlY29tZSB0aGF0IHBlcnNvbiB3aG8gc2V At this rate I'm not gonna have enough money to buy myself that fancy P square.  
 	───────▄▀▀▀▀▀▀▀▀▀▀▄▄  
