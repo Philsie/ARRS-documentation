@@ -93,6 +93,26 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		Mr. Kerman  
 
 # observer33-4:098712345  
+* user
+	Login: observer33-4  
+	Access level: observer  
+	Name: James Torwind  
+	Status: Not Active  
+	  
+	Description:  
+	SWYgeW91IGxvb2sgZnJvbSB0aGUgb3V0c2lkZSwgbW92aW5nIGFzIGZhciBhcyBwb3NzaWJsZSwgdGhlbiBhIGxpdHRsZSB0cnV0aCBpcyByZXZlYWxlZC4KVHJ1dGgsIHdoaWNoIGlzIG9mdGVuIG5vdCB2aXNp  
+	Default user for ARRS terminal.&nbsp;  
+	
+	Notes: User's position has been suspended. Contract not renewed. Reason: Evasion of duties, Project sabotage.  
+	YmxlIGlmIHlvdSB0cnkgdG8gbG9vayB1cC4KRnJvbSBiZWxvdywgeW91IG9ubHkgc2VlIHdoYXQgZ2V0cyBpbiB5b3VyIHdheS4KRnJvbSBhYm92ZSwgeW91IHNlZSBldmVyeXRoaW5nLCBldmVuIHNtYWxsIGRldGFpbHMuLi4K
+	  
+ 	***
+  		scrambled text  + base64
+  		SWYgeW91IGxvb2sgZnJvbSB0aGUgb3V0c2lkZSwgbW92aW5nIGFzIGZhciBhcyBwb3NzaWJsZSwgdGhlbiBhIGxpdHRsZSB0cnV0aCBpcyByZXZlYWxlZC4KVHJ1dGgsIHdoaWNoIGlzIG9mdGVuIG5vdCB2aXNp
+  		YmxlIGlmIHlvdSB0cnkgdG8gbG9vayB1cC4KRnJvbSBiZWxvdywgeW91IG9ubHkgc2VlIHdoYXQgZ2V0cyBpbiB5b3VyIHdheS4KRnJvbSBhYm92ZSwgeW91IHNlZSBldmVyeXRoaW5nLCBldmVuIHNtYWxsIGRldGFpbHMuLi4K  
+  		The more you see boundaries, the more you want to go beyond them..  
+  		If you look from the outside, moving as far as possible, then a little truth is revealed.
+		Truth, which is often not visi  
 * dir
 	* task.exe
    		 TASK MANAGEMENT  
