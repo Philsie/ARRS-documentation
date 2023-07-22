@@ -228,9 +228,9 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	Every time i manage to get close to the horizon, more and more details are revealed to me. <br>
 	And these details are worth showing, it's important to reach the horizon together. <br>
    
-  * WIP  
-    galx3 and 6.62607015x10^-34JxHz^-1  
-    observer54-5  
+# WIP  
+galx3 and 6.62607015x10^-34JxHz^-1  
+observer54-5  
 
 
 
