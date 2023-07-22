@@ -26,7 +26,7 @@
   
 	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n  
   
-	Trashcan foto  
+	Trash can foto  
   
 	l: galx3  
 	p: 6.62 ~607015x~ 10^-34JxHz^-1  	--> planck constant  
