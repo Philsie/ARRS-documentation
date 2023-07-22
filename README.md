@@ -114,7 +114,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
   		If you look from the outside, moving as far as possible, then a little truth is revealed.
 		Truth, which is often not visi  
 * dir
-	* task.exe
+	* task.exe  
    		TASK MANAGEMENT  
     
 		Task 1: Parse all project documents with the DELETED key  
