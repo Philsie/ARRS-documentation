@@ -61,9 +61,9 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 < - end of file - >  
 
    ---
-  	  2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---> Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099
-    	 Login: 728dec3865ffbdf7905b24d093ad7987095227d2 --> sha1 of __observer33-4__  
-  	   Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of __098712345__
+  	 	2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---> Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099
+  		Login: 728dec3865ffbdf7905b24d093ad7987095227d2 --> sha1 of observer33-4  
+  		Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of 098712345
 
 
 		## new login: observer33-4 | 098712345 ##  
