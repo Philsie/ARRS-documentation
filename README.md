@@ -730,8 +730,7 @@ Whoever can get to the end first wins. Depending on which region the winner is f
    		desolation -H485U  <br>
    		<- end of file ->  <br>
    	
-	* RE(1):CODE_v.1.3.414-4.grf  
- 		<- file ->  <br>
+	* RE(1):CODE_v.1.3.414-4.grf    <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
 		"Color": "White",  <br>
@@ -747,28 +746,26 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED",  <br>
-   		<- end of file ->  <br>
 
- 	* RE(2):CODE_v.1.3.414-4.grf   
-		"Language":"en", "Visibility?":
-		"Color": "White",
-		"Type": "Default",
-		Yes",
-		"Scope": "Default",
-		"Field": 75,
-		"Empty": true,
-		"SetAffinityToLogical Cores": true,
-		"Preload": false,
-		"Group": false,
-		"Fun": true,
-		"Count": 100,
-		"DELETED": "DELETED",
-		"DELETED":
-		"UGFzc3dvcmQ6IEpqZTØya3N4a2sycDsx",
-		"DELETED": "DELETED",
-     
-   	* RE(3):CODE_v.1.3.414-4.grf  
- 		<- file ->  <br>
+	* RE(2):CODE_v.1.3.414-4.grf     <br>
+		"Language":"en", "Visibility?":  <br>
+		"Color": "White",  <br>
+		"Type": "Default",  <br>
+		Yes",  <br>
+		"Scope": "Default",  <br>
+		"Field": 75,  <br>
+		"Empty": true,  <br>
+		"SetAffinityToLogical Cores": true,  <br>
+		"Preload": false,  <br>
+		"Group": false,  <br>
+		"Fun": true,  <br>
+		"Count": 100,  <br>
+		"DELETED": "DELETED",  <br>
+		"DELETED":  <br>
+		"UGFzc3dvcmQ6IEpqZTØya3N4a2sycDsx",  <br>
+		"DELETED": "DELETED",  <br>
+	  	<br>
+	* RE(2):CODE_v.1.3.414-4.grf      <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
 		"Color": "White",  <br>
@@ -785,9 +782,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "DELETED":  <br>
 		"DELETED", "https://drive.google.com/drive/u/2/folders/1lmqWVjM83razI1w-cqGIejTt_QBAWAUS",    <br>
    		<- end of file ->  <br>
+     
 		---
 			I have no precious time at all to spend
 			see_it.png
+   	* report1-4  
+   	  	GAMECODE
+   	  
 * notes
 	* copy_message_1  <br>
  		 - Who granted you that nickname? The Supreme Admin?   <br>
