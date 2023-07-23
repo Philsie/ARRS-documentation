@@ -25,5 +25,8 @@ arksman / marksman
 2. https://www.dcode.fr/cipher-identifier
 3. https://www.boxentriq.com/
 4. https://cryptii.com  
-Affine - Vignere cipher 
+Affine - Vignere cipher  
+Playfair  
+base64  
+Rot24  
 
