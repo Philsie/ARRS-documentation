@@ -551,34 +551,35 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		48.886484, 2.337779  <br>
     		48.887044, 2.337854  <br>
       		
-	---
-		Paris
+	
+		Paris - https://www.mapcustomizer.com/map/observer54-5_coords_Paris
     			
+	---
  	*  2.reg
     		  <br>  
  		34.049222, -118.241222  <br>	 	
 		34.047669, -118.239298  <br>
     		34.049587, -118.241262  <br>
   		
+		Los Angeles - https://www.mapcustomizer.com/map/observer54-5_coords_LosAngels
 	---
-		Los Angeles
 	*  3.reg
    		  <br>  
  		59.832772, 30.418311  <br>	 	
 		59.828226, 30.422677  <br>
     		59.831672, 30.423335  <br>
       		
-	---
-		Saint Petersburg
-    
+		Saint Petersburg - https://www.mapcustomizer.com/map/observer54-5_coords_StPetersburg
+  
+  	---
 	*  4.reg  
 		  <br>
 		35.7028002, 139.7710296  <br>	 	
 		35.7032459, 139.7714779  <br>
 		35.702038 , 139.767891  <br>
   		
+		Tokyo - https://www.mapcustomizer.com/map/observer54-5_coords_Tokyo
 	---
-		Tokyo
 * notes  
   	* info
   	  	﻿
