@@ -755,7 +755,10 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED":  <br>
 		"DELETED", "https://drive.google.com/drive/u/2/folders/1lmqWVjM83razI1w-cqGIejTt_QBAWAUS",    <br>
-   		<- end of file ->  <br>	 
+   		<- end of file ->  <br>
+		---
+			I have no precious time at all to spend
+			see_it.png
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
