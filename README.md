@@ -520,6 +520,28 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		It is much worse when such people get power.
 
 # observer54-5:rtuihfij34fi23poetgy3wed23sdc2125
+* user  
+	  <br>﻿
+	Login: observer54-5  <br>
+	Access level: observer  <br>
+	Name: DELETED  <br>
+	Status: Not Active  <br>
+	Description:  <br>
+	DELETED  <br>
+  	<br>
+	Notes: DELETED  <br>
+	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicnVhayB8aGlzIHZpY2lvdXMgY2lyY2x1PwpBIG51dy B2 awNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB8aGlzIGNpcmNsZSB8aGVyZSB3aWxsIGJlIG1venUgYW5kIG1vcnUucly
+	udGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ci BuYXR1cmUuLi4K  <br>
+
+ ---
+ 	scrambled text  + base64  
+  	
+ 	What awaits us when we break this vicious circle?
+	A new vicious circle awaits us.
+	Behind this circle there will be more and more.
+	Until we achieve freedom from our nature...
+
+
 * dir
 	*  1.reg
  		  <br>
