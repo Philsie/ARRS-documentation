@@ -1,4 +1,7 @@
-# revizor:greenJNefimpo2334  
+| User         | Password                          | Level    | Status     | Name          |  
+|--------------|-----------------------------------|----------|------------|---------------|    
+| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | 
+
 * user  
 	Login: seeker  <br>
 	Access level: observer Name: confidential Status: Active  <br>
