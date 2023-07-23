@@ -533,15 +533,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicnVhayB8aGlzIHZpY2lvdXMgY2lyY2x1PwpBIG51dy B2 awNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB8aGlzIGNpcmNsZSB8aGVyZSB3aWxsIGJlIG1venUgYW5kIG1vcnUucly
 	udGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ci BuYXR1cmUuLi4K  <br>
 
- ---
- 	scrambled text  + base64  
-
-	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicmVhayB0aGlzIHZpY2lvdXMgY2lyY2xlPwpBIG5ldyB2aWNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB0aGlzIGNpcmNsZSB0aGVyZSB3aWxsIGJlIG1vcmUgYW5kIG1vcmUuClVudGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ciBuYXR1cmUuLi4K
-   
- 	What awaits us when we break this vicious circle?
-	A new vicious circle awaits us.
-	Behind this circle there will be more and more.
-	Until we achieve freedom from our nature...
+	 ---
+	 	scrambled text  + base64  
+	
+		V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicmVhayB0aGlzIHZpY2lvdXMgY2lyY2xlPwpBIG5ldyB2aWNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB0aGlzIGNpcmNsZSB0aGVyZSB3aWxsIGJlIG1vcmUgYW5kIG1vcmUuClVudGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ciBuYXR1cmUuLi4K
+	   
+	 	What awaits us when we break this vicious circle?
+		A new vicious circle awaits us.
+		Behind this circle there will be more and more.
+		Until we achieve freedom from our nature...
 
 
 * dir
@@ -592,77 +592,77 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		Mr. Kerman
 
 	* img
-   	---
-   		|	Y~YY7?                               ?7?J7? J7?J?? Y!JJ?7         .J^BP~7   
-  		|    J^JY~J                               ?^JP~J ///1\\\ ^55~J          ?~!!!~   
-  		|    ~7~~!^                               ~!((((18-5-19-20)~~^          77!77~   
-  		|    ?!?Y7?                                      ^!~~~~                 J^PP~J   
-  		|    ?~?5~J.                                     7!JB7J.                7!!!!!   
-  		|    :~^^^:                                      !7!7~?.                 ....    
-  		|                                          ~7~!!7 .... ~?!7!?                    
-  		|                                          7!?B7J.     !!7G7J:                   
-  		|                                          ~7~!~7.     ^7~!~!.                   
-  		|                                           ....                        ..  .    
-  		|    ~^^^~:                                                            .J!J??^   
-  		|    Y^P57?                                                            .J^PJ!7   
-  		|    J^?7~7                                                             7!~~!:   
-  		|    !7!!!^                                                             J!??77   
-  		|    ?~YP!J                                                             J^5P~J   
-  		|    7!!?~?.                                                            ~!~~~^   
-  		|    ^!~~!^                                                             7!777!   
-  		|    7!?P7J.                                                            J^YG~J   
-  		|    7!7J~J.             ?!!77!                                         !!~!~!   
-  		|    .^^:^:              J^5G~J                                                  
-  		|                        !!~!~!                                                  
-  		|                 :^:::: :^::^. ^^::^.                                           
-  		|                 ?!JP7J ///2\\\ Y~57?                                           
-  		|                 //(20-18-21-19-20)//                                          
-  		|    :^::^:       :^^^^: :~^^^: :^::^.                                  77!777   
-  		|    77?P7J.             !7!?!?                                         ?~JG~J.  
-  		|    !7!J~?:             7!?G!J:                                        ~!~~~~   
-  		|    .!~^~^         .. . ^7~~~!.:....                                   ~7~!!!   
-  		|    ~?!Y7J.       !?7J7J      !?757J.                                  7!JB7J.  
-  		|    ~7!P7?^       !!7P!J:     !7!5!?^                                  ~7~7~7.  
-  		|    :7!~!!.       :!~~~~.     .~^^^^                                   ~?!!7!   
-  		|    ~?!Y7J.                                                            7~JB!J.  
-  		|    ~7!P7?^                                                            ~7!7~7.  
-  		|    .!^^^^.                                                             ....    
-  		|
-  		|
-  		|
-  		|
-  		|     .....                                                             :7~~~!.
-   		|    :Y!Y?J^                                                            ~77B??^  
-   		|    :J^P?!!                                                            ^?~7~7^  
-   		|    .7!~~~.                                                            :7!~!!   
-   		|    :J!J7?:                                                            ~?7G??^  
-   		|    :J^PJ7!                                                            ^?~7!7^  
-   		|    .7~~~~:                                                            .!~~~~   
-   		|    :?~7!?:                                                            ~?7P?J:
-   		|    :J~GJ7!                                                            ^?~J!?^  
-   		|    .?~!~!^                                           .....             ^^:::   
-   		|                          7!~!!^                      J!?J7?                    
-   		|                          J^PP!J                      J^YP~J                    
-   		|                          ?~!!~!                      ^~^^~^                    
-   		|                   .:..:. .^:::  ::..:.        ^~^^~~ ^~^^~^ !~^~~^     ~^^^~.  
-   		|     J!777!        ?^JP~J ///3\\\ ^55~J        ?^JP~J ///4\\\ ^55~J    .Y~PY7!  
-   		|     J:PP~J        /////(12-1-13-1)////        (15-18-16-8-5-21-19)    .J^?7!!  
-   		|     7!~~!~        ^~^^^^ ^~^^~: ^~^^^:         ::.:. .~^^^: .:...      77!!7:  
-   		|     ?77?77               !7!7!7                      !?7Y7J.           Y^5P!?  
-   		|     ?^YP~J               7~JG!J.                     !7!5!?:           ?~7?~?  
-   		|     !7~~!~               ~7~!~!.....           .^::::.~^^^^:~^:^^      !7!!7:  
-   		|     ?77?77         !7!?7?      !?7J7J.         !?7P7J.     ~?7G?J:     Y^5P!?  
-   		|     ?^YP~J         7~?G!J.     !!7P!J:         ~7!Y!?^     ~?~J!?^     J~??~?  
-   		|     ~!~~~~         ^7~~~!.     :!~~~~.         .~^^^:       ^::::      .::::   
-   		|
-
-  		18-5-19-20 REST
-
-  		20-18-21-19-20 TRUST
-
-  		12-1-13-1 LAMA
-
-  		15-18-16-8-5-21-19 ORPHEUS
+	   	---
+	   		|    Y~YY7?                               ?7?J7? J7?J?? Y!JJ?7         .J^BP~7   
+	  		|    J^JY~J                               ?^JP~J ///1\\\ ^55~J          ?~!!!~   
+	  		|    ~7~~!^                               ~!((((18-5-19-20)~~^          77!77~   
+	  		|    ?!?Y7?                                      ^!~~~~                 J^PP~J   
+	  		|    ?~?5~J.                                     7!JB7J.                7!!!!!   
+	  		|    :~^^^:                                      !7!7~?.                 ....    
+	  		|                                          ~7~!!7 .... ~?!7!?                    
+	  		|                                          7!?B7J.     !!7G7J:                   
+	  		|                                          ~7~!~7.     ^7~!~!.                   
+	  		|                                           ....                        ..  .    
+	  		|    ~^^^~:                                                            .J!J??^   
+	  		|    Y^P57?                                                            .J^PJ!7   
+	  		|    J^?7~7                                                             7!~~!:   
+	  		|    !7!!!^                                                             J!??77   
+	  		|    ?~YP!J                                                             J^5P~J   
+	  		|    7!!?~?.                                                            ~!~~~^   
+	  		|    ^!~~!^                                                             7!777!   
+	  		|    7!?P7J.                                                            J^YG~J   
+	  		|    7!7J~J.             ?!!77!                                         !!~!~!   
+	  		|    .^^:^:              J^5G~J                                                  
+	  		|                        !!~!~!                                                  
+	  		|                 :^:::: :^::^. ^^::^.                                           
+	  		|                 ?!JP7J ///2\\\ Y~57?                                           
+	  		|                 //(20-18-21-19-20)//                                          
+	  		|    :^::^:       :^^^^: :~^^^: :^::^.                                  77!777   
+	  		|    77?P7J.             !7!?!?                                         ?~JG~J.  
+	  		|    !7!J~?:             7!?G!J:                                        ~!~~~~   
+	  		|    .!~^~^         .. . ^7~~~!.:....                                   ~7~!!!   
+	  		|    ~?!Y7J.       !?7J7J      !?757J.                                  7!JB7J.  
+	  		|    ~7!P7?^       !!7P!J:     !7!5!?^                                  ~7~7~7.  
+	  		|    :7!~!!.       :!~~~~.     .~^^^^                                   ~?!!7!   
+	  		|    ~?!Y7J.                                                            7~JB!J.  
+	  		|    ~7!P7?^                                                            ~7!7~7.  
+	  		|    .!^^^^.                                                             ....    
+	  		|
+	  		|
+	  		|
+	  		|
+	  		|     .....                                                             :7~~~!.
+	   		|    :Y!Y?J^                                                            ~77B??^  
+	   		|    :J^P?!!                                                            ^?~7~7^  
+	   		|    .7!~~~.                                                            :7!~!!   
+	   		|    :J!J7?:                                                            ~?7G??^  
+	   		|    :J^PJ7!                                                            ^?~7!7^  
+	   		|    .7~~~~:                                                            .!~~~~   
+	   		|    :?~7!?:                                                            ~?7P?J:
+	   		|    :J~GJ7!                                                            ^?~J!?^  
+	   		|    .?~!~!^                                           .....             ^^:::   
+	   		|                          7!~!!^                      J!?J7?                    
+	   		|                          J^PP!J                      J^YP~J                    
+	   		|                          ?~!!~!                      ^~^^~^                    
+	   		|                   .:..:. .^:::  ::..:.        ^~^^~~ ^~^^~^ !~^~~^     ~^^^~.  
+	   		|     J!777!        ?^JP~J ///3\\\ ^55~J        ?^JP~J ///4\\\ ^55~J    .Y~PY7!  
+	   		|     J:PP~J        /////(12-1-13-1)////        (15-18-16-8-5-21-19)    .J^?7!!  
+	   		|     7!~~!~        ^~^^^^ ^~^^~: ^~^^^:         ::.:. .~^^^: .:...      77!!7:  
+	   		|     ?77?77               !7!7!7                      !?7Y7J.           Y^5P!?  
+	   		|     ?^YP~J               7~JG!J.                     !7!5!?:           ?~7?~?  
+	   		|     !7~~!~               ~7~!~!.....           .^::::.~^^^^:~^:^^      !7!!7:  
+	   		|     ?77?77         !7!?7?      !?7J7J.         !?7P7J.     ~?7G?J:     Y^5P!?  
+	   		|     ?^YP~J         7~?G!J.     !!7P!J:         ~7!Y!?^     ~?~J!?^     J~??~?  
+	   		|     ~!~~~~         ^7~~~!.     :!~~~~.         .~^^^:       ^::::      .::::   
+	   		|
+	
+	  		18-5-19-20 REST
+	
+	  		20-18-21-19-20 TRUST
+	
+	  		12-1-13-1 LAMA
+	
+	  		15-18-16-8-5-21-19 ORPHEUS
   		
 	* 1  
  		01101001 01101001 01101110 01100010 01110001 01110011 01101010  
