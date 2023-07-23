@@ -831,7 +831,17 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 	Notes: Have a Vision.  <br>
 * dir
 	*  	
-  
+# Pword currently not used 
+	arksman / marksman
+
+# Decoders / Ciphers used
+	1. https://gchq.github.io/CyberChef/
+ 	2. https://www.dcode.fr/cipher-identifier
+  	3. https://www.boxentriq.com/
+   	4. https://cryptii.com
+    Affine - Vignere cipher 
+    
+   
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
