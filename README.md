@@ -473,8 +473,8 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	https://drive.google.com/drive/u/2/folders/1gpzfi1Y4saWQ4PfHEjIRK5uw-z6S6UUd  <br>
 	< - end of file ->  <br>
 
- 	---
-  		Hint to Rot23 after color correction  
+	 	---
+	  		Hint to Rot23 after color correction  
 
 * notes  
 	* fired  
