@@ -786,6 +786,8 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		---
 			I have no precious time at all to spend
 			see_it.png
+   			hint for Base64
+   
    	* report1-4  
    	  	GAMECODE
    	  
