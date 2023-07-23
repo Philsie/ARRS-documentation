@@ -9,9 +9,10 @@ State: 07/23/2023 4:05AM UTC+3
 | observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | 
 | revizor      | greenJNefimpo2334                 | ?        | ?          | ?             | 
 | marzqiz      | redKL3245pfvkl3j4                 | ?        | ?          | ?             | 
-| bake         | blueJuih4ol23ik1                  | ?        | ?          | ?             | 
+| baker        | blueJuih4ol23ik1                  | observer | Active     | Mike          |  
 | lemondeep    | ?                                 | ?        | ?          | ?             | 
 | observer93-5 | Jje=2ksxkk2p;1                    | ?        | ?          | ?             |
+| minerva      | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        |
 
   
 # defaultuser:123456test
