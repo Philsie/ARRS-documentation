@@ -6,7 +6,11 @@ State: 07/23/2023 4:05AM UTC+3
 | defaultuser  | 123456test                        | observer | Active     | System user   |  
 | observer33-4 | 098712345                         | observer | Not Active | James Torwind |  
 | galgalgal    | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    |  
-| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       |
+| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | 
+| revizor      | greenJNefimpo2334                 | ?        | ?          | ?             | 
+| marzqiz      | redKL3245pfvkl3j4                 | ?        | ?          | ?             | 
+| bake         | blueJuih4ol23ik1                  | ?        | ?          | ?             | 
+| lemondeep    | ?                                 | ?        | ?          | ?             | 
 
   
 # defaultuser:123456test
