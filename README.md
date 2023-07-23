@@ -411,6 +411,9 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	https://drive.google.com/drive/u/2/folders/1gpzfi1Y4saWQ4PfHEjIRK5uw-z6S6UUd  <br>
 	< - end of file ->  <br>
 
+ 	---
+  		Hint to Rot23 after color correction  
+
 * notes  
 	* fired  
   		QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N
