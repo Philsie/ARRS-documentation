@@ -553,6 +553,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
       		
 		---
 			Paris - https://www.mapcustomizer.com/map/observer54-5_coords_Paris
+			https://drive.google.com/drive/u/0/folders/1tOrV-0BCchrvcp3Avv9euWQ0ELqpgnZj
     			
 	
  	*  2.reg
