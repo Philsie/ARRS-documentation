@@ -697,6 +697,18 @@ Whoever can get to the end first wins. Depending on which region the winner is f
   	  	  	lemondeep   
   	  	  	
 # marzqiz : redKL3245pfvkl3j4
+* user  
+	Login: marzqiz  <br>
+	Access level: observer  <br>
+	Name: System user  <br>
+	Status: Active  <br>
+	  <br>
+	Description:  <br>
+	DELETED  <br>
+	  <br>
+	Notes:  <br>
+	DELETED  <br>
+  		
 * dir
 	* 1.report
  		<- file ->  <br>
@@ -712,14 +724,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
  		<- file ->  <br>
    		nothingness -27P1T  <br>
    		<- end of file ->  <br>
-
    	
 	* 4.report
  		<- file ->  <br>
    		desolation -H485U  <br>
    		<- end of file ->  <br>
    	
-	* RE(1):CODE_v.1.3.414-4.grf
+	* RE(1):CODE_v.1.3.414-4.grf  
  		<- file ->  <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
@@ -737,8 +748,26 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED",  <br>
    		<- end of file ->  <br>
+
+ 	* RE(2):CODE_v.1.3.414-4.grf   
+		"Language":"en", "Visibility?":
+		"Color": "White",
+		"Type": "Default",
+		Yes",
+		"Scope": "Default",
+		"Field": 75,
+		"Empty": true,
+		"SetAffinityToLogical Cores": true,
+		"Preload": false,
+		"Group": false,
+		"Fun": true,
+		"Count": 100,
+		"DELETED": "DELETED",
+		"DELETED":
+		"UGFzc3dvcmQ6IEpqZTØya3N4a2sycDsx",
+		"DELETED": "DELETED",
      
-   	* RE(2):CODE_v.1.3.414-4.grf
+   	* RE(3):CODE_v.1.3.414-4.grf  
  		<- file ->  <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
@@ -759,6 +788,26 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		---
 			I have no precious time at all to spend
 			see_it.png
+* notes
+	* copy_message_1  <br>
+ 		 - Who granted you that nickname? The Supreme Admin?   <br>
+		 - A while back you could choose your own nickname. I decided to go with something original, with a de Sade reference.  <br>
+		 - Is that a music band?  <br>
+		 - No, it's Marquis!  <br>
+		 - Ah okay. What's he about?  <br>
+		 - Read some of his work.  <br>
+		 - Nah, cba  <br>
+		 - Ok  <br>
+   	  
+  	* copy_message_2  <br>
+ 		 - Any plans for tonight?  <br>
+		 - We thought we'd grab a drink with a couple colleagues. Wanna come?  <br>
+		 - Where to?   <br>
+		 - I'm thinking the AT  <br>
+		 - Huh?  <br>
+		 - Anonymous Society of Diligent Tasters.  <br>
+		 - Ohh, sure then, why not.  <br>
+		 - Then we'll meet where we usually do on these occasions.  <br>
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
