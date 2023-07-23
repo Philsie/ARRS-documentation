@@ -321,6 +321,20 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		RoZSBhbmNob3IuCldlIGFyZSB0b28gbG9uZyBtYXJraW5nIHRpbWUgYXQgdGhlIHRocmVzaG9sZCBvZiBvdXIgcmViaXJ0aC4K  <br>
 		< - end of file ->  <br>
 
+  		---
+			scrambled text (non corrupted)  + base64  
+			RHJvd25pbmcgaW4geW91ciBuYXR1cmUsIGl0IGlzIG 
+			ltcG9zc2libGUgdG8gcmVhY2ggdGhlIHN0YXRlIHdoZW4gdG
+			hpcyBuYXR1cmUgY2FuIGJlIHJlYm9ybi4KT25seSBtb3ZlbWVudCB3aWxsIHB
+			yb3ZpZGUgcGVvcGxlIHdpdGggZGVsaXZlcmFuY2UgZnJvbSB0aGlzIGFuY2hvci
+			4KQW55IG1lYW5zIG11c3QgYmUganVzdGlmaWVkIGJ5IGdldHRpbmcgcmlkIG9mIH
+			RoZSBhbmNob3IuCldlIGFyZSB0b28gbG9uZyBtYXJraW5nIHRpbWUgYXQgdGhlIHRocmVzaG9sZCBvZiBvdXIgcmViaXJ0aC4K
+			  
+			Drowning in your nature, it is impossible to reach the state when this nature can be reborn.
+			Only movement will provide people with deliverance from this anchor.
+			Any means must be justified by getting rid of the anchor.
+			We are too long marking time at the threshold of our rebirth.
+
  	* ARRS_NODE_423-7_2.log
 	    	< - file ->  <br>
 	    	< DATA CORRUPT > Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ  <br>
@@ -396,7 +410,48 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	< - file ->  <br>
 	https://drive.google.com/drive/u/2/folders/1gpzfi1Y4saWQ4PfHEjIRK5uw-z6S6UUd  <br>
 	< - end of file ->  <br>
-	
+
+* notes  
+	* fired  
+  		QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N
+  		James was finally fired, I was sick of redoing his work for him.
+  		pYmxlIHdheSBkb2VzIG5vdCBhbGxvdyB0byBnbyBmb3J3YXJkLgpUa Now there's more work, of course, but there's no need to get into his mindless notes or haphazard documentation parsing. GlzIGlzIHRoZSBuYXR1cmUgb2YgcGVvcGxlLCB0aGVpciB1bmNlcnRha
+
+	---
+		QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N
+		pYmxlIHdheSBkb2VzIG5vdCBhbGxvdyB0byBnbyBmb3J3YXJkLgpUa 
+		GlzIGlzIHRoZSBuYXR1cmUgb2YgcGVvcGxlLCB0aGVpciB1bmNlcnRha
+		
+		A trait of humanity that in every possible way does not allow to go forward.
+		This is the nature of people, their uncertal
+  	<br>
+
+  	* note_two  
+		 W50eSwgZmVhcnMsIHNpbnMuCkluIGV2ZXJ5IHBvc3NpYmxlIHdhe  <br>
+	          
+	    When digging through documentation, I constantly come across password-protected files, ciphers, symbols that may have a meaning. Why don't we simply write all the documentation in one place? We have a         very secure network. You can't just hack into it. What's the point of this? SB0aGVyZSBhcmUgcGVvcGxlIHdobyBlbGV2YXRlIHRoZWlyIG5h  <br>
+
+	---
+		W50eSwgZmVhcnMsIHNpbnMuCkluIGV2ZXJ5IHBvc3NpYmxlIHdhe
+		SB0aGVyZSBhcmUgcGVvcGxlIHdobyBlbGV2YXRlIHRoZWlyIG5h              
+		dHVyZSB0byBhbiBhYnNvbHV0ZS4KSXQgaXMgbXVjaCB3b3JzZ              
+		SB3aGVuIHN1Y2ggcGVvcGxlIGdldCBwb3dlci4K
+		
+		nty, fears, sins.
+		In every possible way there are people who elevate their nature to an absolute.
+		It is much worse when such people get power.
+
+	* for_you  
+		There's another very interesting photo for you in the files. Be sure to take a look at it. 
+		Mr. Kerman
+
+	* fired+note_two
+   	
+ 		A trait of humanity that in every possible way does not allow to go forward.
+		This is the nature of people, their uncertalnty, fears, sins.
+		In every possible way there are people who elevate their nature to an absolute.
+		It is much worse when such people get power.
+
 	
 # WIP  
 galx3 and 6.62607015x10^-34JxHz^-1  
