@@ -354,6 +354,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		< DATA CORRUPT > f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY  <br>
 		< - end of file ->  <br>
 
+		---
+			scrambled text (corrupted) 
+			Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ 
+			HelL7CHzR0TCcAGhgg9BWsDKSLJvnTWOdJq7tgIs
+			AYYfty5Tf5QLegJCm6uBHpeFFYNbfmIjfxIcpZU2
+			5RMjl8rVQDvqVsamV53wx7FTgYKhiyQY6wxvykCP
+			08Lgoquokq218vCugKqASgb6G15ygHARL7ZfUHnv
+			f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY
+
  	* ARRS_NODE_423-7_3.log
 	    	< - file ->  <br>
 	    	< DATA CORRUPT > IKhwWmTFeSfnC2p4vJ6cx2hdg9HS  <br>
@@ -413,6 +422,24 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		< DATA CORRUPT > JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6  <br>
 		< DATA CORRUPT > cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA  <br>
 		< - end of file ->  <br>
+
+      		  ---
+			scrambled text (corrupted) 
+			YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp 
+			w9B9nlfNrjgQmP2VLeYLLWsApiPJsYmgaHWMBkMx
+			oiNQueI63JDFDclw9otkSp83d1hdJrPIMbPEKMAh
+			3Q7kcesEl3wJkL1SWtF0GJ9rJF8rbDjhLhdssfVM
+			IpoWTD1r2NxClu4hTAf3exVu3SDnydhVMKaJTiM1
+			fYYl8urFocpC2fAafmNMAeiXhDJTJPzTBWLHsbXZ
+			Of0jkpRNEGxE3ksuruyYsN80uvoC0IBdPgwZxrXA
+    			HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE
+    			DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl
+    			Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii
+    			rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ
+    			37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w
+    			RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V
+    			JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6
+   			cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA
   		  
  	* ARRS_NODE_423-7_5.log  
 		< - file ->  <br>
