@@ -18,7 +18,14 @@ State: 07/24/2023 1:25AM UTC+3
 # For newest info check users/
 ---
 # Pword currently not used 
-arksman / marksman
+
+
+# Needs decoding / unused
+login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
+seeker <-- appeared in revizor - user<br>
+arksman / marksman <-- source ?<br>
+lxiuvtse <-- from analyst<br>
+
 
 # Decoders / Ciphers used  
 1. https://gchq.github.io/CyberChef/
