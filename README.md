@@ -14,7 +14,8 @@ State: 07/23/2023 4:05AM UTC+3
 | observer93-5 | Jje=2ksxkk2p;1                    | ?        | ?          | ?             |
 | minerva      | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        |
 
-  
+# For newest info check users/
+---
 # defaultuser:123456test
 
 * dir
