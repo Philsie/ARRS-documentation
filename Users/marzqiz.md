@@ -35,7 +35,8 @@
  		<- file ->  <br>
    		desolation -H485U  <br>
    		<- end of file ->  <br>
-   	
+   		<br>
+     
 	* RE(1):CODE_v.1.3.414-4.grf    <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
@@ -52,8 +53,8 @@
 		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED",  <br>
-  		---
-   			b2JzZXJ2ZXI5My01 --base64--> observer93-5
+	  		---
+	   			b2JzZXJ2ZXI5My01 --base64--> observer93-5
 
 	* RE(2):CODE_v.1.3.414-4.grf     <br>
 		"Language":"en", "Visibility?":  <br>
