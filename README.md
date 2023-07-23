@@ -273,7 +273,7 @@ Log: pw 98buh9o-nioin
   
 Reply: Wrong password  
   
-Log: pw 98buh9o---nioin  
+Log: pw 98buh9o—nioin  
 
     
 # Testing
