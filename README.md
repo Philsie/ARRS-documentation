@@ -831,8 +831,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 	Notes: Have a Vision.  <br>
 * dir
 	*  	
-# Pword currently not used 
+# Potential Pword
 	arksman / marksman
+ 	lxiuvtse
+  	CupKC4E
+   	
+  	
+  	
 
 # Decoders / Ciphers used
 	1. https://gchq.github.io/CyberChef/
