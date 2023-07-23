@@ -519,7 +519,42 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		In every possible way there are people who elevate their nature to an absolute.
 		It is much worse when such people get power.
 
-	
+# observer54-5:rtuihfij34fi23poetgy3wed23sdc2125
+* dir
+	*  1.reg
+ 		  <br>
+ 		48.886777, 2.338983  <br> 	
+		48.886484, 2.337779  <br>
+    		48.887044, 2.337854  <br>
+      		
+	---
+		Paris
+    			
+ 	*  2.reg
+    		  <br>  
+ 		34.049222, -118.241222  <br>	 	
+		34.047669, -118.239298  <br>
+    		34.049587, -118.241262  <br>
+  		
+	---
+		Los Angeles
+	*  3.reg
+   		  <br>  
+ 		59.832772, 30.418311  <br>	 	
+		59.828226, 30.422677  <br>
+    		59.831672, 30.423335  <br>
+      		
+	---
+		Saint Petersburg
+    
+	*  4.reg  
+		  <br>
+		35.7028002, 139.7710296  <br>	 	
+		35.7032459, 139.7714779  <br>
+		35.702038 , 139.767891  <br>
+  		
+	---
+		Tokyo
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
