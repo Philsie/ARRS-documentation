@@ -66,13 +66,7 @@
 	09:26:00 < CORRUPT DATA > kE9PSBPdXIgZW1wbG95ZWVycyBpbnNpc3QgdG8gYWN0IHNvb24= <br>
   
 	---
-  	//pw2:  ark <br>
-  	//dGdSBVU0VDIHd ??????? <br>
-	//l prepare a <br>
-	//operation <br>
-	// USEC will meet police <br>
-	//e need to act <br>
-	//orces with FSB at ma  <br>
-	//n office building= Aft <br>
-	//2 Tarkov government requeste <br>
-	//Our employeers insist to act soon <br>
+	  	Decoded Base 64:
+		Our employeers insist to act soon After Tarkov government requested USEC will meet police forces with FSB at main office building We need to act USEC will prepare an operation 
+		pw2: arksman
+
