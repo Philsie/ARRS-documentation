@@ -695,7 +695,28 @@ Whoever can get to the end first wins. Depending on which region the winner is f
   	  	* 4  
   	  	  	lemondeep   
   	  	  	
+# marzqiz : redKL3245pfvkl3j4
+* dir
+	* 1.report
+ 		<- file ->  <br>
+   		vacuum LK757  <br>
+   		<- end of file ->  <br>
+     
+   	* 2.report
+ 		<- file ->  <br>
+   		emptiness -1A6IB  <br>
+   		<- end of file ->  <br>
+     
+	* 3.report
+ 		<- file ->  <br>
+   		nothingness -27P1T  <br>
+   		<- end of file ->  <br>
+
    	
+	* 4.report
+ 		<- file ->  <br>
+   		desolation -H485U  <br>
+   		<- end of file ->  <br>	 
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
