@@ -5,9 +5,9 @@ State: 07/23/2023 4:05AM UTC+3
 |--------------|---------------------------|----------|------------|---------------|  
 | defaultuser  | 123456test                | observer | Active     | System user   |  
 | observer33-4 | 098712345                 | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015*10^−34J*Hz^−1  | ?        | ?          | Max Planck    |  
+| galgalgal    | 6.62607015*10^−34J*Hz^−1  | observer | Active     | Max Planck    |  
 | observer54-5 | ?                         | ?        | ?          | ?             |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
+
   
 # defaultuser:123456test
 
@@ -306,79 +306,106 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 
 * dir
 	* task.exe
-	TASK MANAGEMENT
-
-	Task 1: Parse the information on project YEJFE_2
-	Status: In process
-
-   	Task 2: Parse the project documentation for the Bunker application and its activation keys
-  	Status: Not completed
+		TASK MANAGEMENT
+	
+		Task 1: Parse the information on project YEJFE_2
+		Status: In process
+	
+	   	Task 2: Parse the project documentation for the Bunker application and its activation keys
+	  	Status: Not completed
 
   	* ARRS_NODE_423-7_1.log 
-  	< - file -> <br>
-	RHJvd25pbmcgaW4geW91ciBuYXR1cmUsIGl0IGlzIG  <br>
-	< DATA CORRUPT > PfqiQGfUWWUyYqsQ3gWbfYgWycqRHBDCekQg4Z9e  <br>
-	< DATA CORRUPT > 0FjX7vwro6xTLa1XLlRge5fet0P8sVsuIzomOsi7  <br>
-	ltcG9zc2libGUgdG8gcmVhY2ggdGhlIHN0YXRlIHdoZW4gdG  <br>
-	< DATA CORRUPT > 1Se6cSTF4qygcLOPikx1jevM3ouuQ1ycUXu0bvko  <br>
-	hpcyBuYXR1cmUgY2FuIGJlIHJlYm9ybi4KT25seSBtb3ZlbWVudCB3aWxsIHB  <br>
-	< DATA CORRUPT > i5yTPzZx1aPIYObWWnBS7QT7Dys8U3MiqMmn7XoD  <br>
-	yb3ZpZGUgcGVvcGxlIHdpdGggZGVsaXZlcmFuY2UgZnJvbSB0aGlzIGFuY2hvci  <br>
-	< DATA CORRUPT > jAiz6l16oVpqChdnGMsMF8Oygx9AxlxjUYbeB5Mi  <br>
-	4KQW55IG1lYW5zIG11c3QgYmUganVzdGlmaWVkIGJ5IGdldHRpbmcgcmlkIG9mIH  <br>
-	< DATA CORRUPT > ygcLOPikx1jevM3ouuQro6xTLa1XLlRge5fet0P  <br>
-	RoZSBhbmNob3IuCldlIGFyZSB0b28gbG9uZyBtYXJraW5nIHRpbWUgYXQgdGhlIHRocmVzaG9sZCBvZiBvdXIgcmViaXJ0aC4K  <br>
-	< - end of file ->  <br>
+	  	< - file -> <br>
+		RHJvd25pbmcgaW4geW91ciBuYXR1cmUsIGl0IGlzIG  <br>
+		< DATA CORRUPT > PfqiQGfUWWUyYqsQ3gWbfYgWycqRHBDCekQg4Z9e  <br>
+		< DATA CORRUPT > 0FjX7vwro6xTLa1XLlRge5fet0P8sVsuIzomOsi7  <br>
+		ltcG9zc2libGUgdG8gcmVhY2ggdGhlIHN0YXRlIHdoZW4gdG  <br>
+		< DATA CORRUPT > 1Se6cSTF4qygcLOPikx1jevM3ouuQ1ycUXu0bvko  <br>
+		hpcyBuYXR1cmUgY2FuIGJlIHJlYm9ybi4KT25seSBtb3ZlbWVudCB3aWxsIHB  <br>
+		< DATA CORRUPT > i5yTPzZx1aPIYObWWnBS7QT7Dys8U3MiqMmn7XoD  <br>
+		yb3ZpZGUgcGVvcGxlIHdpdGggZGVsaXZlcmFuY2UgZnJvbSB0aGlzIGFuY2hvci  <br>
+		< DATA CORRUPT > jAiz6l16oVpqChdnGMsMF8Oygx9AxlxjUYbeB5Mi  <br>
+		4KQW55IG1lYW5zIG11c3QgYmUganVzdGlmaWVkIGJ5IGdldHRpbmcgcmlkIG9mIH  <br>
+		< DATA CORRUPT > ygcLOPikx1jevM3ouuQro6xTLa1XLlRge5fet0P  <br>
+		RoZSBhbmNob3IuCldlIGFyZSB0b28gbG9uZyBtYXJraW5nIHRpbWUgYXQgdGhlIHRocmVzaG9sZCBvZiBvdXIgcmViaXJ0aC4K  <br>
+		< - end of file ->  <br>
 
  	* ARRS_NODE_423-7_2.log
-    	< - file ->  <br>
-    	< DATA CORRUPT > Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ  <br>
-	< DATA CORRUPT > HelL7CHzR0TCcAGhgg9BWsDKSLJvnTWOdJq7tgIs  <br>
-	< DATA CORRUPT > AYYfty5Tf5QLegJCm6uBHpeFFYNbfmIjfxIcpZU2  <br>
-	< DATA CORRUPT > 5RMjl8rVQDvqVsamV53wx7FTgYKhiyQY6wxvykCP  <br>
-	< DATA CORRUPT > 08Lgoquokq218vCugKqASgb6G15ygHARL7ZfUHnv  <br>
-	< DATA CORRUPT > f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY  <br>
-	< - end of file ->  <br>
+	    	< - file ->  <br>
+	    	< DATA CORRUPT > Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ  <br>
+		< DATA CORRUPT > HelL7CHzR0TCcAGhgg9BWsDKSLJvnTWOdJq7tgIs  <br>
+		< DATA CORRUPT > AYYfty5Tf5QLegJCm6uBHpeFFYNbfmIjfxIcpZU2  <br>
+		< DATA CORRUPT > 5RMjl8rVQDvqVsamV53wx7FTgYKhiyQY6wxvykCP  <br>
+		< DATA CORRUPT > 08Lgoquokq218vCugKqASgb6G15ygHARL7ZfUHnv  <br>
+		< DATA CORRUPT > f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY  <br>
+		< - end of file ->  <br>
 
  	* ARRS_NODE_423-7_3.log
-    	< - file ->  <br>
-    	< DATA CORRUPT > IKhwWmTFeSfnC2p4vJ6cx2hdg9HS  <br>
-    	< DATA CORRUPT > LDFYU5NXkTQ9AckQnKbDO9QptqR  <br>
-    	< DATA CORRUPT > GJVkp2EQGNyOO6PJy3F6NCdrNT1  <br>
-    	< DATA CORRUPT > 30t6eAMxDSwRHnTlAVOM6Tlu3OjR  <br>
-    	< DATA CORRUPT > 40t6eAMxDSwRHnTlAVOM6Tlu3OjR  <br>
-   	< DATA CORRUPT > PAFnQrA76o0rwzR7YHBlwwLFVKBl  <br>
-    	< DATA CORRUPT > 6j1PXKn2wMaJO5ZQ4t2CNmTHFJA  <br>
-    	< DATA CORRUPT > vL00lk2Nt5zwPqbk3ViMetBKGUYoH6  <br>
-    	< DATA CORRECT > oqrfecfg34cf23mlbqdv3tba23paz2125  <br>
-    	< DATA CORRUPT > xvQZvZS7F7zcDMnzrd2mHiSEghvb  <br>
-    	< DATA CORRUPT > 4WH28hN1yvqmg45rswKMsZQBdRl  <br>
-    	< DATA CORRUPT > 0rwzR7YHBlwwLF5NXkTQ9AckQnKb  <br>
-    	< DATA CORRUPT > RHnTlAVOM6ToKBUKFPh5QT0QvXL  <br>
-    	< DATA CORRUPT > 5NXkTQ9AckQnKbcDMnzrd2mHiSEg  <br>
-    	< DATA CORRUPT > 45rswKMsZQBdRlDmTFeSfnC2p4vJ6  <br>
-    	< - end of file ->  <br>
+	    	< - file ->  <br>
+	    	< DATA CORRUPT > IKhwWmTFeSfnC2p4vJ6cx2hdg9HS  <br>
+	    	< DATA CORRUPT > LDFYU5NXkTQ9AckQnKbDO9QptqR  <br>
+	    	< DATA CORRUPT > GJVkp2EQGNyOO6PJy3F6NCdrNT1  <br>
+	    	< DATA CORRUPT > 30t6eAMxDSwRHnTlAVOM6Tlu3OjR  <br>
+	    	< DATA CORRUPT > 40t6eAMxDSwRHnTlAVOM6Tlu3OjR  <br>
+	   	< DATA CORRUPT > PAFnQrA76o0rwzR7YHBlwwLFVKBl  <br>
+	    	< DATA CORRUPT > 6j1PXKn2wMaJO5ZQ4t2CNmTHFJA  <br>
+	    	< DATA CORRUPT > vL00lk2Nt5zwPqbk3ViMetBKGUYoH6  <br>
+	    	< DATA CORRECT > oqrfecfg34cf23mlbqdv3tba23paz2125  <br>
+	    	< DATA CORRUPT > xvQZvZS7F7zcDMnzrd2mHiSEghvb  <br>
+	    	< DATA CORRUPT > 4WH28hN1yvqmg45rswKMsZQBdRl  <br>
+	    	< DATA CORRUPT > 0rwzR7YHBlwwLF5NXkTQ9AckQnKb  <br>
+	    	< DATA CORRUPT > RHnTlAVOM6ToKBUKFPh5QT0QvXL  <br>
+	    	< DATA CORRUPT > 5NXkTQ9AckQnKbcDMnzrd2mHiSEg  <br>
+	    	< DATA CORRUPT > 45rswKMsZQBdRlDmTFeSfnC2p4vJ6  <br>
+	    	< - end of file ->  <br>
 
-       	* ARRS_NODE_423-7_4.log
-      	< - file ->  <br>
-	< DATA CORRUPT > YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp  <br>
-      	< DATA CORRUPT > w9B9nlfNrjgQmP2VLeYLLWsApiPJsYmgaHWMBkMx  <br>
-	< DATA CORRUPT > oiNQueI63JDFDclw9otkSp83d1hdJrPIMbPEKMAh  <br>
-    	< DATA CORRUPT > 3Q7kcesEl3wJkL1SWtF0GJ9rJF8rbDjhLhdssfVM  <br>
-	< DATA CORRUPT > IpoWTD1r2NxClu4hTAf3exVu3SDnydhVMKaJTiM1  <br>
-	< DATA CORRUPT > fYYl8urFocpC2fAafmNMAeiXhDJTJPzTBWLHsbXZ  <br>
-	< DATA CORRUPT > Of0jkpRNEGxE3ksuruyYsN80uvoC0IBdPgwZxrXA  <br>
-	< DATA CORRUPT > HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE  <br>
-	< DATA CORRUPT > DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl  <br>
-	< DATA CORRUPT > Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii  <br>
-	< DATA CORRUPT > rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ  <br>
-	< DATA CORRUPT > 37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w  <br>
-	< DATA CORRUPT > RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V  <br>
-	< DATA CORRUPT > JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6  <br>
-	< DATA CORRUPT > cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA  <br>
+	* ARRS_NODE_423-7_4.log  
+		< - file ->  <br>
+		< DATA CORRUPT > YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp  <br>
+		< DATA CORRUPT > w9B9nlfNrjgQmP2VLeYLLWsApiPJsYmgaHWMBkMx  <br>
+		< DATA CORRUPT > oiNQueI63JDFDclw9otkSp83d1hdJrPIMbPEKMAh  <br>
+		< DATA CORRUPT > 3Q7kcesEl3wJkL1SWtF0GJ9rJF8rbDjhLhdssfVM  <br>
+		< DATA CORRUPT > IpoWTD1r2NxClu4hTAf3exVu3SDnydhVMKaJTiM1  <br>
+		< DATA CORRUPT > fYYl8urFocpC2fAafmNMAeiXhDJTJPzTBWLHsbXZ  <br>
+		< DATA CORRUPT > Of0jkpRNEGxE3ksuruyYsN80uvoC0IBdPgwZxrXA  <br>
+		< DATA CORRUPT > HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE  <br>
+		< DATA CORRUPT > DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl  <br>
+		< DATA CORRUPT > Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii  <br>
+		< DATA CORRUPT > rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ  <br>
+		< DATA CORRUPT > 37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w  <br>
+		< DATA CORRUPT > RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V  <br>
+		< DATA CORRUPT > JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6  <br>
+		< DATA CORRUPT > cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA  <br>
+		< - end of file ->  <br>
+  		  
+ 	* ARRS_NODE_423-7_4.log  
+		< - file ->  <br>
+		04.07.2023 19:04:10 UTC +3 PasswordError: Data was corrupted, Attempt: 1  <br>
+		04.07.2023 19:04:18 UTC +3 PasswordError: Data was corrupted, Attempt: 2  <br>
+		04.07.2023 19:04:18 UTC +3 PasswordError: Data was corrupted, Attempt: 3  <br>
+		04.07.2023 19:04:18 UTC +3 PasswordError: Data was corrupted, Attempt: 4  <br>
+		04.07.2023 19:04:18 UTC +3 PasswordError: Data was corrupted, Attempt: 5  <br>
+		04.07.2023 19:05:01 UTC +3 PasswordError: Data was corrupted, Unit “password recorder” temporarily blocked  <br>
+		04.07.2023 19:05:09 UTC +3 PasswordError: Data was corrupted, Report to the admin immediately!  <br>
+		04.07.2023 19:05:09 UTC +3 Warning! 85% of memory used! Report to the tech team immediately!  <br>
+		04.07.2023 19:05:09 UTC +3 Warning! 90% of memory used! Report to the tech team immediately!  <br>
+		04.07.2023 19:05:09 UTC +3 Warning! 95% of memory used! Report to the tech team immediately!  <br>
+		04.07.2023 19:05:15 UTC +3 Error: 228 PasswordMove [Move] Use correct data  <br>
+		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
+		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
+		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
+		04.07.2023 19:06:15 UTC +3 Load: DELETED  <br>
+		04.07.2023 19:06:55 UTC +3 Trace source MAC: 21:c0:2345234ewrfv5432  <br>
+		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part1: DELETED  <br>
+		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part2: DELETED  <br>
+		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part3: DELETED  <br>
+		< - end of file ->  <br>
+		  
+	* alpha_case.png  
+	< - file ->  <br>
+	https://drive.google.com/drive/u/2/folders/1gpzfi1Y4saWQ4PfHEjIRK5uw-z6S6UUd  <br>
 	< - end of file ->  <br>
-
-    
+	
 	
 # WIP  
 galx3 and 6.62607015x10^-34JxHz^-1  
