@@ -382,7 +382,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	    	< DATA CORRUPT > 45rswKMsZQBdRlDmTFeSfnC2p4vJ6  <br>
 	    	< - end of file ->  <br>
 
-      		  ---
+		---
 			scrambled text (corrupted) 
 			IKhwWmTFeSfnC2p4vJ6cx2hdg9HS 
 			LDFYU5NXkTQ9AckQnKbDO9QptqR
@@ -391,15 +391,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 			40t6eAMxDSwRHnTlAVOM6Tlu3OjR
 			PAFnQrA76o0rwzR7YHBlwwLFVKBl
 			6j1PXKn2wMaJO5ZQ4t2CNmTHFJA
-    			vL00lk2Nt5zwPqbk3ViMetBKGUYoH6
-    			xvQZvZS7F7zcDMnzrd2mHiSEghvb
-    			4WH28hN1yvqmg45rswKMsZQBdRl
-    			0rwzR7YHBlwwLF5NXkTQ9AckQnKb
-    			RHnTlAVOM6ToKBUKFPh5QT0QvXL
-    			5NXkTQ9AckQnKbcDMnzrd2mHiSEg
-    			45rswKMsZQBdRlDmTFeSfnC2p4vJ6
+			vL00lk2Nt5zwPqbk3ViMetBKGUYoH6
+			xvQZvZS7F7zcDMnzrd2mHiSEghvb
+			4WH28hN1yvqmg45rswKMsZQBdRl
+			0rwzR7YHBlwwLF5NXkTQ9AckQnKb
+			RHnTlAVOM6ToKBUKFPh5QT0QvXL
+			5NXkTQ9AckQnKbcDMnzrd2mHiSEg
+			45rswKMsZQBdRlDmTFeSfnC2p4vJ6
     
-		 ---
+		---
 			scrambled text (correct) 
 			oqrfecfg34cf23mlbqdv3tba23paz2125 
 
@@ -423,7 +423,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		< DATA CORRUPT > cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA  <br>
 		< - end of file ->  <br>
 
-      		  ---
+		---
 			scrambled text (corrupted) 
 			YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp 
 			w9B9nlfNrjgQmP2VLeYLLWsApiPJsYmgaHWMBkMx
@@ -432,14 +432,14 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 			IpoWTD1r2NxClu4hTAf3exVu3SDnydhVMKaJTiM1
 			fYYl8urFocpC2fAafmNMAeiXhDJTJPzTBWLHsbXZ
 			Of0jkpRNEGxE3ksuruyYsN80uvoC0IBdPgwZxrXA
-    			HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE
-    			DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl
-    			Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii
-    			rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ
-    			37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w
-    			RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V
-    			JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6
-   			cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA
+			HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE
+			DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl
+			Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii
+			rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ
+			37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w
+			RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V
+			JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6
+			cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA
   		  
  	* ARRS_NODE_423-7_5.log  
 		< - file ->  <br>
