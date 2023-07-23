@@ -41,22 +41,22 @@
           s. Images/observer93-5/battle.png
 
 * notes  
-       * copy_message_65  
+  * copy_message_65  
               - I have something for you from K. and mr V  <br>
               - Yeah? What is it?  <br>
               - Here. “DELETED”. Keep it for later.  <br>
               - ln;3jn3rfg  <br>
                 <br>
-       * gas  
+  * gas  
               Lately I've been smelling a constant gasoline odor. There's no way to escape the feeling. It's like I've had a disease and now I'm facing the consequences. But all right. At least my favorite candy still tastes the same. <br>
        <br>
-       * mail  
+   * mail  
               To: Delete <br>
               From: Mr.Kerman <br>
                <br>
               MmmxEf2cM3s3r3iIOdk45 <br>
               <br>
-       * /-/
+  * /-/
   
               ---
                      -M------------------------------ 
