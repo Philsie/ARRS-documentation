@@ -1,12 +1,12 @@
 ## ARRS Season 3 
 State: 07/23/2023 4:05AM UTC+3
 
-| User         | Password                  | Level    | Status     | Name          |  
-|--------------|---------------------------|----------|------------|---------------|  
-| defaultuser  | 123456test                | observer | Active     | System user   |  
-| observer33-4 | 098712345                 | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015*10^−34J*Hz^−1  | observer | Active     | Max Planck    |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
+| User         | Password                    | Level    | Status     | Name          |  
+|--------------|-----------------------------|----------|------------|---------------|  
+| defaultuser  | 123456test                  | observer | Active     | System user   |  
+| observer33-4 | 098712345                   | observer | Not Active | James Torwind |  
+| galgalgal    | 6.62607015\*10^−34J\*Hz^−1  | observer | Active     | Max Planck    |  
+| observer54-5 | ?                           | ?        | ?          | ?             |  
 
   
 # defaultuser:123456test
@@ -263,7 +263,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		Every time i manage to get close to the horizon, more and more details are revealed to me. <br>
 		And these details are worth showing, it's important to reach the horizon together. <br>
 
-# galgalgal:6.62607015*10^−34J*Hz^−1
+# galgalgal:6.62607015\*10^−34J\*Hz^−1
 * user  
   	Login: galgalgal  <br>
   	Access level: observer  <br>
