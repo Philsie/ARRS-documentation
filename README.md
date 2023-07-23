@@ -1,12 +1,16 @@
 ## ARRS Season 3 
 State: 07/23/2023 4:05AM UTC+3
 
-| User         | Password                  | Level    | Status     | Name          |  
-|--------------|---------------------------|----------|------------|---------------|  
-| defaultuser  | 123456test                | observer | Active     | System user   |  
-| observer33-4 | 098712345                 | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015*10^−34J*Hz^−1  | observer | Active     | Max Planck    |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
+| User         | Password                          | Level    | Status     | Name          |  
+|--------------|-----------------------------------|----------|------------|---------------|  
+| defaultuser  | 123456test                        | observer | Active     | System user   |  
+| observer33-4 | 098712345                         | observer | Not Active | James Torwind |  
+| galgalgal    | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    |  
+| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | 
+| revizor      | greenJNefimpo2334                 | ?        | ?          | ?             | 
+| marzqiz      | redKL3245pfvkl3j4                 | ?        | ?          | ?             | 
+| bake         | blueJuih4ol23ik1                  | ?        | ?          | ?             | 
+| lemondeep    | ?                                 | ?        | ?          | ?             | 
 
   
 # defaultuser:123456test
@@ -263,7 +267,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		Every time i manage to get close to the horizon, more and more details are revealed to me. <br>
 		And these details are worth showing, it's important to reach the horizon together. <br>
 
-# galgalgal:6.62607015*10^−34J*Hz^−1
+# galgalgal:6.62607015\*10^−34J\*Hz^−1
 * user  
   	Login: galgalgal  <br>
   	Access level: observer  <br>
@@ -335,6 +339,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 			Any means must be justified by getting rid of the anchor.
 			We are too long marking time at the threshold of our rebirth.
 
+		---
+			scrambled text (corrupted) 
+			PfqiQGfUWWUyYqsQ3gWbfYgWycqRHBDCekQg4Z9e 
+			0FjX7vwro6xTLa1XLlRge5fet0P8sVsuIzomOsi7
+			1Se6cSTF4qygcLOPikx1jevM3ouuQ1ycUXu0bvko
+			i5yTPzZx1aPIYObWWnBS7QT7Dys8U3MiqMmn7XoD
+			jAiz6l16oVpqChdnGMsMF8Oygx9AxlxjUYbeB5Mi
+			ygcLOPikx1jevM3ouuQro6xTLa1XLlRge5fet0P
+			  
  	* ARRS_NODE_423-7_2.log
 	    	< - file ->  <br>
 	    	< DATA CORRUPT > Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ  <br>
@@ -344,6 +357,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		< DATA CORRUPT > 08Lgoquokq218vCugKqASgb6G15ygHARL7ZfUHnv  <br>
 		< DATA CORRUPT > f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY  <br>
 		< - end of file ->  <br>
+
+		---
+			scrambled text (corrupted) 
+			Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ 
+			HelL7CHzR0TCcAGhgg9BWsDKSLJvnTWOdJq7tgIs
+			AYYfty5Tf5QLegJCm6uBHpeFFYNbfmIjfxIcpZU2
+			5RMjl8rVQDvqVsamV53wx7FTgYKhiyQY6wxvykCP
+			08Lgoquokq218vCugKqASgb6G15ygHARL7ZfUHnv
+			f5QLegJCm6uBHpeFFY18vCugKqASgb6G1YKhiyQY
 
  	* ARRS_NODE_423-7_3.log
 	    	< - file ->  <br>
@@ -364,6 +386,30 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 	    	< DATA CORRUPT > 45rswKMsZQBdRlDmTFeSfnC2p4vJ6  <br>
 	    	< - end of file ->  <br>
 
+		---
+			scrambled text (corrupted) 
+			IKhwWmTFeSfnC2p4vJ6cx2hdg9HS 
+			LDFYU5NXkTQ9AckQnKbDO9QptqR
+			GJVkp2EQGNyOO6PJy3F6NCdrNT1
+			30t6eAMxDSwRHnTlAVOM6Tlu3OjR
+			40t6eAMxDSwRHnTlAVOM6Tlu3OjR
+			PAFnQrA76o0rwzR7YHBlwwLFVKBl
+			6j1PXKn2wMaJO5ZQ4t2CNmTHFJA
+			vL00lk2Nt5zwPqbk3ViMetBKGUYoH6
+			xvQZvZS7F7zcDMnzrd2mHiSEghvb
+			4WH28hN1yvqmg45rswKMsZQBdRl
+			0rwzR7YHBlwwLF5NXkTQ9AckQnKb
+			RHnTlAVOM6ToKBUKFPh5QT0QvXL
+			5NXkTQ9AckQnKbcDMnzrd2mHiSEg
+			45rswKMsZQBdRlDmTFeSfnC2p4vJ6
+    
+		---
+			scrambled text (correct) 
+			oqrfecfg34cf23mlbqdv3tba23paz2125
+
+			ROT23 --> rtuihfij34fi23poetgy3wed23sdc2125 --> observer54-5 pw
+
+
 	* ARRS_NODE_423-7_4.log  
 		< - file ->  <br>
 		< DATA CORRUPT > YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp  <br>
@@ -382,6 +428,24 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		< DATA CORRUPT > JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6  <br>
 		< DATA CORRUPT > cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA  <br>
 		< - end of file ->  <br>
+
+		---
+			scrambled text (corrupted) 
+			YV0EqzZT0s7V0JTJDE5zZTcUZe9V7vqZf7xA2XFp 
+			w9B9nlfNrjgQmP2VLeYLLWsApiPJsYmgaHWMBkMx
+			oiNQueI63JDFDclw9otkSp83d1hdJrPIMbPEKMAh
+			3Q7kcesEl3wJkL1SWtF0GJ9rJF8rbDjhLhdssfVM
+			IpoWTD1r2NxClu4hTAf3exVu3SDnydhVMKaJTiM1
+			fYYl8urFocpC2fAafmNMAeiXhDJTJPzTBWLHsbXZ
+			Of0jkpRNEGxE3ksuruyYsN80uvoC0IBdPgwZxrXA
+			HkHc0qakWLbSChK0ONJFMhy8NpS11Y7UEoGUdgEE
+			DgD1ubWYpclbQxKclEXuNh3Od11eoWRQVDyDIgsl
+			Lu7e2UTd6kdo5m4ibUEzBXjTuq77nINqICbteWii
+			rESW1UKaYG915RwIjDwyf2sCTTr9DrsLH4tlYQVJ
+			37WFhh4ok4UQoBnxRDYq5wORGRPBQEd2sV7X5J0w
+			RHnTlAVOM6ToKBUKFPh5QT0QvXL00lk2Nt5zwPqbk3V
+			JHPJ5l4wshe13J9M092HSbTuKvqKPTj3MOUZKLK6
+			cSp5u1zlz4qJpuWOIZuaFcLMNoUPfDg9u3bXZHFA
   		  
  	* ARRS_NODE_423-7_5.log  
 		< - file ->  <br>
@@ -395,7 +459,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		04.07.2023 19:05:09 UTC +3 Warning! 85% of memory used! Report to the tech team immediately!  <br>
 		04.07.2023 19:05:09 UTC +3 Warning! 90% of memory used! Report to the tech team immediately!  <br>
 		04.07.2023 19:05:09 UTC +3 Warning! 95% of memory used! Report to the tech team immediately!  <br>
-		04.07.2023 19:05:15 UTC +3 Error: 228 PasswordMove [Move] Use correct data  <br>
+		04.07.2023 19:05:15 UTC +3 Error: 228 PasswordMove \[Move\] Use correct data  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
@@ -405,11 +469,18 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part2: DELETED  <br>
 		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part3: DELETED  <br>
 		< - end of file ->  <br>
+
+  		---
+    			Mac adress with error
+    			21:c0:2345234ewrfv5432
 		  
 	* alpha_case.png  
 	< - file ->  <br>
 	https://drive.google.com/drive/u/2/folders/1gpzfi1Y4saWQ4PfHEjIRK5uw-z6S6UUd  <br>
 	< - end of file ->  <br>
+
+	 	---
+	  		Hint to Rot23 after color correction  
 
 * notes  
 	* fired  
@@ -452,9 +523,239 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		In every possible way there are people who elevate their nature to an absolute.
 		It is much worse when such people get power.
 
+# observer54-5:rtuihfij34fi23poetgy3wed23sdc2125
+* user  
+	  <br>﻿
+	Login: observer54-5  <br>
+	Access level: observer  <br>
+	Name: DELETED  <br>
+	Status: Not Active  <br>
+	Description:  <br>
+	DELETED  <br>
+  	<br>
+	Notes: DELETED  <br>
+	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicnVhayB8aGlzIHZpY2lvdXMgY2lyY2x1PwpBIG51dy B2 awNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB8aGlzIGNpcmNsZSB8aGVyZSB3aWxsIGJlIG1venUgYW5kIG1vcnUucly
+	udGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ci BuYXR1cmUuLi4K  <br>
+
+	 ---
+	 	scrambled text  + base64  
 	
+		V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicmVhayB0aGlzIHZpY2lvdXMgY2lyY2xlPwpBIG5ldyB2aWNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB0aGlzIGNpcmNsZSB0aGVyZSB3aWxsIGJlIG1vcmUgYW5kIG1vcmUuClVudGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ciBuYXR1cmUuLi4K
+	   
+	 	What awaits us when we break this vicious circle?
+		A new vicious circle awaits us.
+		Behind this circle there will be more and more.
+		Until we achieve freedom from our nature...
+
+
+* dir
+	*  1.reg
+ 		  <br>
+ 		48.886777, 2.338983  <br> 	
+		48.886484, 2.337779  <br>
+    		48.887044, 2.337854  <br>
+      		
+		---
+			Paris - https://www.mapcustomizer.com/map/observer54-5_coords_Paris
+			https://drive.google.com/drive/u/0/folders/1tOrV-0BCchrvcp3Avv9euWQ0ELqpgnZj
+			In Image Data:
+			+Password
+    			JNefimpo234
+    			
+	
+ 	*  2.reg
+    		  <br>  
+ 		34.049222, -118.241222  <br>	 	
+		34.047669, -118.239298  <br>
+    		34.049587, -118.241262  <br>
+  		
+		---
+	  		Los Angeles - https://www.mapcustomizer.com/map/observer54-5_coords_LosAngels
+	*  3.reg
+   		  <br>  
+ 		59.832772, 30.418311  <br>	 	
+		59.828226, 30.422677  <br>
+    		59.831672, 30.423335  <br>
+      
+		---	
+			Saint Petersburg - https://www.mapcustomizer.com/map/observer54-5_coords_StPetersburg
+  
+
+	*  4.reg  
+		  <br>
+		35.7028002, 139.7710296  <br>	 	
+		35.7032459, 139.7714779  <br>
+		35.702038 , 139.767891  <br>
+  
+	  	---	
+			Tokyo - https://www.mapcustomizer.com/map/observer54-5_coords_Tokyo
+
+* notes  
+  	* info
+  	  	﻿
+
+		Situation has changed. Several countries have received data from regional ARRS Terminal accounts. I decided to add a little variety to your "research work" in the form of a sm all competition. And now, you and a few of my other volunteers are entering the race, so to speak.
+Whoever can get to the end first wins. Depending on which region the winner is from, we'll continue our investigation in that area, plus one more shady bit of business.
+  
+		Mr. Kerman
+
+	* img
+	   	---
+	   		|    Y~YY7?                               ?7?J7? J7?J?? Y!JJ?7         .J^BP~7   
+	  		|    J^JY~J                               ?^JP~J ///1\\\ ^55~J          ?~!!!~   
+	  		|    ~7~~!^                               ~!((((18-5-19-20)~~^          77!77~   
+	  		|    ?!?Y7?                                      ^!~~~~                 J^PP~J   
+	  		|    ?~?5~J.                                     7!JB7J.                7!!!!!   
+	  		|    :~^^^:                                      !7!7~?.                 ....    
+	  		|                                          ~7~!!7 .... ~?!7!?                    
+	  		|                                          7!?B7J.     !!7G7J:                   
+	  		|                                          ~7~!~7.     ^7~!~!.                   
+	  		|                                           ....                        ..  .    
+	  		|    ~^^^~:                                                            .J!J??^   
+	  		|    Y^P57?                                                            .J^PJ!7   
+	  		|    J^?7~7                                                             7!~~!:   
+	  		|    !7!!!^                                                             J!??77   
+	  		|    ?~YP!J                                                             J^5P~J   
+	  		|    7!!?~?.                                                            ~!~~~^   
+	  		|    ^!~~!^                                                             7!777!   
+	  		|    7!?P7J.                                                            J^YG~J   
+	  		|    7!7J~J.             ?!!77!                                         !!~!~!   
+	  		|    .^^:^:              J^5G~J                                                  
+	  		|                        !!~!~!                                                  
+	  		|                 :^:::: :^::^. ^^::^.                                           
+	  		|                 ?!JP7J ///2\\\ Y~57?                                           
+	  		|                 //(20-18-21-19-20)//                                          
+	  		|    :^::^:       :^^^^: :~^^^: :^::^.                                  77!777   
+	  		|    77?P7J.             !7!?!?                                         ?~JG~J.  
+	  		|    !7!J~?:             7!?G!J:                                        ~!~~~~   
+	  		|    .!~^~^         .. . ^7~~~!.:....                                   ~7~!!!   
+	  		|    ~?!Y7J.       !?7J7J      !?757J.                                  7!JB7J.  
+	  		|    ~7!P7?^       !!7P!J:     !7!5!?^                                  ~7~7~7.  
+	  		|    :7!~!!.       :!~~~~.     .~^^^^                                   ~?!!7!   
+	  		|    ~?!Y7J.                                                            7~JB!J.  
+	  		|    ~7!P7?^                                                            ~7!7~7.  
+	  		|    .!^^^^.                                                             ....    
+	  		|
+	  		|
+	  		|
+	  		|
+	  		|     .....                                                             :7~~~!.
+	   		|    :Y!Y?J^                                                            ~77B??^  
+	   		|    :J^P?!!                                                            ^?~7~7^  
+	   		|    .7!~~~.                                                            :7!~!!   
+	   		|    :J!J7?:                                                            ~?7G??^  
+	   		|    :J^PJ7!                                                            ^?~7!7^  
+	   		|    .7~~~~:                                                            .!~~~~   
+	   		|    :?~7!?:                                                            ~?7P?J:
+	   		|    :J~GJ7!                                                            ^?~J!?^  
+	   		|    .?~!~!^                                           .....             ^^:::   
+	   		|                          7!~!!^                      J!?J7?                    
+	   		|                          J^PP!J                      J^YP~J                    
+	   		|                          ?~!!~!                      ^~^^~^                    
+	   		|                   .:..:. .^:::  ::..:.        ^~^^~~ ^~^^~^ !~^~~^     ~^^^~.  
+	   		|     J!777!        ?^JP~J ///3\\\ ^55~J        ?^JP~J ///4\\\ ^55~J    .Y~PY7!  
+	   		|     J:PP~J        /////(12-1-13-1)////        (15-18-16-8-5-21-19)    .J^?7!!  
+	   		|     7!~~!~        ^~^^^^ ^~^^~: ^~^^^:         ::.:. .~^^^: .:...      77!!7:  
+	   		|     ?77?77               !7!7!7                      !?7Y7J.           Y^5P!?  
+	   		|     ?^YP~J               7~JG!J.                     !7!5!?:           ?~7?~?  
+	   		|     !7~~!~               ~7~!~!.....           .^::::.~^^^^:~^:^^      !7!!7:  
+	   		|     ?77?77         !7!?7?      !?7J7J.         !?7P7J.     ~?7G?J:     Y^5P!?  
+	   		|     ?^YP~J         7~?G!J.     !!7P!J:         ~7!Y!?^     ~?~J!?^     J~??~?  
+	   		|     ~!~~~~         ^7~~~!.     :!~~~~.         .~^^^:       ^::::      .::::   
+	   		|
+	
+	  		18-5-19-20 REST
+	
+	  		20-18-21-19-20 TRUST
+	
+	  		12-1-13-1 LAMA
+	
+	  		15-18-16-8-5-21-19 ORPHEUS
+  		
+	* 1  
+ 		01101001 01101001 01101110 01100010 01110001 01110011 01101010  
+   	* 2  
+ 		1100110 1110010 1101100 1110010 1101010 1100010 1110001  
+   	* 3  
+ 		1101101 1100001 1110111 1100101 1100011  
+   	* 4  
+ 		1111010 1110110 1100010 1110110 1110010 1111000 1110111 1110011 1100111
+   	  
+  	* 1-4 with key from img byte-length 7/8 
+  	    
+		* 1  
+  	  		revizor  
+  	  	
+  	  	* 2  
+  	  	  	marzqiz  
+  	  	  
+  	  	* 3  
+  	  		baker  
+  	  	
+  	  	* 4  
+  	  	  	lemondeep   
+  	  	  	
+# marzqiz : redKL3245pfvkl3j4
+* dir
+	* 1.report
+ 		<- file ->  <br>
+   		vacuum LK757  <br>
+   		<- end of file ->  <br>
+     
+   	* 2.report
+ 		<- file ->  <br>
+   		emptiness -1A6IB  <br>
+   		<- end of file ->  <br>
+     
+	* 3.report
+ 		<- file ->  <br>
+   		nothingness -27P1T  <br>
+   		<- end of file ->  <br>
+
+   	
+	* 4.report
+ 		<- file ->  <br>
+   		desolation -H485U  <br>
+   		<- end of file ->  <br>
+   	
+	* RE(1):CODE_v.1.3.414-4.grf
+ 		<- file ->  <br>
+		"Language":"en",  <br>
+		"Visibility": "Auto",  <br>
+		"Color": "White",  <br>
+		"Type": "Default",  <br>
+		"Scope": "Default",  <br>
+		"Field": 75,  <br>
+		"Empty?": No,  <br>
+		"SetAffinityToLogicalCores": true,  <br>
+		"Preload": false,  <br>
+		"Group": false,  <br>
+		"Fun": true,  <br>
+		"Count": 100,  <br>
+		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
+		"DELETED": "DELETED",  <br>
+		"DELETED": "DELETED",  <br>
+   		<- end of file ->  <br>
+     
+   	* RE(2):CODE_v.1.3.414-4.grf
+ 		<- file ->  <br>
+		"Language":"en",  <br>
+		"Visibility": "Auto",  <br>
+		"Color": "White",  <br>
+		"Type": "Default",  <br>
+		"Scope": "Default",  <br>
+		"Field": 75,  <br>
+		"Empty": true,  <br>
+		"SetAffinityToLogical Cores": true,  <br>
+		"Preload": false,  <br>
+		"Group": false,  <br>
+		"Fun?": of course,  <br>
+		"Count": 100,  <br>
+		"DELETED": "DELETED",  <br>
+		"DELETED": "DELETED":  <br>
+		"DELETED", "https://drive.google.com/drive/u/2/folders/1lmqWVjM83razI1w-cqGIejTt_QBAWAUS",
+   		<- end of file ->  <br>	 
 # WIP  
-galx3 and 6.62607015x10^-34JxHz^-1  
 observer54-5  
 MSHU2L / MsHU2L  
 Change in decoded texts  
