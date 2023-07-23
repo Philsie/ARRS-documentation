@@ -1,0 +1,6 @@
+{
+  "token": "",
+  "session_id": "",
+  "attempts_file": "attempts.json",
+  "enumerator_path": "enumerator"
+}
