@@ -31,10 +31,22 @@
         <br>
       And how simple it turned out to be, it was as if the solution had always been on my forehead. I just had to birth the idea from it.  <br>
        <br>
-  * MyBase.link
+  * MyBase.link  
        https://drive.google.com/drive/u/0/folders/1HRinSIyRMElmNQwdEzLa9kbRSlOuNPUd
        <br>
-       
+ 
+       | # | # |   |   |   |   | X |   |   |   |
+       |---|---|---|---|---|---|---|---|---|---|
+       |   |   |   | X |   |   |   |   |   |   |
+       | &nbsp;  |   |   |   |   |   |   |   |   |   |
+       |   |   |   |   | # | # | # | # |   | # |
+       |   | # |   |   |   |   |   |   |   | # |
+       |   |   |   |   |   |   |   |   |   | # |
+       |   |   |   |   |   | # |   |   |   |   |
+       |   |   |   |   |   |   |   |   |   | # |
+       | # | # |   |   |   |   |   | # |   | # |
+       |   |   |   |   |   |   |   | # |   | # |
+              
       ---
           Nor services to do, till you require
           battle.png
