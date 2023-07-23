@@ -7,7 +7,7 @@ State: 07/23/2023 4:05AM UTC+3
 | observer33-4 | 098712345                         | observer | Not Active | James Torwind |  
 | galgalgal    | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    |  
 | observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | 
-| revizor      | greenJNefimpo2334                 | ?        | ?          | ?             | 
+| revizor      | greenJNefimpo234                  | observer | Active     | confidential  | 
 | marzqiz      | redKL3245pfvkl3j4                 | ?        | ?          | ?             | 
 | baker        | blueJuih4ol23ik1                  | observer | Active     | Mike          |  
 | lemondeep    | ?                                 | ?        | ?          | ?             | 
@@ -726,12 +726,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
    		nothingness -27P1T  <br>
    		<- end of file ->  <br>
    	
-	* 4.report
+	* 4.report  
  		<- file ->  <br>
    		desolation -H485U  <br>
-   		<- end of file ->  <br>
-   	
-	* RE(1):CODE_v.1.3.414-4.grf    <br>
+   		<- end of file ->   <br>  
+
+ 
+	* RE(1):CODE_v.1.3.414-4.grf   
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
 		"Color": "White",  <br>
@@ -747,9 +748,10 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED",  <br>
-  		---
-   			b2JzZXJ2ZXI5My01 --base64--> observer93-5
-
+  
+		---
+			b2JzZXJ2ZXI5My01 --base64--> observer93-5
+	
 	* RE(2):CODE_v.1.3.414-4.grf     <br>
 		"Language":"en", "Visibility?":  <br>
 		"Color": "White",  <br>
@@ -818,6 +820,15 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		 - Anonymous Society of Diligent Tasters.  <br>
 		 - Ohh, sure then, why not.  <br>
 		 - Then we'll meet where we usually do on these occasions.  <br>
+
+# revizor:greenJNefimpo2334  
+* user  
+	Login: seeker  <br>
+	Access level: observer Name: confidential Status: Active  <br>
+	Description: The hey is I like red fish. I forgot the name of it. It is pretty common. Starts with S.  <br>
+	Notes: Have a Vision.  <br>
+* dir
+	*  	
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
