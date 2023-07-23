@@ -6,14 +6,14 @@
 * user  
 	Login: analyst  <br>
 	Access level: analyst <br>
-  Name: Jack <br>
+  	Name: Jack <br>
 	Status: Not Active  <br>
 	Description: Do not use this user!  <br>
 
 * ## notes
   * ### hzvdarec545
 
-    From: 
+    From: <br>
     To: trrxgfj
 
     Hey, I'm sending you the password to access the system. As soon as you get it, delete this message.
