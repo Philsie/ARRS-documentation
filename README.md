@@ -1,4 +1,5 @@
 ## ARRS Season 3 
+State: 07/23/2023 4:05AM UTC+3
 
 | User         | Password   | Level    | Status     | Name          |  
 |--------------|------------|----------|------------|---------------|  
