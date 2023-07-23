@@ -264,6 +264,20 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		And these details are worth showing, it's important to reach the horizon together. <br>
 
 # galgalgal:6.62607015*10^−34J*Hz^−1
+
+* user  
+  	Login: galgalgal  <br>
+  	Access level: observer  <br>
+  	Name: Max Planck  <br>
+  	Status: Active  <br>
+	<br>
+     	Description:  <br>
+  	Default user for ARRS terminal.  <br>
+  	TXkgcHJvZ3Jlc3Mgd2lsbCBkaXNhcHBlYXIgd2l0aCBtZS4gSXQgZ29lcyBhZ2FpbnN0IHRoZSBuYXR1cmUgb2YgaHVtYW5pdHkuCk1hbmtpbmQgaGFzIGxvbmcgY29tZSB0byB0aGUgbWFpbiBpZGVhIG9mIHN1cnZpdmFsIC0gdGhlIHRyYW5zbWlzc2lvbiBvZiBleHBlcmllbmNlIGFuZCBrbm93bGVkZ2UgZnVydGhlci4KSHVtYW4gbGlmZSBpcyBhIGJyaWVmIGZsYXNoIG9uIHRoZSBzY2FsZSBvZiB0aGUgdW5pdmVyc2UuCkxvb2tpbmcsIGFsYmVpdCBhIGxpdHRsZSwgYmV5b25kIHRoZSBob3Jpem9uLCB0aGUgdHJ1dGggd2FzIHJldmVhbGVkIHRvIG1lLi4u  <br>
+  	<br>
+   	Notes: Excellent motivated employee. Can expect to be promoted in the near future.  <br>
+  	WW91IGRvbid0IHNlZSBpdCB5ZXQuCkkgd2lsbCBkZWZpbml0ZWx5IHNob3cgeW91LgpCdXQgZmlyc3QsIHlvdSBuZWVkIHRvIHNlZSBzb21ldGhpbmcgZWxzZS4KVGhlIHNlY29uZCB0cmFpdCBvZiBodW1hbml0eS4K  <br>
+
 * notes
   	* fired
   	QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N James was finally fired, I was sick of redoing his work for him. pYmxlIHdheSBkb2VzIG5vdCBhbGxvdyB0byBnbyBmb3J3YXJkLgpUa Now there's more work, of course, but 	there's no need to get into his mindless notes or haphazard documentation parsing. GlzIGlzIHRoZSBuYXR1cmUgb2YgcGVvcGxlLCB0aGVpciB1bmNlcnRha
