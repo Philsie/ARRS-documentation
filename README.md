@@ -23,9 +23,9 @@ State: 07/24/2023 1:25AM UTC+3
 # Needs decoding / unused
 login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
 seeker <-- appeared in revizor - user<br>
-arksman / marksman <-- source ?<br>
+arksman / marksman <-- leemondeep - assignement<br>
 lxiuvtse <-- from analyst<br>
-gnknbxetk <-- analyst gnknbxetk.string
+gnknbxetk <-- analyst gnknbxetk.string<br>
 
 
 # Decoders / Ciphers used  
