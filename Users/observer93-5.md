@@ -30,9 +30,11 @@
       I'll save it just in case  <br>
         <br>
       And how simple it turned out to be, it was as if the solution had always been on my forehead. I just had to birth the idea from it.  <br>
-
+       <br>
   * MyBase.link
-      https://drive.google.com/drive/u/0/folders/1HRinSIyRMElmNQwdEzLa9kbRSlOuNPUd
+       https://drive.google.com/drive/u/0/folders/1HRinSIyRMElmNQwdEzLa9kbRSlOuNPUd
+       <br>
+       
       ---
           Nor services to do, till you require
           battle.png
