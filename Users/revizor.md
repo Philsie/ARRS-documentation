@@ -12,7 +12,7 @@
 	Notes: Have a Vision.  <br>
  	  
 * notes  
-	*  note012
+	*  note012  
  		09:08:11 data lost. critical error. encryption failed. diagnostics required.  <br>
 		09:08:1Y launching diagnostics procedure.  <br>
 		09:08:14 launching diagnostics procedure..  <br>
@@ -28,7 +28,8 @@
 		09:08:49 Instance of undefined instance(G%Service%%%”ider).  <br>
 		09:08:5R diagnostics stage 01-51 have been started.  <br>
 		09:09:00 heap size(15 sectors) and segment(23 sectors) of runtime version(8.39.1241-0verb111-pgm01a (201408210122). in virtual configuration Class would be obj1.  <br>
-    	* note032
+  			 
+	* note032  
        		12:44:01 encryption stage 01  <br>
 		12:44:02 defining data size.  <br>
 		12:44:05 defining data size..  <br>
