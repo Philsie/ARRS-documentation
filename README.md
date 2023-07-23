@@ -269,13 +269,13 @@ MSHU2L / MsHU2L
 Change in decoded texts  
 
 # Hints  Appl3zOr
-1.
+1.  
 	Log: pw 98buh9o-nioin  
 	  
 	Reply: Wrong password  
 	  
 	Log: pw 98buh9o—nioin  
-2.
+2.  
 	0150 bad 0151 good --> https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/R02%20Ascii/completeASCII.htm
 
 # Testing
