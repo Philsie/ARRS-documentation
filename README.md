@@ -264,6 +264,46 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		And these details are worth showing, it's important to reach the horizon together. <br>
 
 # galgalgal:6.62607015*10^−34J*Hz^−1
+* notes
+  	* fired
+  	QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N James was finally fired, I was sick of redoing his work for him. pYmxlIHdheSBkb2VzIG5vdCBhbGxvdyB0byBnbyBmb3J3YXJkLgpUa Now there's more work, of course, but 	there's no need to get into his mindless notes or haphazard documentation parsing. GlzIGlzIHRoZSBuYXR1cmUgb2YgcGVvcGxlLCB0aGVpciB1bmNlcnRha
+
+  	---
+		  QSB0cmFpdCBvZiBodW1hbml0eSB0aGF0IGluIGV2ZXJ5IHBvc3N - A trait of humanity that in every poss
+		  pYmxlIHdheSBkb2VzIG5vdCBhbGxvdyB0byBnbyBmb3J3YXJkLgpUa - )ble way does not allow to go forward.
+		  GlzIGlzIHRoZSBuYXR1cmUgb2YgcGVvcGxlLCB0aGVpciB1bmNlcnRha - is is the nature of people, their uncerta  
+		    
+		  A trait of humanity that in every poss )ble way does not allow to go forward. is is the nature of people, their uncerta
+  	
+   * note_two
+
+	W50eSwgZmVhcnMsIHNpbnMuCkluIGV2ZXJ5IHBvc3NpYmxlIHdhe
+		
+	When digging through documentation, I constantly come across password-protected files, ciphers, symbols that may have a meaning. Why don't we simply write all the documentation in one place? We have a 		very secure network. You can't just hack into it. What's the point of this? SB0aGVyZSBhcmUgcGVvcGxlIHdobyBlbGV2YXRlIHRoZWlyIG5h
+
+	---
+		  W50eSwgZmVhcnMsIHNpbnMuCkluIGV2ZXJ5IHBvc3NpYmxlIHdhe - nty, fears, sins. In every possible wa
+		
+		  SB0aGVyZSBhcmUgcGVvcGxlIHdobyBlbGV2YXRlIHRoZWlyIG5h - there are people who elevate their na
+		  	
+		  dHVyZSB0byBhbiBhYnNvbHV0ZS4KSXQgaXMgbXVjaCB3b3JzZ - ture to an absolute. It is much wors
+		  	
+		  SB3aGVuIHN1Y2ggcGVvcGxlIGdldCBwb3dlci4K - when such people get power.
+		  	
+		  nty, fears, sins. In every possible way there are people who elevate their nature to an absolute. It is much worse when such people get power.
+  * for_you
+  	There's another very interesting photo for you in the files. Be sure to take a look at it. 
+	Mr. Kerman
+
+ * note-fired-note_two
+
+	Mankind is built in such a way that some people see to the horizon, while others see beyond the horizon.
+	I really aspire to become that person who sees beyond the horizon.
+	Every time i manage to get close to the horizon, more and more details are revealed to me.
+	And these details are worth showing, it's important to reach the horizon together.
+
+	A trait of humanity that in every possible way does not allow to go forward.It is the nature of people, their uncertanty, fears, sins. In every possible way there are people who elevate their nature to an 		absolute. It is much worse when such people get power.
+
 * dir
 	* task.exe
 	TASK MANAGEMENT
