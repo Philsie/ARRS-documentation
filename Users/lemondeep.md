@@ -53,16 +53,26 @@
 * notes
   <br>
     * assignment
-    
-    09:24:01 < CORRUPT DATA > kR0pGVG10aVZUVkpWbTAxYzFkc1pFZFRibVJhWVd0cmQxVkdUa05 <br>
-    09:23:11 < CORRUPT DATA > VmpGU1EySXlSblJXYkZwUVYwVktVMWxzWkc5alZteHpZVVpPVDJKS <br>
-    09:25:48 < CORRUPT DATA > dZbWxDZGxwdFduQlpNbFZuV1c1V2NHSkhVbkJpYldNOUlFRm1kR1 <br>
-    09:24:18 < CORRUPT DATA > 1VaV1ZGSlZUV2RrTW14ellrTkNkRnBYVmpCSlNFSjJZa2RzYWxwVFF <br>
-    09:25:47 < CORRUPT DATA > tMWlNMHBxV2xoTloyUXliREJoUTBKSFZUQkpaMWxZVVdkaVYwWn <br>
-    09:23:56 < CORRUPT DATA > JXeFRUVEpTZFZkVVFtOVRNa3BJVkd0b1UySnRlR2hXVkVKTFlqRnN <br>
-    09:26:00 < CORRUPT DATA > kE9PSBPdXIgZW1wbG95ZWVycyBpbnNpc3QgdG8gYWN0IHNvb24= <br>
-    09:24:36 < CORRUPT DATA > YUm5CVVVXNVdZVll4V25KVFZXaFRaR3RzU0ZKdGNHdFJNRVU1U <br>
-    09:25:49 < CORRUPT DATA > Z5SUZSaGNtdHZkaUJuYjNabGNtNXRaVzUwSUhKbGNYVmxjM1JsW <br>
-    09:23:24 < CORRUPT DATA > GVIcFhhMVpyWVRGVmQxTnNaRmRXUlVwWVZXdFdjMU5XY0VsUm <br>
 
+	09:23:11 < CORRUPT DATA > VmpGU1EySXlSblJXYkZwUVYwVktVMWxzWkc5alZteHpZVVpPVDJKS <br>
+	09:23:24 < CORRUPT DATA > GVIcFhhMVpyWVRGVmQxTnNaRmRXUlVwWVZXdFdjMU5XY0VsUm <br>
+	09:23:56 < CORRUPT DATA > JXeFRUVEpTZFZkVVFtOVRNa3BJVkd0b1UySnRlR2hXVkVKTFlqRnN <br>
+	09:24:01 < CORRUPT DATA > kR0pGVG10aVZUVkpWbTAxYzFkc1pFZFRibVJhWVd0cmQxVkdUa05 <br>
+	09:24:18 < CORRUPT DATA > 1VaV1ZGSlZUV2RrTW14ellrTkNkRnBYVmpCSlNFSjJZa2RzYWxwVFF <br>
+	09:24:36 < CORRUPT DATA > YUm5CVVVXNVdZVll4V25KVFZXaFRaR3RzU0ZKdGNHdFJNRVU1U <br>
+	09:25:47 < CORRUPT DATA > tMWlNMHBxV2xoTloyUXliREJoUTBKSFZUQkpaMWxZVVdkaVYwWn <br>
+	09:25:48 < CORRUPT DATA > dZbWxDZGxwdFduQlpNbFZuV1c1V2NHSkhVbkJpYldNOUlFRm1kR1 <br>
+	09:25:49 < CORRUPT DATA > Z5SUZSaGNtdHZkaUJuYjNabGNtNXRaVzUwSUhKbGNYVmxjM1JsW <br>
+	09:26:00 < CORRUPT DATA > kE9PSBPdXIgZW1wbG95ZWVycyBpbnNpc3QgdG8gYWN0IHNvb24= <br>
   
+	---
+  	//pw2:  ark <br>
+  	//dGdSBVU0VDIHd ??????? <br>
+	//l prepare a <br>
+	//operation <br>
+	// USEC will meet police <br>
+	//e need to act <br>
+	//orces with FSB at ma  <br>
+	//n office building= Aft <br>
+	//2 Tarkov government requeste <br>
+	//Our employeers insist to act soon <br>
