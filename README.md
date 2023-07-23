@@ -453,7 +453,7 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		04.07.2023 19:05:09 UTC +3 Warning! 85% of memory used! Report to the tech team immediately!  <br>
 		04.07.2023 19:05:09 UTC +3 Warning! 90% of memory used! Report to the tech team immediately!  <br>
 		04.07.2023 19:05:09 UTC +3 Warning! 95% of memory used! Report to the tech team immediately!  <br>
-		04.07.2023 19:05:15 UTC +3 Error: 228 PasswordMove [Move] Use correct data  <br>
+		04.07.2023 19:05:15 UTC +3 Error: 228 PasswordMove \[Move\] Use correct data  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
 		04.07.2023 19:05:45 UTC +3 Fatal error: ERROR!  <br>
