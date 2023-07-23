@@ -28,7 +28,7 @@
 
 * notes
 
-  * Report1
+  * Report1<br>
          Date: 04.07.23 <br>
          This report features the results of AsumQ analysis performed on NrxEX4X. The purpose of the analysis was to evaluate the performance within a s pecific time period.<br>
          Methodology: The following methods and tools were used for the analysis:<br>
@@ -43,7 +43,7 @@
          1. UJ757: v9 JxA PIRJvLSH aAD SGXN<br>
          2. 1A37X: BZP 9Sf9VX HShtIM KV6XI 3. CHAJY: VG6120ZNq HNRgQ hb70e 4. 61C5U: rW3HXFKo@obwKHp Mw68k<br>
 
-  * Report2
+  * Report2<br>
          Date: A3B0<br>
          This report features the results of qwe1230 analysis performed on NrxEX4X. The purpose of the analysis was to evaluate the performance within a specific time period.<br>
          Methodology: The following methods and tools were used for the analysis:<br>
@@ -55,7 +55,7 @@
          2. j5rDOtxOZQZAWKFkJ71UjHzkzTwQA35RJCIjT71f AsBw6g9FFOLwmnAMAIE<br>
          3. TFkFQb08ukS4hNXDGPeRk3ucoJLjlHIXO<br>
     
-  * after
+  * after<br>
         Date: 09.07.23<br>
         XR1F7T5zyUQZKS5c1ArZYmAf5d5ddaPQ7qQFfb>ZbOTzQJ7fvofZo1bvPn6ZWP5QACRMNj80Vbuf6n37JvJ Horkufibipgrk8cgD JJnhCE3UKs lfMH9fHmHMo11111InFormatBase6411111NZQQD8AWU2aZfxamX@dgHxrj thaMgkTU867nifhLkd1M<br>
         jGkNRuhelDX08FJdZoyOvuWkMeyNvH5zqZZHqY57stT94liu7uN9wmtyw9h61pgW3ajZ7A7mS2Ror GzG8Uf 41vU6Xbp8oqu3mRZxnwkEfRYyaYRvD9sV1ebn<br>
@@ -63,7 +63,7 @@
         p181qu6am6mZ9zjLxqWd9xieZpCvhWnTvTtMLBYR<br>
         uEZHn3HHdnrMTAQVKnfD<br>
     
-  * draftreport
+  * draftreport<br>
         [ minerva@arrs.host:~ # note draftreport<br>
         <br>
         Date: 00.00.00<br>
