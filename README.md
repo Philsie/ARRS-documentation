@@ -268,5 +268,13 @@ observer54-5
 MSHU2L / MsHU2L  
 Change in decoded texts  
 
+# Hints  
+Log: pw 98buh9o-nioin  
+  
+Reply: Wrong password  
+  
+Log: pw 98buh9o---nioin  
+
+    
 # Testing
 
