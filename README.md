@@ -276,7 +276,24 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
   	<br>
    	Notes: Excellent motivated employee. Can expect to be promoted in the near future.  <br>
   	WW91IGRvbid0IHNlZSBpdCB5ZXQuCkkgd2lsbCBkZWZpbml0ZWx5IHNob3cgeW91LgpCdXQgZmlyc3QsIHlvdSBuZWVkIHRvIHNlZSBzb21ldGhpbmcgZWxzZS4KVGhlIHNlY29uZCB0cmFpdCBvZiBodW1hbml0eS4K  <br>
-   	  
+  
+  	---
+  		Default user for ARRS --> Base64
+  		terminalNoteTXkgcHJvZ3Jlc3Mgd2lsbCBkaXNhcHBlYXIgd2l0aCBtZS4gSXQgZ29lcyBhZ2FpbnN0IHRoZSBuYXR1cmUgb2YgaHVtYW5pdHkuCk1hbmtpbmQgaGFzIGxvbmcgY29tZSB0byB0aGUgbWFpbiBpZGVhIG9mIHN1cnZpdmFsIC0gdGhlIHRyYW5zbWlzc2lvbiBvZiBleHBlcmllbmNlIGFuZCBrbm93bGVkZ2UgZnVydGhlci4KSHVtYW4gbGlmZSBpcyBhIGJyaWVmIGZsYXNoIG9uIHRoZSBzY2FsZSBvZiB0aGUgdW5pdmVyc2UuCkxvb2tpbmcsIGFsYmVpdCBhIGxpdHRsZSwgYmV5b25kIHRoZSBob3Jpem9uLCB0aGUgdHJ1dGggd2FzIHJldmVhbGVkIHRvIG1lLi4u
+	  
+	 	My progress will disappear with me. It goes against the nature of humanity.
+		Mankind has long come to the main idea of survival - the transmission of experience and knowledge further.
+		Human life is a brief flash on the scale of the universe.
+		Looking, albeit a little, beyond the horizon, the truth was revealed to me...
+
+   		Notes --> Base64
+  		WW91IGRvbid0IHNlZSBpdCB5ZXQuCkkgd2lsbCBkZWZpbml0ZWx5IHNob3cgeW91LgpCdXQgZmlyc3QsIHlvdSBuZWVkIHRvIHNlZSBzb21ldGhpbmcgZWxzZS4KVGhlIHNlY29uZCB0cmFpdCBvZiBodW1hbml0eS4K
+  	 	  
+  		You don't see it yet.
+		I will definitely show you.
+		But first, you need to see something else.
+		The second trait of humanity.
+   	  	
   	
 * dir
 	* task.exe
