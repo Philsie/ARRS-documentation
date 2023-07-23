@@ -1,5 +1,11 @@
-## season3-clean
+## season3-clean  
 
+| User         | Password   | Level    | Status     | Name          |  
+|--------------|------------|----------|------------|---------------|  
+| defaultuser  | 123456test | observer | Active     | System user   |  
+| observer33-4 | 098712345  | observer | Not Active | James Torwind |  
+| ?            | ?          | ?        | ?          | Max Planck    |  
+  
 # defaultuser:123456test
 
 * dir
