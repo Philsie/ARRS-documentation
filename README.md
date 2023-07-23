@@ -716,6 +716,44 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 	* 4.report
  		<- file ->  <br>
    		desolation -H485U  <br>
+   		<- end of file ->  <br>
+   	
+	* RE(1):CODE_v.1.3.414-4.grf
+ 		<- file ->  <br>
+		"Language":"en",  <br>
+		"Visibility": "Auto",  <br>
+		"Color": "White",  <br>
+		"Type": "Default",  <br>
+		"Scope": "Default",  <br>
+		"Field": 75,  <br>
+		"Empty?": No,  <br>
+		"SetAffinityToLogicalCores": true,  <br>
+		"Preload": false,  <br>
+		"Group": false,  <br>
+		"Fun": true,  <br>
+		"Count": 100,  <br>
+		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
+		"DELETED": "DELETED",  <br>
+		"DELETED": "DELETED",  <br>
+   		<- end of file ->  <br>
+     
+   	* RE(2):CODE_v.1.3.414-4.grf
+ 		<- file ->  <br>
+		"Language":"en",  <br>
+		"Visibility": "Auto",  <br>
+		"Color": "White",  <br>
+		"Type": "Default",  <br>
+		"Scope": "Default",  <br>
+		"Field": 75,  <br>
+		"Empty": true,  <br>
+		"SetAffinityToLogical Cores": true,  <br>
+		"Preload": false,  <br>
+		"Group": false,  <br>
+		"Fun?": of course,  <br>
+		"Count": 100,  <br>
+		"DELETED": "DELETED",  <br>
+		"DELETED": "DELETED":  <br>
+		"DELETED", "https://drive.google.com/drive/u/2/folders/1lmqWVjM83razI1w-cqGIejTt_QBAWAUS",
    		<- end of file ->  <br>	 
 # WIP  
 observer54-5  
