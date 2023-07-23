@@ -268,7 +268,7 @@ observer54-5
 MSHU2L / MsHU2L  
 Change in decoded texts  
 
-# Hints  
+# Hints  Appl3zOr
 Log: pw 98buh9o-nioin  
   
 Reply: Wrong password  
