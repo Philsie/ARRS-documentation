@@ -656,7 +656,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
    		|     ~!~~~~         ^7~~~!.     :!~~~~.         .~^^^:       ^::::      .::::   
    		|
 
-   		
+  		18-5-19-20 REST
+
+  		20-18-21-19-20 TRUST
+
+  		12-1-13-1 LAMA
+
+  		15-18-16-8-5-21-19 ORPHEUS
   		
 	* 1  
  		01101001 01101001 01101110 01100010 01110001 01110011 01101010  
@@ -665,8 +671,22 @@ Whoever can get to the end first wins. Depending on which region the winner is f
    	* 3  
  		1101101 1100001 1110111 1100101 1100011  
    	* 4  
- 		1111010 1110110 1100010 1110110 1110010 1111000 1110111 1110011 1100111  
-   	   
+ 		1111010 1110110 1100010 1110110 1110010 1111000 1110111 1110011 1100111
+   	  
+  	* 1-4 with key from img byte-length 7/8 
+  	    
+		* 1  
+  	  		revizor  
+  	  	
+  	  	* 2  
+  	  	  	marzqiz  
+  	  	  
+  	  	* 3  
+  	  		baker  
+  	  	
+  	  	* 4  
+  	  	  	lemondeep   
+  	  	  	
    	
 # WIP  
 observer54-5  
