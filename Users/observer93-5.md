@@ -40,8 +40,8 @@
           battle.png
           s. Images/observer93-5/battle.png
 
-* notes
-       * copy_message_65
+* notes  
+       * copy_message_65  
               - I have something for you from K. and mr V  <br>
               - Yeah? What is it?  <br>
               - Here. “DELETED”. Keep it for later.  <br>
