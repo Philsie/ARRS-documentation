@@ -36,7 +36,7 @@
          2. Data processing.<br>
          3. Data analysis.<br>
          The following results were obtained during the analysis:<br>
-         1. LZ® Y6fvXY u5XTw 27GZkU GT r9348 JeafYRWPQ fa3N.<br>
+         1. LZ0 Y6fvXY u5XTw 27GZkU GT r9348 JeafYRWPQ fa3N.<br>
          2. Uy f5XrQ 6QslZc sGaTp 24 S MU5 DRr6 OZjvB.<br>
          3. Bh 10SW CL1Vy9 vWiWvql2 K9jKBizWghE.<br>
          Further recommendations: Based on the analysis, the following recommendations are proposed:<br>
