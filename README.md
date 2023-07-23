@@ -535,7 +535,9 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 
  ---
  	scrambled text  + base64  
-  	
+
+	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicmVhayB0aGlzIHZpY2lvdXMgY2lyY2xlPwpBIG5ldyB2aWNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB0aGlzIGNpcmNsZSB0aGVyZSB3aWxsIGJlIG1vcmUgYW5kIG1vcmUuClVudGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ciBuYXR1cmUuLi4K
+   
  	What awaits us when we break this vicious circle?
 	A new vicious circle awaits us.
 	Behind this circle there will be more and more.
@@ -577,6 +579,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
   		
 	---
 		Tokyo
+* notes  
+  	* info
+  	  	﻿
+
+		Situation has changed. Several countries have received data from regional ARRS Terminal accounts. I decided to add a little variety to your "research work" in the form of a sm all competition. And now, you and a few of my other volunteers are entering the race, so to speak.
+Whoever can get to the end first wins. Depending on which region the winner is from, we'll continue our investigation in that area, plus one more shady bit of business.
+
+Mr. Kerman  
+  
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
