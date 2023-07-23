@@ -335,6 +335,15 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 			Any means must be justified by getting rid of the anchor.
 			We are too long marking time at the threshold of our rebirth.
 
+		---
+			scrambled text (corrupted) 
+			PfqiQGfUWWUyYqsQ3gWbfYgWycqRHBDCekQg4Z9e 
+			0FjX7vwro6xTLa1XLlRge5fet0P8sVsuIzomOsi7
+			1Se6cSTF4qygcLOPikx1jevM3ouuQ1ycUXu0bvko
+			i5yTPzZx1aPIYObWWnBS7QT7Dys8U3MiqMmn7XoD
+			jAiz6l16oVpqChdnGMsMF8Oygx9AxlxjUYbeB5Mi
+			ygcLOPikx1jevM3ouuQro6xTLa1XLlRge5fet0P
+			  
  	* ARRS_NODE_423-7_2.log
 	    	< - file ->  <br>
 	    	< DATA CORRUPT > Go7nCJ8XhIZizmDDGpXyIKb0G7D9v4zwxe2mIZBJ  <br>
