@@ -64,7 +64,7 @@
         uEZHn3HHdnrMTAQVKnfD<br>
     
   * draftreport<br>
-        [ minerva@arrs.host:~ # note draftreport<br>
+        minerva@arrs.host:~ # note draftreport<br>
         <br>
         Date: 00.00.00<br>
         This report features the results of [Draft] analysis performed on anahucf. The purpose of the analysis was to evaluate the performance within a specific time period.<br>
