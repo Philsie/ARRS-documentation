@@ -585,9 +585,19 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 
 		Situation has changed. Several countries have received data from regional ARRS Terminal accounts. I decided to add a little variety to your "research work" in the form of a sm all competition. And now, you and a few of my other volunteers are entering the race, so to speak.
 Whoever can get to the end first wins. Depending on which region the winner is from, we'll continue our investigation in that area, plus one more shady bit of business.
-
-Mr. Kerman  
   
+		Mr. Kerman
+	
+	* 1  
+ 		01101001 01101001 01101110 01100010 01110001 01110011 01101010  
+   	* 2  
+ 		1100110 1110010 1101100 1110010 1101010 1100010 1110001  
+   	* 3  
+ 		1101101 1100001 1110111 1100101 1100011  
+   	* 4  
+ 		1111010 1110110 1100010 1110110 1110010 1111000 1110111 1110011 1100111  
+   	   
+   	
 # WIP  
 observer54-5  
 MSHU2L / MsHU2L  
