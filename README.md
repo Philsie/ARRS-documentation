@@ -263,18 +263,20 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		And these details are worth showing, it's important to reach the horizon together. <br>
    
 # WIP  
-	galx3 and 6.62607015x10^-34JxHz^-1  
-	observer54-5  
-	MSHU2L / MsHU2L  
-	Change in decoded texts  
+galx3 and 6.62607015x10^-34JxHz^-1  
+observer54-5  
+MSHU2L / MsHU2L  
+Change in decoded texts  
 
 # Hints  Appl3zOr
+1.
 	Log: pw 98buh9o-nioin  
 	  
 	Reply: Wrong password  
 	  
 	Log: pw 98buh9o—nioin  
+2.
+	0150 bad 0151 good --> https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/R02%20Ascii/completeASCII.htm
 
-    
 # Testing
 
