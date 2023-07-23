@@ -16,9 +16,7 @@
   
 * dir
      
-  logins.txt  
   pic-link  
-  copy_error.log  
 
   * pic.link
     
