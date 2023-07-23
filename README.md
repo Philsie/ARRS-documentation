@@ -1,4 +1,4 @@
-## season3-clean  
+## ARRS Season 3 
 
 | User         | Password   | Level    | Status     | Name          |  
 |--------------|------------|----------|------------|---------------|  
