@@ -746,6 +746,8 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"DELETED": "b2JzZXJ2ZXI5My01",  <br>
 		"DELETED": "DELETED",  <br>
 		"DELETED": "DELETED",  <br>
+  		---
+   			b2JzZXJ2ZXI5My01 --base64--> observer93-5
 
 	* RE(2):CODE_v.1.3.414-4.grf     <br>
 		"Language":"en", "Visibility?":  <br>
@@ -762,9 +764,13 @@ Whoever can get to the end first wins. Depending on which region the winner is f
 		"Count": 100,  <br>
 		"DELETED": "DELETED",  <br>
 		"DELETED":  <br>
-		"UGFzc3dvcmQ6IEpqZTØya3N4a2sycDsx",  <br>
+		"UGFzc3dvcmQ6IEpqZT0ya3N4a2sycDsx",  <br>
 		"DELETED": "DELETED",  <br>
-	  	<br>
+
+	  	---
+   			UGFzc3dvcmQ6IEpqZT0ya3N4a2sycDsx --base64--> Password: Jje=2ksxkk2p;1
+
+   
 	* RE(2):CODE_v.1.3.414-4.grf      <br>
 		"Language":"en",  <br>
 		"Visibility": "Auto",  <br>
