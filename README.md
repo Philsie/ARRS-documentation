@@ -5,8 +5,8 @@ State: 07/23/2023 4:05AM UTC+3
 |--------------|-----------------------------|----------|------------|---------------|  
 | defaultuser  | 123456test                  | observer | Active     | System user   |  
 | observer33-4 | 098712345                   | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015\*10^−34J\*Hz^−1  | observer | Active     | Max Planck    |  
-| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | ?        | ?          | ?             |  
+| galgalgal    | 6.62607015\*10^−34J\*Hz^−1  | oversser | Active     | Max Planck    |  
+| observer54-5 | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted    |  
 
   
 # defaultuser:123456test
@@ -520,28 +520,6 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		It is much worse when such people get power.
 
 # observer54-5:rtuihfij34fi23poetgy3wed23sdc2125
-* user  
-	  <br>﻿
-	Login: observer54-5  <br>
-	Access level: observer  <br>
-	Name: DELETED  <br>
-	Status: Not Active  <br>
-	Description:  <br>
-	DELETED  <br>
-  	<br>
-	Notes: DELETED  <br>
-	V2hhdCBhd2FpdHMgdXMgd2hlbiB3ZSBicnVhayB8aGlzIHZpY2lvdXMgY2lyY2x1PwpBIG51dy B2 awNpb3VzIGNpcmNsZSBhd2FpdHMgdXMuCkJlaGluZCB8aGlzIGNpcmNsZSB8aGVyZSB3aWxsIGJlIG1venUgYW5kIG1vcnUucly
-	udGlsIHdlIGFjaGlldmUgZnJlZWRvbSBmcm9tIG91ci BuYXR1cmUuLi4K  <br>
-
- ---
- 	scrambled text  + base64  
-  	
- 	What awaits us when we break this vicious circle?
-	A new vicious circle awaits us.
-	Behind this circle there will be more and more.
-	Until we achieve freedom from our nature...
-
-
 * dir
 	*  1.reg
  		  <br>
@@ -574,6 +552,54 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		35.7028002, 139.7710296  <br>	 	
 		35.7032459, 139.7714779  <br>
 		35.702038 , 139.767891  <br>
+* notes
+	*  1
+ 		  <br>
+ 		48.886777, 2.338983  <br> 	
+		48.886484, 2.337779  <br>
+    		48.887044, 2.337854  <br>
+      		
+	---
+		Paris
+    			
+ 	*  2
+    		  <br>  
+ 		34.049222, -118.241222  <br>	 	
+		34.047669, -118.239298  <br>
+    		34.049587, -118.241262  <br>
+  		
+	---
+		Los Angeles
+	*  3
+   		  <br>  
+ 		59.832772, 30.418311  <br>	 	
+		59.828226, 30.422677  <br>
+    		59.831672, 30.423335  <br>
+      		
+	---
+		Saint Petersburg
+    
+	*  4  
+		  <br>
+		35.7028002, 139.7710296  <br>	 	
+		35.7032459, 139.7714779  <br>
+		35.702038 , 139.767891  <br>
+  		
+	---
+		Tokyo
+  	*  img  
+		  <br>
+		35.7028002, 139.7710296  <br>	 	
+		35.7032459, 139.7714779  <br>
+		35.702038 , 139.767891  <br>
+  		
+	---
+		Tokyo
+  	*  info  
+		  <br>
+		Situation has changed. Several countries have received data from regional ARRS Terminal accounts. I decided to add a little variety to your "research work" in the form of a small competition. And now, 		you and a few of my other volunteers are entering the race, so to speak.   <br>	 	
+		  <br>
+		Mr. Kerman  <br>
   		
 	---
 		Tokyo
