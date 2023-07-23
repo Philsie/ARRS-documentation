@@ -463,6 +463,10 @@ VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQg
 		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part2: DELETED  <br>
 		04.07.2023 19:07:56 UTC +3 Error: Transmission Interrupted Part3: DELETED  <br>
 		< - end of file ->  <br>
+
+  		---
+    			Mac adress with error
+    			21:c0:2345234ewrfv5432
 		  
 	* alpha_case.png  
 	< - file ->  <br>
