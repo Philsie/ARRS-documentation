@@ -5,9 +5,9 @@ State: 07/23/2023 4:05AM UTC+3
 |--------------|---------------------------|----------|------------|---------------|  
 | defaultuser  | 123456test                | observer | Active     | System user   |  
 | observer33-4 | 098712345                 | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015*10^−34J*Hz^−1  | ?        | ?          | Max Planck    |  
+| galgalgal    | 6.62607015*10^−34J*Hz^−1  | observer | Active     | Max Planck    |  
 | observer54-5 | ?                         | ?        | ?          | ?             |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
+
   
 # defaultuser:123456test
 
