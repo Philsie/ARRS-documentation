@@ -13,6 +13,7 @@ State: 07/23/2023 4:05AM UTC+3
 | lemondeep    | yellowL23k4jn6ddjx                | observer | Active     | confidential  | 
 | observer93-5 | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   |
 | minerva      | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        |
+| analyst      | athenarole                        | analyst  | not Active | Jack          |
 
 # For newest info check users/
 ---
