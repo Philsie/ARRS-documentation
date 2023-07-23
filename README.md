@@ -5,6 +5,7 @@
 | defaultuser  | 123456test | observer | Active     | System user   |  
 | observer33-4 | 098712345  | observer | Not Active | James Torwind |  
 | ?            | ?          | ?        | ?          | Max Planck    |  
+| observer54-5 | ?          | ?        | ?          |               |  
   
 # defaultuser:123456test
 
