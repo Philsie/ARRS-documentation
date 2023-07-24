@@ -1,6 +1,6 @@
 ## ARRS Season 3 
 # DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE!!!
-State: 07/24/2023 7:36pm UTC+3
+State: 07/24/2023 8:36pm UTC+3
 
 | User                                       | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
 |--------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
@@ -47,13 +47,17 @@ graph TD;
 # For newest info check users/
 ---
 # Pword currently not used 
-pw2: llpymhbec <-- from chief - diary5 and 8<br>
+### Tokyo
+* pw2: llpymhbec <-- from chief - diary5 and 8<br>
 
 # Needs decoding / unused
-login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
-seeker <-- appeared in revizor - user<br>
-ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
-The Supreme Admin 
+* The Supreme Admin 
+### USA
+* login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
+* ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
+### France
+* seeker <-- appeared in revizor - user<br>
+### Tokyo
 
 
 # Decoders / Ciphers used  
