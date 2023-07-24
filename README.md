@@ -37,7 +37,6 @@ graph TD;
     observer001-->observer993;
     observer993--X-->russiaEnd["end of this branch,\n likely"]
     marzqiz-->observer93-5;
-    observer93-5-->readonly;
     revizor-->?;
     lemondeep-->boston;
     boston-->chief;
