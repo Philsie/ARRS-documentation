@@ -21,6 +21,8 @@
     < DATA DISTORT> df30d7ec6c752a5a639efc845e26a93a<br>
     < DATA DISTORT> slhgrAlDdeLPgFPk5WbeVg==<br>
     < - end of file -><br>
+    
+        Qmxvd2Zpc2g= --base64--> Blowfish
 
   * ARRS_NODE_415-1_2.log<br>
     < - file -><br>
@@ -73,3 +75,18 @@
     < DATA CORRUPT > DHLz4dBiz5SVgVRm4gIT<br>
     < DATA CORRUPT > ldUSLxCizmxX7AfA3Jl2<br>
     < - end of file -><br>
+* notes<br>
+  * nerd
+
+    I'm so fed up with him. Why couldn't he just send the password? I had to mess around with his "cipher". Good thing they told me he uses name-matching encryption, or I would have killed so much time....
+    Fucking nerd.
+
+  * observer
+
+    Please give me a higher level user, the current one is not suitable for my tasks!
+    
+    This user should have the permission to view, edit, and delete files of all users in the department.
+
+  * logs
+
+    Where did these logs come from? It feels like someone else is using this user. Gotta look into it.
