@@ -78,6 +78,11 @@
              ---3----------------------------
              ---------------------------------
 
+    ```
+    Railfence Cipher -> 4 Rails -> ME3krfm234icmMI5O3xsd
+    This is the password for readonly
+    ```
+
 
 
 
