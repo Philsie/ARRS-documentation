@@ -46,8 +46,6 @@ pw2: llpymhbec <-- from chief - diary5 and 8<br>
 # Needs decoding / unused
 login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
 seeker <-- appeared in revizor - user<br>
-lxiuvtse <-- from analyst<br>
-gnknbxetk <-- analyst gnknbxetk.string<br>
 ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
 The Supreme Admin
 
