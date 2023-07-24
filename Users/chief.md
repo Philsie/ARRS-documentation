@@ -32,7 +32,7 @@
 			* But it's like a hungry person eating a snack instead of a meal. Complete bullshit.
 
 			wrong characters:
-			0512kR4W:0Y1Z4 
+			0512kR4W:0Y1ZR4 
 
 
 	* diary_item05m_animal.txt<br>
