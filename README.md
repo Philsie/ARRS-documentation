@@ -19,6 +19,17 @@ State: 07/24/2023 1:25AM UTC+3
 
 ![image](https://github.com/Philsie/ARRS-documentation/assets/53367954/e93d808d-9813-4c56-a20a-36f390bf2493)
 
+```mermaid
+graph TD;
+    Baker-->Minerva;
+    Minerva-->analyst;
+    Marzqiz-->observer93-5;
+    observer93-5-->readonly;
+    revizor-->?;
+    Lemondeep-->Boston;
+    Boston-->Chief;
+```
+
 
 # For newest info check users/
 ---
