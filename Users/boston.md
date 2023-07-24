@@ -50,25 +50,25 @@
     Yeah, we will get so1zIg1ng to drink after that, no doubt. Just, more stories to tell, as always. <br>
     I have one and a half mags left%WM4k. That is enough. I know. 0gRTMg0 <br>
     < - end of file -> <br>
-
+	
  * DECODING<br>
- 	----
-   		Step 1: number in the diary names
-   			73
-   			90
-   			21
-   		Step 2: Text inbetween numbers
-   			7 QTUgQ 3 jYgQz
-   			9 ggRDY 0 gRTMg
-   			2 RjAgR 1 zIg
-   		Step 3: combine and base 64
-   			A5 B6 C8 D6 E3 F0 G2
-   		Step 4: Stuff behind % signs and Affine cypher
-   			W2pjBRZovMmwqojolKHxWM4k + A5B6
-   			Y2hlZXJmdWwycmlmbGVtYW4g
-   		Step 5: Base64
-   			cheerful2rifleman
-   			# PW for chief
+----
+	Step 1: number in the diary names
+		73
+		90
+		21
+	Step 2: Text inbetween numbers
+		7 QTUgQ 3 jYgQz
+		9 ggRDY 0 gRTMg
+		2 RjAgR 1 zIg
+	Step 3: combine and base 64
+		A5 B6 C8 D6 E3 F0 G2
+	Step 4: Stuff behind % signs and Affine cypher
+		W2pjBRZovMmwqojolKHxWM4k + A5B6
+		Y2hlZXJmdWwycmlmbGVtYW4g
+	Step 5: Base64
+		cheerful2rifleman
+		# PW for chief
    			
 * notes
 
