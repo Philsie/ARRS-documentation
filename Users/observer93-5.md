@@ -63,7 +63,7 @@
                 P2: Yeah? What is it?
                 P1: Here. “DELETED”. Keep it for later.
                 P2: ln;3jn3rfg
-      * gas  
+  * gas  
               Lately I've been smelling a constant gasoline odor. There's no way to escape the feeling. It's like I've had a disease and now I'm facing the consequences. But all right. At least my favorite candy still tastes the same. <br>
        <br>
    * mail  
