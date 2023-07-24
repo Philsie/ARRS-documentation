@@ -15,6 +15,7 @@ State: 07/24/2023 1:25AM UTC+3
 | minerva      | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        |
 | analyst      | athenarole                        | analyst  | not Active | Jack          |
 | boston       | lucky1marksman                    | observer | Active     | confidential  |
+| chief        | cheerful2rifleman                 | ? | ?     | ?  |
 
 # For newest info check users/
 ---
