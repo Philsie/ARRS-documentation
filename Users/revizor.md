@@ -18,6 +18,7 @@
 		Sea Chub (Kyphosus sectatrix)
 		Scorpionfish
 		Sockeye Salmon (Oncorhynchus nerka)
+  		Sculpin
 		swedishfish
  	  
 * notes  
