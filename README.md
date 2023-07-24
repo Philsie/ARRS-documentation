@@ -31,7 +31,7 @@ graph TD;
     baker-->minerva;
     minerva-->analyst;
     marzqiz-->observer93-5;
-    observer93-5-->readonly;
+    observer93-5-->?readonly?;
     revizor-->?;
     lemondeep-->boston;
     boston-->chief;
