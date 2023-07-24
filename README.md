@@ -1,4 +1,5 @@
 ## ARRS Season 3 
+# DONT USE CHATGPT UNDER ANY CIRCUMSTANCE!!!
 State: 07/24/2023 1:25AM UTC+3
 
 | User         | Password                          | Level    | Status     | Name          |  
