@@ -1,6 +1,6 @@
 ## ARRS Season 3 
 # DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE!!!
-State: 07/24/2023 4:48pm UTC+3
+State: 07/24/2023 7:29pm UTC+3
 
 | User         | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
 |--------------|-----------------------------------|----------|------------|---------------|--------------------------|
@@ -20,7 +20,8 @@ State: 07/24/2023 4:48pm UTC+3
 | ?            | pw2:llpymhbec                     | ?        | ?          | ?             | Not Unlocked             |
 | readonly     |                                   | ?        | ?          | ?             | Not Unlocked             |
 | overseer545  | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | WIP                      |
-| unknown001   |                                   | ?        | ?          | ?             | Not Unlocked             |
+| unknown001   |                                   |          |            |               |                          |
+| observer001  | 12c19389f01ca269                  | observer | Active     | unknown       | WIP                      |
 
 ```mermaid
 graph TD;
@@ -33,12 +34,13 @@ graph TD;
     observer54-5--IRL-->lemondeep;
     baker-->minerva;
     minerva-->analyst;
+    analyst-->overseer545;
+    overseer545-->observer001
     marzqiz-->observer93-5;
     observer93-5-->readonly;
     revizor-->?;
     lemondeep-->boston;
     boston-->chief;
-    analyst-->overseer545;
 ```
 
 
