@@ -14,6 +14,7 @@ State: 07/24/2023 1:25AM UTC+3
 | observer93-5 | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   |
 | minerva      | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        |
 | analyst      | athenarole                        | analyst  | not Active | Jack          |
+| boston       | lucky1marksman                    | observer | Active     | confidential  |
 
 # For newest info check users/
 ---
