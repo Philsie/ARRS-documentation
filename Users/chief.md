@@ -29,7 +29,7 @@
 			* Villages, forests in which there is nothing.
 			* The Locals want to exchange something for Moonshine.
 			* Fights in bars still somehow brighten up my thirst.
-			* But it's like a hungry person eating a snack instead of a Real. Complete bullshit.
+			* But it's like a hungry person eating a snack instead of a meal. Complete bullshit.
 
 	* diary_item05m_animal.txt<br>
 	< - file -><br>
