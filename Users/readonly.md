@@ -116,7 +116,7 @@
             JB                                                                         ^&;G. 
             !Y                                                                          ?G. 
             ?&;@@@@&;PYJ??7!!~~~VmpGU1MyRnRVWGxVYkd4VVltdGFhRmR1YjNkUFVUMDk=~~~?&;@@@@&;PYJ??7!
-
+    ---
             VmpGU1MyRnRVWGxVYkd4VVltdGFhRmR1YjNkUFVUMDk= --5x base64--> cg0qrjf
 
   * alphabet<br>
@@ -124,6 +124,9 @@
     ABCDEFGHIJKLMNPQRSTUVWXYYZ<br>
     ABCDEFGHIJLMNOPQRSTUVWXYYZ<br>
     ABCDFGHIJKLMNOPQRSTUVWXYYZ<br>
+
+        missing letters in order:
+        joke
 
   * heal_wheat<br>
     Perhaps one of the most fascinating discoveries that our team was fortunate enough to make was the effect of \[deleted\] on one very annoying wheat disease, namely Puccinia recondita. It's a type of parasitic fungus that affects wheat. It looks like the stalks of the grain suddenly rusted. <br>
