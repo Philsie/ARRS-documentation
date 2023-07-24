@@ -23,6 +23,8 @@
     < - end of file -><br>
     
         Qmxvd2Zpc2g= --base64--> Blowfish
+        upfinvss --viginere(blowfish)--> terminal
+        df30d7ec6c752a5a639efc845e26a93a --MD5 of-> Blowfish
 
   * ARRS_NODE_415-1_2.log<br>
     < - file -><br>
