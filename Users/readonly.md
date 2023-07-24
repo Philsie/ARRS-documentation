@@ -79,3 +79,54 @@
     10.07.2023 15:18:43 UTC +3 Trace source MAC: 2d:0c:23:1o:3vf:04<br>10.07.2023 15:18:55 UTC +3 Error: Transmission Password Interrupted Part1: vspxry192<br>
     10.07.2023 15:19:44 UTC +3 Error: Transmission Password Interrupted Part2: LsvJbi23<br>
     10.07.2023 15:22:13 UTC +3 Error: Transmission Password Interrupted Part3: bmeui21<br>
+
+* notes<br>
+  * lllll<br>
+  
+                                                                .                               
+                                                          ^G5PJ^~:  .!Y5Y^                  
+                                                          Y&;~5@&;@? ?B@@@@B.                 
+                  .^^           .^!?Y5P5J^ .:^~7J5PPPP5YJ?B#:?@&;&;GG@@&;&;&;@#^..               
+                  .B&;G!     .~JG#&;@&;&;###&;#B#&;&;@@###&;&;@@@&;B@@GB@&;&;@@&;&;&;&;&;&;BJP&;J              
+                   ^B@&;P^ .JB@@@@@@&;&;&;@@@@@&;GBB#&;####&;##B#@@@@&;&;@@&;@@&;@@#^7&;G^              
+                !P5JY#&;@&;5B@&;@@@@@@@&;##@#PPPPPPGB#&;@@@@&;&;&;@@@&;@@@@@@@&;@&;BB@P:               
+                .75BBB#&;@@@B&;@@@&;#B#&;&;&;GB&;@&;@@&;&;@@@@&;&;&;@@@@@&;@@@@@@@@@@#5G###Y~. ...::.     
+                :75#@@@@@@@@@@&;P5G#&;@@&;B#@B5@BJYP5?^::!!5#&;@@GY5G##5J5GGB#&;@@@@#BGPP57.     
+             :?G&;@@@&;&;&;&;@@@&;@@@&;@@@@&;&;@@@GP5?~^:         .:75J77!^.    .^!YG&;@@@@@P:  ....  
+            JB@@@@@@&;#&;&;&;@@@@@@@@#@@&;@@G7^.                                .~?5B@@@B7:  ..  
+            &;#&;@@@&;&;&;#@@@BG@#&;@@@@@@@&;J.                           :^~7?JY55YJ~ ^?G@@B5J~.  
+            @@@@@&;JB@@&;&;@#5@&;&;@@@@@BJ:    .^~~~~~^^^^^.           .!J?5BJ:.        ~B@P~!:  
+            @#P@@&;#@@&;&;@&;@@@@@@@&;&;&;!      .^!!!!Y&;B777^     ..        :GP.          .G@?    
+            @5B@@@@&;&;&;&;@@&;@&;@BGBBG! .           :PY      ~^ J#~7G7!7. ..             :##:   
+            @#@@@@@@@@&;@@@@&;@BJ7^  ..            .^  ^GYJ#J ?5!:JJ!PP~^YJ^ ..         ?@7   
+            @@@@@&;#BBBPB@@@@&;&;P^..              ~#G  ^Y7^7JYYYYYJ?????::7Y~.!^        ~@P^. 
+            @@@@J:.   :?B@@@@@@&;Y~             ^BP^      ^!~:.               .        J@5   
+            @@@5 .~~~:. ^P#&;@@#&;#?.  .^^       ..                      .^:           7&;G:   
+            7#@Y  :^~!5BJ!?JPP??Y5J.  ~7.                    . ^!^:.:YJ^!55!  :. .^?GG?.    
+             ~P&;G?^:. :JYJJJJY5BBJ~^^^^:               .. ^~.P#PB&;#B!!&;#~.?#P~5#P#&;&;&;G5J~.  
+            :?YG@@@&;#BGPPGGGPY?7!!~~7YJPBBP57.  .~7?JJY55YPGJG@&;P&;@@@J~#@P7P&;&;#@@@@&;&;@@@@#! 
+             75PB&;@@@@&;GJ!:.          J#G5PGBBPP#G7^.  .....::^~7J5PB&;BG&;@#P5&;@PP&;@@&;&;&;@@@&;^
+                !#@GJ~:             .PB~     .^~7J55Y7^              :~7JGBJ~77: ^J#@@&;@&;@@!
+               ^G#7                 ?G.            .^7Y5Y!.               .^:.     .7#@@&;@@!
+              ^#G:                 .P.                 .!YP5?^.                    .7#&;@@@B:
+             :#P.                  ?#??!^::..              ^?##GJ!^:.          .^!YBB??@&;Y. 
+             5B.        ~JJ7~^.    ?&;@@@@&;PYJ??7!!~~~!!!77?JJ5PP5Y555YJ???JJYY555YJY?YPJ:   
+            ^#~        .7?J?777!~^^~P&;&;&;BY:   ........::::::.       ..::^^^^^:..     .7J.   
+            7B.                  ....:::                                              :GB:  
+            JB                                                                         ^&;G. 
+            !Y                                                                          ?G. 
+            ?&;@@@@&;PYJ??7!!~~~VmpGU1MyRnRVWGxVYkd4VVltdGFhRmR1YjNkUFVUMDk=~~~?&;@@@@&;PYJ??7!
+
+  * alphabet<br>
+    ABCDEFGHIKLMNOPQRSTUVWXYYZ<br>
+    ABCDEFGHIJKLMNPQRSTUVWXYYZ<br>
+    ABCDEFGHIJLMNOPQRSTUVWXYYZ<br>
+    ABCDFGHIJKLMNOPQRSTUVWXYYZ<br>
+
+  * heal_wheat<br>
+    Perhaps one of the most fascinating discoveries that our team was fortunate enough to make was the effect of \[deleted\] on one very annoying wheat disease, namely Puccinia recondita. It's a type of parasitic fungus that affects wheat. It looks like the stalks of the grain suddenly rusted. <br>
+    <br>
+    It's a great discovery that will help us move forward in the crop market. It's not a favorable environment for [deleted], and it's good that we've found a way to protect against this fungus using conventional methods.<br>
+    
+    
+                
