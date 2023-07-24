@@ -31,6 +31,9 @@
 			* Fights in bars still somehow brighten up my thirst.
 			* But it's like a hungry person eating a snack instead of a meal. Complete bullshit.
 
+			0512kR4W:0Y1Z4 wrong characters
+
+
 	* diary_item05m_animal.txt<br>
 	< - file -><br>
 	cH That was intense. I have finally got that adrenaline I have wanted. I dumped couple mags towards those bastards, probably scared them off. cy<br>
