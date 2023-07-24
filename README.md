@@ -36,7 +36,7 @@ gnknbxetk <-- analyst gnknbxetk.string<br>
 Affine - Vignere cipher  
 Playfair  
 base64  
-Rot24  
+Rot23 
 
 # Sonnet Progress  
 1. verse --> trash_can_foto.jpg
