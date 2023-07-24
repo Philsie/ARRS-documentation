@@ -2,25 +2,25 @@
 # DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE!!!
 State: 07/24/2023 8:36pm UTC+3
 
-| User                                       | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
-|--------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
-| [defaultuser](./Users/defaultuser.md)      | 123456test                        | observer | Active     | System user   | Solved                   | 
-| [observer33-4](./Users/observer33-4.md)    | 098712345                         | observer | Not Active | James Torwind | Solved                   |   
-| [galgalgal](./Users/galgalgal.md)          | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    | Solved                   |  
-| [observer54-5](./Users/observer54-5.md)    | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | Solved                   |
-| [revizor](./Users/revizor.md)              | greenJNefimpo234                  | observer | Active     | confidential  | WIP                      |
-| [marzqiz](./Users/marzqiz.md)              | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
-| [baker](./Users/baker.md)                  | blueJuih4ol23ik1                  | observer | Active     | Mike          | Solved                   | 
-| [lemondeep](./Users/lemondeep.md)          | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
-| [observer93-5](./Users/observer93-5.md)    | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
-| [minerva](./Users/minerva.md)              | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
-| [analyst](./Users/analyst.md)              | athenarole                        | analyst  | not Active | Jack          | Solved                   |
-| [boston](./Users/boston.md)                | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
-| [chief](./Users/chief.md)                  | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
-| [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
-| [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
-| [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | Finished                 |
-| [readonly](./Users/readonly.md)            | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| User                                               | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
+|----------------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
+| [defaultuser](./Users/Pre_IRL/defaultuser.md)      | 123456test                        | observer | Active     | System user   | Solved                   | 
+| [observer33-4](./Users/Pre_IRL/observer33-4.md)    | 098712345                         | observer | Not Active | James Torwind | Solved                   |   
+| [galgalgal](./Users/Pre_IRL/galgalgal.md)          | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    | Solved                   |  
+| [observer54-5](./Users/Pre_IRL/observer54-5.md)    | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | Solved                   |
+| [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | WIP                      |
+| [marzqiz](./Users/USA/marzqiz.md)                  | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
+| [baker](./Users/Russia/baker.md)                   | blueJuih4ol23ik1                  | observer | Active     | Mike          | Solved                   | 
+| [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
+| [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
+| [minerva](./Users/Russia/minerva.md)               | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
+| [analyst](./Users/Russia/analyst.md)               | athenarole                        | analyst  | not Active | Jack          | Solved                   |
+| [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
+| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
+| [overseer545](./Users/Russia/overseer545.md)       | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
+| [observer001](./Users/Russia/observer001.md)       | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
+| [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
+| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
 
 ```mermaid
 graph TD;
@@ -48,17 +48,17 @@ graph TD;
 # For newest info check users/
 ---
 # Pword currently not used 
-### Tokyo
+### Japan
 * pw2: llpymhbec <-- from chief - diary5 and 8<br>
 
 # Needs decoding / unused
 * The Supreme Admin 
 ### USA
-* ~~login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)~~<br>
 * ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
 ### France
 * seeker <-- appeared in revizor - user<br>
-### Tokyo
+### Japan  
+* animal <-- appeared in chief<br>
 
 
 # Decoders / Ciphers used  
