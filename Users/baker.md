@@ -53,6 +53,10 @@
           ::::....................:::::::^^^^^~~~~~~!!!!!!777????????????????????????J?JJJ
           ::::::::::::::::.:.::.::::::::::^::::^:^^^^^^^~^~~~!~~!7!7!!7?J77JJYJJ55YJ55Y555
 
+    ---
+          minerva --> new account
+          5:7 affine cipher key
+
   * Cake2.txt
       ---
           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,5 +133,30 @@
                 ..........................:~!!YY?YYYYYYYYYYYYYYYYYbase!!64!!!!:::...............
                 ....................................:::::::::::::...........:...................
 
+* dir<br>
+    * copy_error.log<br>
+        2023-07-03 13:51:34.089 +03:00|0.11.01.7.12380|Info|EncryptSystemHash: OK<br>
+        2023-07-03 13:51:34.108 +03:00|0.11.01.7.12380|Info|application|Application awaken, updateQueue:'Update' <br>
+        2023-07-03 13:51:35.123 +03:00|0.11.01.7.12380|Info|application|Assert.raiseExceptions:'True' <br>
+        2023-07-03 13:51:36.456 +03:00|0.11.01.7.12380|Info|application|Application obfuscation succeed. <br>
+        2023-07-03 13:51:36.315 +03:00|0.11.01.7.12380|Info|application|MSHU2L is available on this machine, Status: MsHU2L_OK. <br>
+        2023-07-03 13:51:40.815 +03:00|0.11.01.7.12380|Info|application|ApplyLoadAppDOc: OK<br>
+        2023-07-03 13:51:46.651 +03:00|0.11.01.7.12380|Info|MSHU2L_backendA|---&gt; Request  URL: :<br>
+        2023-07-03 13:51:47.265 +03:00|0.11.01.7.12380|Info|MSHU2L_backendA|&lt;--- response URL: :, time: 0.591 seconds:<br>
+        2023-07-03 13:51:47.278 +03:00|0.11.01.7.12380|Info|MSHU2L_backendB|---&gt; Request  URL: :<br>
+        2023-07-03 13:51:47.593 +03:00|0.11.01.7.12380|Info|MSHU2L_backendB|&lt;--- response URL: :, time: 0.301 seconds:<br>
+        2023-07-03 13:51:47.617 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|---&gt; Request  URL: :<br>
+        2023-07-03 13:51:47.776 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 60.149 seconds: FAIL<br>
+        2023-07-03 13:52:47.163 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 52.121 seconds: FAIL<br>
+        2023-07-03 13:53:47.567 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 55.137 seconds: FAIL<br>
+        2023-07-03 13:54:47.231 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 58.114 seconds: FAIL<br>
+        2023-07-03 13:55:47.453 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 58.114 seconds: FAIL<br>
+        2023-07-03 13:55:48.409 +03:00|0.11.01.7.12380|Error|MSHU2L_backendC|Don't Request<br>
+        2023-07-03 13:55:53.209 +03:00|0.11.01.7.12380|Error|MSHU2L_backendC|Use local machine backend C<br>
+        2023-07-03 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---&gt; Request|Login: ******|Password: OHZ3ei90Vy8vdmM9<br>
+        2023-07-03 13:56:01.102 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local| Success Login<br>
+
+            OHZ3ei90Vy8vdmM9--bse64-->8vwz/tW//vc=
+              Password for Minerva
 
           
