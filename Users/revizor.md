@@ -19,6 +19,7 @@
 		Scorpionfish
 		Sockeye Salmon (Oncorhynchus nerka)
   		Sculpin
+  		Snapper (Red Snapper)
 		swedishfish
  	  
 * notes  
