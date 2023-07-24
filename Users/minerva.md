@@ -23,6 +23,11 @@
     < - file -><br>
     https://drive.google.com/drive/u/2/folders/1gUBkryLJZvU-cdgnktmDSEiSVrsr5fxH<br>
     < - end of file -><br>
+    
+		Minerva picture gives in metadata: Password = afvmnazqhm 
+		Using Affine cipher with A3 B0 gives Password = athenarole
+		Used for analyst
+
 
 * notes
 
