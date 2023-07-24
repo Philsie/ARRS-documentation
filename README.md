@@ -35,7 +35,7 @@ graph TD;
     analyst-->overseer545;
     overseer545-->observer001;
     observer001-->observer993;
-    observer993 --x russiaEnd["end of this branch,\n likely"]
+    observer993 --x--> russiaEnd["end of this branch,\n likely"]
     marzqiz-->observer93-5;
     observer93-5-->readonly;
     revizor-->?;
