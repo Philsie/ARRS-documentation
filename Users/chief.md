@@ -32,6 +32,7 @@
 			* But it's like a hungry person eating a snack instead of a meal. Complete bullshit.
 
 			wrong characters:
+   			onincsahhouisma
 			0512kR4W:0Y1ZR4 
 
 
