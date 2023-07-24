@@ -15,7 +15,7 @@ State: 07/24/2023 8:36pm UTC+3
 | [observer93-5](./Users/observer93-5.md)    | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
 | [minerva](./Users/minerva.md)              | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
 | [analyst](./Users/analyst.md)              | athenarole                        | analyst  | not Active | Jack          | WIP                      |
-| [boston](./Users/boston.md)                | lucky1marksman                    | observer | Active     | confidential  | WIP                      |
+| [boston](./Users/boston.md)                | lucky1marksman                    | observer | Active     | confidential  | Finished                 |
 | [chief](./Users/chief.md)                  | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
 | [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | WIP                      |
 | [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | WIP                      |
