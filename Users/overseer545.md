@@ -62,7 +62,7 @@
     e6906be141<br>
     <br>
     
-  * minerva  <br>
+  * analyst  <br>
     From: overseer545<br>
     To: unknown001<br>
     <br>
