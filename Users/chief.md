@@ -24,12 +24,12 @@
     Fights in bars still someh0w brighten up my thirst.<br>
     But it's like a hYngry person eat1ng a snack inZtead of a Re4l. Complete bullshit.<br>
     < - end of file -><br>
-	---
-		*
-		* Villages, forests in which there is nothing.
-		* The Locals want to exchange something for Moonshine.
-		* Fights in bars still somehow brighten up my thirst.
-		* But it's like a hungry person eating a snack instead of a Real. Complete bullshit.
+---
+	*
+	* Villages, forests in which there is nothing.
+	* The Locals want to exchange something for Moonshine.
+	* Fights in bars still somehow brighten up my thirst.
+	* But it's like a hungry person eating a snack instead of a Real. Complete bullshit.
     <br>
   * diary_item05m_animal.txt<br>
     < - file -><br>
