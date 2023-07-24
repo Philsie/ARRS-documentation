@@ -40,6 +40,8 @@
     < - end of file -><br>
 
         < DATA CORRECT > KIKjCMvWFcKevUdaY0FKOA==
+        Blowfish in ECB mode using terminal as the key
+        KIKjCMvWFcKevUdaY0FKOA== --> observer993
 
   * ARRS_NODE_415-1_3.log<br>
     < - file -><br>
@@ -68,6 +70,8 @@
     < - end of file -><br>
 
         < DATA CORRECT > QND4lcjALdCyFxtcnukjLg==
+        Blowfish in ECB mode using terminal as the key
+        QND4lcjALdCyFxtcnukjLg== --> 333winner3
 
   * ARRS_NODE_415-1_5.log<br>
     < - file -><br>
