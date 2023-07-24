@@ -39,9 +39,10 @@ graph TD;
     observer993--X-->russiaEnd["end of this branch,\n likely"];
     marzqiz-->observer93-5;
     observer93-5-->readonly;
-    revizor-->?;
+    revizor--Current Theory-->seeker;
     lemondeep-->boston;
     boston-->chief;
+    chief--Current Theory-->animal;
 ```
 
 
