@@ -37,6 +37,7 @@ graph TD;
     revizor-->?;
     lemondeep-->boston;
     boston-->chief;
+    analyst-->overseer545;
 ```
 
 
