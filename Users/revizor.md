@@ -10,6 +10,15 @@
 	Status: Active  <br>
 	Description: The hey is I like red fish. I forgot the name of it. It is pretty common. Starts with S.  <br>
 	Notes: Have a Vision.  <br>
+ ---
+ 	List of red fish:
+	Scarlet Shiner (Notropis lentiginosus)
+	Squirrelfish
+	Sergeant Major (Abudefduf saxatilis)
+	Sea Chub (Kyphosus sectatrix)
+	Scorpionfish
+	Sockeye Salmon (Oncorhynchus nerka)
+	swedishfish
  	  
 * notes  
 	*  note012  
