@@ -31,7 +31,8 @@
 			* Fights in bars still somehow brighten up my thirst.
 			* But it's like a hungry person eating a snack instead of a meal. Complete bullshit.
 
-			0512kR4W:0Y1Z4 wrong characters
+			wrong characters:
+			0512kR4W:0Y1Z4 
 
 
 	* diary_item05m_animal.txt<br>
