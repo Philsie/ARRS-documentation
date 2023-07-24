@@ -47,6 +47,8 @@
     10.07.2023 14:32:57 UTC +3 LoginError: Invalid password, Report to the admin immediately!<br>
 
         pkcs5padding
+        PKCS#5 padding was only defined with RC2/RC5 and (triple) DES operation in mind.
+        https://crypto.stackexchange.com/questions/9043/what-is-the-difference-between-pkcs5-padding-and-pkcs7-padding
     
   * ARRS_NODE_deleted(3).log<br>
     10.07.2023 14:34:51 UTC +3 LoginError: Invalid password, Attempt: 1<br>
