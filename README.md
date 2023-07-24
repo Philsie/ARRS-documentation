@@ -17,8 +17,8 @@ State: 07/24/2023 8:36pm UTC+3
 | [analyst](./Users/analyst.md)              | athenarole                        | analyst  | not Active | Jack          | Solved                   |
 | [boston](./Users/boston.md)                | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
 | [chief](./Users/chief.md)                  | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
-| [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | WIP                      |
-| [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | WIP                      |
+| [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
+| [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
 | [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | Finished                 |
 
 ```mermaid
