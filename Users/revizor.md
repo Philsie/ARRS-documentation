@@ -63,3 +63,7 @@
    			Number acording to alphabet
    			YuccRa gg
    			YbaccRa gg
+
+			Text fixes:
+   			D&*%”MachineRootSystem --> DriveMaschineRootSystem
+   			G%Service%%%”ider --> GDServiceProvider
