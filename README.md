@@ -19,7 +19,7 @@ State: 07/24/2023 7:36pm UTC+3
 | [chief](./Users/chief.md)                  | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
 | [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | WIP                      |
 | [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | WIP                      |
-| [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | WIP                      |
+| [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | Finished                 |
 
 ```mermaid
 graph TD;
@@ -35,6 +35,7 @@ graph TD;
     analyst-->overseer545;
     overseer545-->observer001;
     observer001-->observer993;
+    observer993 --x russiaEnd["end of this branch,\n likely"]
     marzqiz-->observer93-5;
     observer93-5-->readonly;
     revizor-->?;
