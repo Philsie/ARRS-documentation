@@ -49,10 +49,10 @@
 	Preston did everything he could for him. Mg<br>
 	< - end of file -><br>
  
-	> random letters from diary_item05m_animal.txt and diary_item08j_animal.txt -> <br>
-	> cH cy Oi Bs bH B5 bW hi ZW Mg <br>
-	> -> base64 ->  <br>
-	> pw2: llpymhbec <br>
+			random letters from diary_item05m_animal.txt and diary_item08j_animal.txt -> <br>
+			cH cy Oi Bs bH B5 bW hi ZW Mg <br>
+			-> base64 ->  <br>
+			pw2: llpymhbec <br>
 
 * notes <br>
 	*  chief_details
