@@ -32,7 +32,8 @@ graph TD;
     baker-->minerva;
     minerva-->analyst;
     analyst-->overseer545;
-    overseer545-->observer001
+    overseer545-->observer001;
+    observer001-->observer993;
     marzqiz-->observer93-5;
     observer93-5-->readonly;
     revizor-->?;
