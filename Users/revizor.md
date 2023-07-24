@@ -65,5 +65,5 @@
    			YbaccRa gg
 
 			Text fixes:
-   			D&*%”MachineRootSystem --> DriveMaschineRootSystem
+   			D&*%”MachineRootSystem --> DriveMachineRootSystem
    			G%Service%%%”ider --> GDServiceProvider
