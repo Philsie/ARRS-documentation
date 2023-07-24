@@ -53,3 +53,6 @@
 		12:44:26 release data structure: blocknet scope init script: page1: sum of names of blocks in each name map. address end address chain chain top block height  <br>
 		12:44:31 chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk  <br>
 		12:44:33 Chain hash start chunk chain hashtimestamp: 1ea5aef5caac93c46ece74c162aa99eb665  <br>
+
+  			Errors inside the timestamps top to bottom
+   			YlcRagg
