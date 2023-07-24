@@ -51,6 +51,13 @@ ogqlq<br>
 I know one thing, I can hope. I can hjg9 that this escalation ends with Terra Group sileaf1y running away.uyn9<br>
 < - end of file -><br>
 
+* decoding<br>
+---
+	Stuff behind Slashes:
+ 		cHc6IGx1Y2t5MW0K
+   	Base64:
+    		pw: lucky1m
+
 * notes
   <br>
     * assignment
