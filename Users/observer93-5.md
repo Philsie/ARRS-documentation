@@ -20,8 +20,7 @@
                   Vm0weE1GWXlSbkpPVm1oVVlteEtWRmxyWkc5VlJsWnlWMjVrVkUxV1ZqTldNblF3WVRGYWRGVnVjRnBXVjJoeVZrUkdXbVF3TlZWUmJHUlhaV3hhTVZaVldrWlBWa0pTVUZRd1BRPT0=  <br>
                   
       ---
-          multiple base64 decodes
-          Login: tgezyrdq
+          Seven base64 decodes -> Login: tgezyrdq -> Affine a:7, b:4 -> Bueif: readonly
     
   * BattleShip.zip  
       Won my first Battleship game. It was awesome. Only lost two ships. THIS IS THE BEST SHIP FORMATION, NO ONE COULD BEAT ME ALL NIGHT!  <br>
@@ -78,6 +77,11 @@
              --E-----------------------------
              ---3----------------------------
              ---------------------------------
+
+    ```
+    Railfence Cipher -> 4 Rails -> ME3krfm234icmMI5O3xsd
+    This is the password for readonly
+    ```
 
 
 
