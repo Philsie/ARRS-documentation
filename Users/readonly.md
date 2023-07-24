@@ -140,18 +140,24 @@
     ABCDEFGHIJLMNOPQRSTUVWXYYZ<br>
     ABCDFGHIJKLMNOPQRSTUVWXYYZ<br>
 
-        Normal
+        Normal:
         ABCDEFGHIJKLMNOPQRSTUVWXYZ
         
-        ARRS
+        From Notes:
         ABCDEFGHI-KLMNOPQRSTUVWXYYZ
-        ---------J---------------Y-
+        ---------J---------------Y- 
         ABCDEFGHIJKLMN-PQRSTUVWXYYZ
         --------------O----------Y-
         ABCDEFGHIJ-LMNOPQRSTUVWXYYZ
         ----------K--------------Y-
         ABCD-FGHIJKLMNOPQRSTUVWXYYZ
         ----E--------------------Y-
+
+        J->10
+        O->15
+        K->11
+        E->5
+        Y->25
 
 
    
