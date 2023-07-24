@@ -43,12 +43,13 @@
   * diary_item101_boston8g.txt <br>
     <br>
       < - file -> <br>
-      Everything goes accordkns to plan. The road looks safe. Everyth///5MW is just like in the textbvqas.  <br>
-      Everything is smooth and.. so unrealistically calm. I hope the Ag6oal doesn't die of boredom. It's hard seeing him like this.  <br>
-      He is genuimyyy disappoineup. Poor guy. <br>
-      Still, I feel something is off. I think someone is following us, so I always watch our six. It is always clear. Unless Bear’s issued adaptive camo from the government, wh//0K I doubt.  <br>
-      I know one thing, I can hope. I can hjg9 that this escalation ends with Terra Group sileaf1y running away.uyn9 <br>
-      < - end of file -> <br>
+Everything goes accordkns to plan. The road looks safe. Everyth///5MW is just like in the textbvqas. <br>
+Everything is smooth and.. so unrealistically calm. I hope the Ag6oal doesn't die of boredom. It's hard seeing him like this. <br>
+He is genuimyyy disappoineup. Poor guy.<br>
+Still, I feel something is off. I think someone is following us, so I always watch our six. It is always clear. Unless Bear’s issued adaptive camo from the government, wh//0K I doubt. <br>
+ogqlq<br>
+I know one thing, I can hope. I can hjg9 that this escalation ends with Terra Group sileaf1y running away.uyn9<br>
+< - end of file -><br>
 
 * notes
   <br>
