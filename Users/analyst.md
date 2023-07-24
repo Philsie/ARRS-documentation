@@ -19,6 +19,9 @@
    
       athenarole
 
+			Vigenere with key "terminal" on hzvdarec545 give overseer545
+			Vigenere with key "terminal" on trrxgfj give analysj
+
 *  dir  
 
    *  avatar.link<br>
@@ -29,7 +32,10 @@
    * gnknbxetk.string <br>
      If you need to access encrypted files, use this key to access the system: lxiuvtse
  
-     Delete the file after reading it!
+     Delete the file after reading it!  
+
+     		Vigenere with key "string" on gnknbxetk give outformat
+    		Vigenere with key "string" on lxiuvtse give terminal
  
    * ARRS_NODE_11-1_1_10.06.2023.log <br>
      < - file -> <br>
