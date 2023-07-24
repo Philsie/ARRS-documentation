@@ -67,3 +67,5 @@
 			Text fixes:
    			D&*%”MachineRootSystem --> DriveMachineRootSystem
    			G%Service%%%”ider --> GDServiceProvider
+
+      			missing/wrong letters: hVY2lc&*%”3%%%%”R1-0verb111-pgm01aagmg
