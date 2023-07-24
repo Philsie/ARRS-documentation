@@ -48,7 +48,7 @@
               
       ---
           Nor services to do, till you require
-          battle.png
+          Batte.png
           s. Images/observer93-5/battle.png
 
 * notes  
