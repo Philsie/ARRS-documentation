@@ -63,14 +63,18 @@ graph TD;
 
 
 # Decoders / Ciphers used  
-1. https://gchq.github.io/CyberChef/
-2. https://www.dcode.fr/cipher-identifier
-3. https://www.boxentriq.com/
-4. https://cryptii.com  
-Affine - Vignere cipher  
-Playfair  
-base64  
-Rot23 
+1. https://gchq.github.io/CyberChef/<br>
+2. https://www.dcode.fr/cipher-identifier<br>
+3. https://www.boxentriq.com/<br>
+4. https://cryptii.com  <br>
+5. https://sladex.org/blowfish.js/<br>
+Affine<br>
+Vignere cipher <br> 
+Playfair<br>  
+base64 <br> 
+Rot\*<br>
+railfence  <br>
+blowfish  <br>
 
 # Sonnet Progress  
 1. verse --> trash_can_foto.jpg
