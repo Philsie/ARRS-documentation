@@ -160,7 +160,7 @@ Whoever can get to the end first wins. Depending on which region the winner is f
    	* 4  
  		1111010 1110110 1100010 1110110 1110010 1111000 1110111 1110011 1100111
    	  
-  	* 1-4 with key from img byte-length 7/8 
+  	* 1-4 --From Binary->-Vigenere with key from img
   	    
 		* 1  
   	  		revizor  
