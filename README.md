@@ -20,6 +20,7 @@ State: 07/24/2023 8:36pm UTC+3
 | [overseer545](./Users/overseer545.md)      | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
 | [observer001](./Users/observer001.md)      | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
 | [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | Finished                 |
+| [readonly](./Users/readonly.md)            | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
 
 ```mermaid
 graph TD;
@@ -35,8 +36,9 @@ graph TD;
     analyst-->overseer545;
     overseer545-->observer001;
     observer001-->observer993;
-    observer993--X-->russiaEnd["end of this branch,\n likely"]
+    observer993--X-->russiaEnd["end of this branch,\n likely"];
     marzqiz-->observer93-5;
+    observer93-5-->readonly;
     revizor-->?;
     lemondeep-->boston;
     boston-->chief;
@@ -52,7 +54,7 @@ graph TD;
 # Needs decoding / unused
 * The Supreme Admin 
 ### USA
-* login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
+* ~~login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)~~<br>
 * ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
 ### France
 * seeker <-- appeared in revizor - user<br>
