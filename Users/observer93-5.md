@@ -1,6 +1,6 @@
 | User         | Password                          | Level    | Status     | Name          |  
 |--------------|-----------------------------------|----------|------------|---------------|  
-| observer93-5 | Jje=2ksxkk2p;1                    | ?        | ?          | ?             |
+| observer93-5 | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   |
 
 
 # observer93-5:Jje=2ksxkk2p;1    
