@@ -17,7 +17,8 @@ State: 07/24/2023 4:48pm UTC+3
 | analyst      | athenarole                        | analyst  | not Active | Jack          | WIP                      |
 | boston       | lucky1marksman                    | observer | Active     | confidential  | WIP                      |
 | chief        | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
-| ?            |llpymhbec                          | ?        | ?          | ?             | Not Unlocked             |
+| ?            | pw2:llpymhbec                     | ?        | ?          | ?             | Not Unlocked             |
+| readonly     |                                   | ?        | ?          | ?             | Not Unlocked             |
 
 ```mermaid
 graph TD;
