@@ -101,3 +101,7 @@ Rot23
     Save, where you are how happy you make those.
     So true a fool is love that in your will
     Though you do anything, he thinks no ill.
+
+# Github credit:
+* [3ncy](https://github.com/3ncy) - Discord:3ncy<br>
+* [Niklas R](https://github.com/NiklasRosenkranz) - Discord:petermaffay<br>
