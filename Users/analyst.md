@@ -20,7 +20,7 @@
       athenarole
 
 			Vigenere with key "terminal" on hzvdarec545 give overseer545
-			Vigenere with key "terminal" on trrxgfj give analysj
+			Vigenere with key "terminal" on trrxgfj give analysj --> Analyst?
 
 *  dir  
 
