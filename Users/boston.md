@@ -5,6 +5,7 @@
 # boston:lucky1marksman
 
 * user
+  
   	Login: boston  <br>
   	Access level: observer  <br>
   	Name: confidential  <br>
@@ -56,4 +57,9 @@
 
   * boston_details
 
-    amg3NTcgVVNFQy0xOWpwZiBvcGVyYXRpdmUuLTlwYmY5LXBqeDV3CkZvcm1lciBVU01DIG9wZXJhdGl2ZSBvZiAybmQgTWFyaW5lIERpdmlzaW9uLCAybmQgUmVjb25uYWlzc2FuY2UgQmF0dGFsaW9uLiAK
+    amg3NTcgVVNFQy0xOWpwZiBvcGVyYXRpdmUuLTlwYmY5LXBqeDV3CkZvcm1lciBVU01DIG9wZXJhdGl2ZSBvZiAybmQgTWFyaW5lIERpdmlzaW9uLCAybmQgUmVjb25uYWlzc2FuY2UgQmF0dGFsaW9uLiAK<br>
+    -> base64 decode ->
+    ```
+    jh757 USEC-19jpf operative.-9pbf9-pjx5w
+    Former USMC operative of 2nd Marine Division, 2nd Reconnaissance Battalion. 
+    ```
