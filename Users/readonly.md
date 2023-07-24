@@ -1,6 +1,6 @@
 | User         | Password                          | Level    | Status     | Name          |  
 |--------------|-----------------------------------|----------|------------|---------------|    
-| analyst      | athenarole                        | analyst  | Not Active | Jack          | 
+| analyst      | athenarole                        | observer | Active     | Deleted       | 
 
 # readonly:ME3krfm234icmMI5O3xsd 
 * user  
