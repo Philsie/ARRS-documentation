@@ -56,5 +56,8 @@
 		12:44:31 chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk  <br>
 		12:44:33 Chain hash start chunk chain hashtimestamp: 1ea5aef5caac93c46ece74c162aa99eb665  <br>
 
-  			Errors inside the timestamps top to bottom
+  			Errors inside the timestamps top to bottom:
    			YlcRagg
+   			Including numbers:
+			Y2lc3R agg
+   			YuccRa gg
