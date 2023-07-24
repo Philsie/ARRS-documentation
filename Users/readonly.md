@@ -80,6 +80,8 @@
     10.07.2023 15:19:44 UTC +3 Error: Transmission Password Interrupted Part2: LsvJbi23<br>
     10.07.2023 15:22:13 UTC +3 Error: Transmission Password Interrupted Part3: bmeui21<br>
 
+        Mac-Adress has error
+
 * notes<br>
   * lllll<br>
   
