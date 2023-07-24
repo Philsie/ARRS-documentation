@@ -12,6 +12,7 @@
 	Notes: Have a Vision.  <br>
 
 		List of red fish:
+  		Salmon
 		Scarlet Shiner (Notropis lentiginosus)
 		Squirrelfish
 		Sergeant Major (Abudefduf saxatilis)
