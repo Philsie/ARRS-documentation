@@ -70,4 +70,7 @@
      12.06.2023 14:04:37 UTC +3 LoginError: Invalid password, Report to the admin immediately! <br>
      < - end of file -> <br>
 
-     		8719t72fvr8885lo906d376nw6713479
+			8719t72fvr8885lo906d376nw6713479  
+			Vigenere with key "terminal" on 8719t72fvr8885lo906d376nw6713479 give 8719a72bef8885db906d376cd6713479  
+			87 19 a7 2b ef 88 8 db 90 6d 37 6c d6 71 34 79  
+
