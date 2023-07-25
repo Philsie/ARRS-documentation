@@ -51,3 +51,17 @@
       <br>
       As of 9.25.17, to xlIHe, no penetration, nor unauthorized entry to on campus facilities of gc2Ftcrsity Corporate System was observed. However, that doesn’t mean it gc2Ftcppen.Zz09 JuxlIH point of reference: ThleHQast week wleHQere warned by hackers regarding breaching into to<br>
       <br>
+
+        N2tVUEUzM
+        DU2WitN
+        eHo0TF
+        ZjUHd2
+        Zz09
+        --base64-->7kUPE3056Z+Mxz4LVcPwvg==
+
+        Reappearing
+        5 - c2FR
+        6 - gc2Ftc
+        5 - leHQ
+        6 - xlIH
+        3 - GxlI
