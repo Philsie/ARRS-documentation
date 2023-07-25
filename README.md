@@ -23,6 +23,7 @@ State: 07/25/2023 11:23am UTC+3
 | [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
 | [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
 | [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
+| [preston](./Users/Japan/preston.md)                | sceptical4medic                   | observer | Active     | confidential  | WIP                      |
 
 ```mermaid
 graph TD;
@@ -45,6 +46,7 @@ graph TD;
     lemondeep-->boston;
     boston-->chief;
     chief-->animal;
+    animal-->preston;
 ```
 
 
