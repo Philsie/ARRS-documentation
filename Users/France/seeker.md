@@ -78,9 +78,16 @@
       <br>
       As of 9.25.17, to xlIHe, no penetration, nor unauthorized entry to on campus facilities of gc2Ftcrsity Corporate System was observed. However, that doesn’t mean it gc2Ftcppen.Zz09 JuxlIH point of reference: ThleHQast week wleHQere warned by hackers regarding breaching into to<br>
       <br>
+ 
+        Most likely fixed version:
+        Our Cyber Security Team has identified Team as those closest  to hack into (the)? systems with influence over one or all of our intranets,
+        & laptop & backup media storage.
+        The transfer of su----ilities was enough leverage for me to immediately obtain your on camera testimony and video presented today.
 
         In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple spaces
-        
+ 
+  * combined notes<br>
+  
         N2tVUEUzM
         DU2WitN
         eHo0TF
@@ -99,3 +106,8 @@
 
         File endings:
         svtearn
+
+        crusial --> crucial
+        double nbsp after closet
+        no space after . after Hardware
+        , &
