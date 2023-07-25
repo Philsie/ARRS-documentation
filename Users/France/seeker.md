@@ -82,7 +82,7 @@
         Most likely fixed version:
         Our Cyber Security Team has identified Team as those closest  to hack into (the)? systems with influence over one or all of our intranets,
         & laptop & backup media storage.
-        The transfer of su----ilities was enough leverage for me to immediately obtain your on camera testimony and video presented today.
+        The transfer of such abilities was enough leverage for me to immediately obtain your on camera testimony and video presented today.
 
         In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple spaces
  
