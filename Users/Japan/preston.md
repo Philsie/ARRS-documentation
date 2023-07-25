@@ -28,7 +28,7 @@
       Sqa0FpZVpNR1         > Squad         > a0FpZVpNR1     > uad
       TeFBUHFQd2c4         > Terra         > FBUHFQd2c4     > rra
       makOVVkS1NpWm        > making        > OVVkS1NpWm     > ing
-      thhyaWo3YWdt         > told          > hhyaWo3YWdt    > old
+      thhyaWo3YWdt         > there         > hyaWo3YWdt     > ere
       preparatiS0RVU2F6bV  > preparations  > S0RVU2F6bV     > ons
       escR3RWY5M3BN        > escape        > R3RWY5M3BN     > ape
       plOW9XWTg3R          > plans         > OW9XWTg3R      > ans
