@@ -39,6 +39,9 @@
       use the data that you are building on to all of your QGdydW50<br>
       <br>
 
+        htyjvgl -> Vigenere(sphere) -> perfect
+        uxygci -> Vigenere(sphere) -> circle
+
         QGdydW50--base64-->@grunt
     
   * note256<br>
