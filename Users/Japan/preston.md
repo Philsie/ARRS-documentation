@@ -25,9 +25,17 @@
       < - end of file ->
     
       ```
-      Sqa0FpZVpNR1 TeFBUHFQd2c4 makOVVkS1NpWm thhyaWo3YWdt preparatiS0RVU2F6bV escR3RWY5M3BN plOW9XWTg3R missWxUYUJaSEJJ soubjAxMzlaUVk4d commXdtOENkTmdjS somethTI0MldjL0s1Q0R
-      Squad        Terragroup   making        theory       preparations        escape        plans       mision          sounds           command          comething  
-
+      Sqa0FpZVpNR1         > Squad         > a0FpZVpNR1     > uad
+      TeFBUHFQd2c4         > Terra         > FBUHFQd2c4     > rra
+      makOVVkS1NpWm        > making        > OVVkS1NpWm     > ing
+      thhyaWo3YWdt         > told          > hhyaWo3YWdt    > old
+      preparatiS0RVU2F6bV  > preparations  > S0RVU2F6bV     > ons
+      escR3RWY5M3BN        > escape        > R3RWY5M3BN     > ape
+      plOW9XWTg3R          > plans         > OW9XWTg3R      > ans
+      missWxUYUJaSEJJ      > mission       > WxUYUJaSEJJ    > ion
+      soubjAxMzlaUVk4d     > sounds        > bjAxMzlaUVk4d  > nds
+      commXdtOENkTmdjS     > command       > XdtOENkTmdjS   > and
+      somethTI0MldjL0s1Q0R > something     > TI0MldjL0s1Q0R > ing
       ```
     
   * diary_item147_grim.txt <br>
@@ -39,8 +47,9 @@
       < - end of file ->
     
       ```
-      bloodlNZ0xPT05kZVJS accepYmVoalV3Z3ZQc seEkyeDY0YVVXO
-      bloodloss           accepted           seems
+      bloodlNZ0xPT05kZVJS  > bloodloss     > NZ0xPT05kZVJS  > oss
+      accepYmVoalV3Z3ZQc   > accepted      > YmVoalV3Z3ZQc  > ted
+      seEkyeDY0YVVXO       > seems         > eEkyeDY0YVVXO  > ems
       ```
 
   * diary_item150_grim.txt <br>
@@ -55,8 +64,14 @@
       < - end of file ->
     
       ```
-      encounGphRndmWVAx batdXNIVkpYeTBW fiercQ3l2Tjk5ZXdPZ1 enoMyVnZXU2d2b0R withZK1c0aHk0ZGNa injurMVFmc1hNWHZ0 PresK01UWThCUE8y unknUnowYWlaSzc4
-      encounter         battle          fiercly             enough           without           injuries          Preston          unknown
+      encounGphRndmWVAx    > encounter     > GphRndmWVAx    > ter
+      batdXNIVkpYeTBW      > battle        > dXNIVkpYeTBW   > tle
+      fiercQ3l2Tjk5ZXdPZ1  > fiercely      > Q3l2Tjk5ZXdPZ1 > ely
+      enoMyVnZXU2d2b0R     > enough        > MyVnZXU2d2b0R  > ugh
+      withZK1c0aHk0ZGNa    > without       > ZK1c0aHk0ZGNa  > out
+      injurMVFmc1hNWHZ0    > injuries      > MVFmc1hNWHZ0   > ies
+      PresK01UWThCUE8y     > Preston       > K01UWThCUE8y   > ton
+      unknUnowYWlaSzc4     > unknown       > UnowYWlaSzc4   > own
       ```
   
 * notes
