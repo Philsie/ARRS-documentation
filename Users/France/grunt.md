@@ -152,6 +152,22 @@
       &lt; DATA CORRUPT &gt; hhdCB0aGV5IGFyZSBkb25lIGJ5IHZlcnkgcXVhbGlmaWVkI<br>
       &lt; DATA CORRUPT &gt; HBlb3BsZS4K<br>
 
+          Base64 ->
+          As an OFFICER,
+          you cannot believe that such a company wants you to
+          implement a huge amount of stuffs in a short time.
+          Youâll need some rest and time to think and gather
+          VEur thoughts for such a project.
+          I am sure that the work environment in this company
+          is not the best as well as the management.
+          JUu can receive several complaints from your peers,
+          so consider it.
+          I seriously doubt that they really want to improve the
+          quality of their products. RUey don't even understand
+          the fact that they are done by very qualified people.
+
+          Officer --> User
+
       
   * note711<br>
       &lt; DATA CORRUPT &gt; SSByZXF1ZXN0IGEgbEJsbCBleHBsYW5<br>
@@ -183,6 +199,8 @@
         or covered to prevent them being seen by the
         enemy during an air raid or a temporary loss
         of consciousness
+
+        --> blackout --> pw
 
 
 
