@@ -26,6 +26,7 @@ State: 07/25/2023 11:23am UTC+3
 | [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
 | [preston](./Users/Japan/preston.md)                | sceptical4medic                   | observer | Active     | confidential  | WIP                      |
 | [grim](./Users/Japan/grim.md)                      | doomed5leader                     |    -/-   |     -/-    |     -/-       | Finished                 |
+| [seeker](./Users/France/seeker.md)                 | kingfish                          | observer |     -/-    | confidential  | Finished                 |
 
 
 
@@ -46,7 +47,7 @@ graph TD;
     observer993--X-->russiaEnd["end of this branch"];
     marzqiz-->observer93-5;
     observer93-5-->readonly;
-    revizor--Current Theory-->seeker;
+    revizor---->seeker;
     lemondeep-->boston;
     boston-->chief;
     chief-->animal;
