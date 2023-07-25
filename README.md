@@ -17,11 +17,12 @@ State: 07/24/2023 8:36pm UTC+3
 | [minerva](./Users/Russia/minerva.md)               | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
 | [analyst](./Users/Russia/analyst.md)               | athenarole                        | analyst  | not Active | Jack          | Solved                   |
 | [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
-| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | WIP                      |
+| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
 | [overseer545](./Users/Russia/overseer545.md)       | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
 | [observer001](./Users/Russia/observer001.md)       | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
 | [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
 | [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
 
 ```mermaid
 graph TD;
@@ -43,7 +44,7 @@ graph TD;
     revizor--Current Theory-->seeker;
     lemondeep-->boston;
     boston-->chief;
-    chief--Current Theory-->animal;
+    chief-->animal;
 ```
 
 
