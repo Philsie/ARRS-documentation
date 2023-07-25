@@ -58,6 +58,8 @@
       As of 9.25.17, to xlIHe, no penetration, nor unauthorized entry to on campus facilities of gc2Ftcrsity Corporate System was observed. However, that doesn’t mean it gc2Ftcppen.Zz09 JuxlIH point of reference: ThleHQast week wleHQere warned by hackers regarding breaching into to<br>
       <br>
 
+        In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple splaces
+        
         N2tVUEUzM
         DU2WitN
         eHo0TF
@@ -71,3 +73,5 @@
         5 - leHQ
         6 - xlIH
         3 - GxlI
+
+        Summer bugs And famous band Is the key --> The Beatles
