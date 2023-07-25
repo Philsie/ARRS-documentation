@@ -26,7 +26,7 @@ State: 07/25/2023 11:23am UTC+3
 | [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
 | [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
 | [servant](./Users/France/servant.md)               | yellowsubmarine                   |          |            |               | WIP                      |
-| [grunt](./Users/France/grunt.md)                   | perfectcircle                     |          |            |               | WIP                      |
+| [grunt](./Users/France/grunt.md)                   | perfectcircle                     | observer | Active     | confidential  | WIP                      |
 | Japan                                              |                                   |          |            |               |                          | 
 | [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
 | [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
