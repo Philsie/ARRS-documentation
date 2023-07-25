@@ -41,7 +41,7 @@ graph TD;
     observer33-4 --> galgalgal;
     galgalgal --> observer54-5;
 
-    observer54-5 --IRL-St.Petersburg--> baker;
+    observer54-5 --IRL-Russia--> baker;
     baker --> minerva;
     minerva --> analyst;
     analyst --> overseer545;
@@ -49,14 +49,14 @@ graph TD;
     observer001 --> observer993;
     observer993 --X--> russiaEnd["end of this branch"];
 
-    observer54-5 --IRL-LA--> marzqiz;
+    observer54-5 --IRL-USA--> marzqiz;
     marzqiz --> observer93-5;
     observer93-5 --> readonly;
 
-    observer54-5 --IRL-Paris--> revizor;
+    observer54-5 --IRL-France--> revizor;
     revizor --> seeker;
 
-    observer54-5 --IRL-Tokyo--> lemondeep;
+    observer54-5 --IRL-Japan--> lemondeep;
     lemondeep --> boston;
     boston --> chief;
     chief --> animal;
