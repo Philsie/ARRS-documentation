@@ -16,6 +16,8 @@
   RvIGJlIHZpc2lv<br>
   bmFyeSAg<br>
 
+      SeKAmW0gdHJ5aW5nIHRvIGJlIHZpc2lvbmFyeSAg --base64--> I’m trying to be visionary  
+
 * notes<br>
   * note413<br>
       h Sys9"m ret$ire diag"Fostics, s1Xd<br>
@@ -65,7 +67,10 @@
       cG9pbnRzIGVxdWlkaXN0YW50IGZyb20gYSBjb21tb24<br>
       gcG9pbnQ=<br>
 
-        three dimensional, geometrical shape, that has all its surface points equidistant from a common point
+        dGhyZWUgZGltZW5zaW9uYWwsIGdlb21ldHJpY2FsIHNo<br>
+        YXBlLCB0aGF0IGhhcyBhbGwgaXRzIHN1cmZhY2Ug<br>
+        cG9pbnRzIGVxdWlkaXN0YW50IGZyb20gYSBjb21tb24<br>
+        gcG9pbnQ=
         --base64-->
         three dimensional, geometrical shape, that has all its surface points equidistant from a common point
         -->
