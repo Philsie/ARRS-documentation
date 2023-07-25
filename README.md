@@ -14,16 +14,17 @@ State: 07/25/2023 11:23am UTC+3
 | [baker](./Users/Russia/baker.md)                   | blueJuih4ol23ik1                  | observer | Active     | Mike          | Solved                   | 
 | [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
 | [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
+| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
 | [minerva](./Users/Russia/minerva.md)               | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
 | [analyst](./Users/Russia/analyst.md)               | athenarole                        | analyst  | not Active | Jack          | Solved                   |
-| [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
-| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
 | [overseer545](./Users/Russia/overseer545.md)       | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
 | [observer001](./Users/Russia/observer001.md)       | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
 | [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
-| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
+| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
 | [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
 | [preston](./Users/Japan/preston.md)                | sceptical4medic                   | observer | Active     | confidential  | WIP                      |
+
 
 ```mermaid
 graph TD;
