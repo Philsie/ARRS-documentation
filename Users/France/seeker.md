@@ -43,6 +43,8 @@
     data_ray_YmVm.txt -> YmVm
     data_ray_b3Jl.txt -> b3Jl
     YmVmb3Jl -> base64 -> "before"
+
+    Time stamps: SH757-7RYKI-1A7F6-6H15U --> Gamecode?
     ```
     
 * notes<br>
