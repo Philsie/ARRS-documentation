@@ -6,22 +6,27 @@ State: 07/25/2023 11:23am UTC+3
 
 | User                                               | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
 |----------------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
+| Pre-IRL                                            |                                   |          |            |               |                          | 
 | [defaultuser](./Users/Pre_IRL/defaultuser.md)      | 123456test                        | observer | Active     | System user   | Solved                   | 
 | [observer33-4](./Users/Pre_IRL/observer33-4.md)    | 098712345                         | observer | Not Active | James Torwind | Solved                   |   
 | [galgalgal](./Users/Pre_IRL/galgalgal.md)          | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    | Solved                   |  
 | [observer54-5](./Users/Pre_IRL/observer54-5.md)    | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | Solved                   |
-| [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
-| [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
-| [marzqiz](./Users/USA/marzqiz.md)                  | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
+| Russia                                             |                                   |          |            |               |                          | 
 | [baker](./Users/Russia/baker.md)                   | blueJuih4ol23ik1                  | observer | Active     | Mike          | Solved                   | 
-| [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
-| [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
-| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
 | [minerva](./Users/Russia/minerva.md)               | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
 | [analyst](./Users/Russia/analyst.md)               | athenarole                        | analyst  | not Active | Jack          | Solved                   |
 | [overseer545](./Users/Russia/overseer545.md)       | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
 | [observer001](./Users/Russia/observer001.md)       | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
 | [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
+| USA                                                |                                   |          |            |               |                          | 
+| [marzqiz](./Users/USA/marzqiz.md)                  | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
+| [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
+| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| France                                             |                                   |          |            |               |                          | 
+| [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
+| [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
+| Japan                                              |                                   |          |            |               |                          | 
+| [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
 | [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
 | [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
 | [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
