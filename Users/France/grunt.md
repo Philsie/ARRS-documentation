@@ -17,121 +17,121 @@
 * dir<br>
   * giraffe.txt<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;.-",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;`~||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-what did you expect?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-it’s a giraffe after all<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||Z<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||G<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||F<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||y<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||a<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||l<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||c<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||M<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||g<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||___<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;':.&nbsp;)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||<br>
-&nbsp;&nbsp;&nbsp;&nbsp;^^&nbsp;&nbsp;^^<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;.-",<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;`~||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    what did you expect?<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    it’s a giraffe after all<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||Z<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||G<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||F<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||y<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||a<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||2<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||5<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||l<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||c<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||3<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||M<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||g<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||___<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;':.&nbsp;)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;^^&nbsp;&nbsp;^^<br>
 
 * notes<br>
     * note098<br>
@@ -163,6 +163,12 @@ it’s a giraffe after all<br>
       &lt; DATA CORRUPT &gt; CBhbmQgcmVzdWx0cyBieSBmcmlkYXkgb3Iga<br>
       &lt; DATA CORRUPT &gt; XQgd2lsbCBiZSB5b3VyIGhlYWQhIA==<br>
 
+        Base 64 ->
+        I request a lBll explanation on the subject!
+        UEu have outdated tests for 2 weeIg.
+        It is unacceptable and will influence your salary!
+        I need a report and results by friday or it will be your head!
+
   * note811<br>
       &lt; DATA CORRUPT &gt; YSBwZXJpb2Qgd2hlbiBhbGwgbGln<br>
       &lt; DATA CORRUPT &gt; aHRzIG11c3QgYmUgdHVybmVkIG91dC<br>
@@ -171,6 +177,12 @@ it’s a giraffe after all<br>
       &lt; DATA CORRUPT &gt; eSBkdXJpbmcgYW4gYWlyIHJhaWQgb3I<br>
       &lt; DATA CORRUPT &gt; gYSB0ZW1wb3JhcnkgbG9zcyBvZiBjb25<br>
       &lt; DATA CORRUPT &gt; zY2lvdXNuZXNz<br>
+
+        Base 64 ->
+        a period when all lights must be turned out
+        or covered to prevent them being seen by the
+        enemy during an air raid or a temporary loss
+        of consciousness
 
 
 
