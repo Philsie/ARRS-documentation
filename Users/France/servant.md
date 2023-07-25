@@ -64,6 +64,12 @@
       YXBlLCB0aGF0IGhhcyBhbGwgaXRzIHN1cmZhY2Ug<br>
       cG9pbnRzIGVxdWlkaXN0YW50IGZyb20gYSBjb21tb24<br>
       gcG9pbnQ=<br>
+
+        three dimensional, geometrical shape, that has all its surface points equidistant from a common point
+        --base64-->
+        three dimensional, geometrical shape, that has all its surface points equidistant from a common point
+        -->
+        sphere
   * RK757<br>
       1. VH<br>
       2. 1N<br>
