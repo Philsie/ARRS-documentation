@@ -25,6 +25,7 @@ State: 07/25/2023 11:23am UTC+3
 | France                                             |                                   |          |            |               |                          | 
 | [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
 | [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
+| [servant](./Users/France/servant.md)               |                                   |          |            |               | Not Unlocked             |
 | Japan                                              |                                   |          |            |               |                          | 
 | [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
 | [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
@@ -55,6 +56,7 @@ graph TD;
 
     observer54-5 --IRL-France--> revizor;
     revizor --> seeker;
+    seeker --assumed--> servant;
 
     observer54-5 --IRL-Japan--> lemondeep;
     lemondeep --> boston;
