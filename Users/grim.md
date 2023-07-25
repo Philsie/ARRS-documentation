@@ -8,7 +8,8 @@
   ```
 *  notes
    *  Fail_1_2
-      Sadly, you couldn't get here first! 
+
+      	Sadly, you couldn't get here first! 
 
 	Your colleagues were able to reach the target before you did. 
 	From their regional ARRS Terminal branch, I've gained access to the Laboratory's security systems.
