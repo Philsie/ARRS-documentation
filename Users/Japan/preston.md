@@ -24,6 +24,12 @@
       Except. My buddy from higher commXdtOENkTmdjS had told me somethTI0MldjL0s1Q0R strange “I can’t say what will happen, but you will know. Once it happens, everyone for himself”. <br>
       < - end of file ->
     
+      ```
+      Sqa0FpZVpNR1 TeFBUHFQd2c4 makOVVkS1NpWm thhyaWo3YWdt preparatiS0RVU2F6bV escR3RWY5M3BN plOW9XWTg3R missWxUYUJaSEJJ soubjAxMzlaUVk4d commXdtOENkTmdjS somethTI0MldjL0s1Q0R
+      Squad        Terragroup   making        theory       preparations        escape        plans       mision          sounds           command          comething  
+
+      ```
+    
   * diary_item147_grim.txt <br>
       < - file -> <br>
       Chief is dead, bloodlNZ0xPT05kZVJS. <br>
@@ -31,6 +37,11 @@
       Animal acts like he has extra lives. Absolute madman. <br>
       Preson, accepYmVoalV3Z3ZQc his fate, it seEkyeDY0YVVXO. So do I. <br>
       < - end of file ->
+    
+      ```
+      bloodlNZ0xPT05kZVJS accepYmVoalV3Z3ZQc seEkyeDY0YVVXO
+      bloodloss           accepted           seems
+      ```
 
   * diary_item150_grim.txt <br>
       < - file -> <br>
@@ -42,6 +53,11 @@
       I also got some shrapnel under my vest. It burns, but, at the same time feels numb. I’m slowly losing control over my body. <br>
       This is it for us. <br>
       < - end of file ->
+    
+      ```
+      encounGphRndmWVAx batdXNIVkpYeTBW fiercQ3l2Tjk5ZXdPZ1 enoMyVnZXU2d2b0R withZK1c0aHk0ZGNa injurMVFmc1hNWHZ0 PresK01UWThCUE8y unknUnowYWlaSzc4
+      encounter         battle          fiercly             enough           without           injuries          Preston          unknown
+      ```
   
 * notes
   * preston_details
