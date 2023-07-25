@@ -105,7 +105,10 @@
         Summer bugs And famous band Is the key --> The Beatles
 
         File endings:
-        svtearn
+        svt
+        ea
+        rn
+        ---> servant
 
         crusial --> crucial
         double nbsp after closet
