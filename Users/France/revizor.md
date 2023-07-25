@@ -57,16 +57,6 @@
 		12:44:31 chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk chain hash start chunk chain hash end chunk  <br>
 		12:44:33 Chain hash start chunk chain hashtimestamp: 1ea5aef5caac93c46ece74c162aa99eb665  <br>
 
-  			Errors inside the timestamps top to bottom:
-   			YlcRagg
-   			Including numbers:
-			Y2lc3R agg
-   			Number acording to alphabet
-   			YuccRa gg
-   			YbaccRa gg
-
-			Text fixes:
-   			D&*%”MachineRootSystem --> DriveMachineRootSystem
-   			G%Service%%%”ider --> GDServiceProvider
-
-      			missing/wrong letters: hVY2lc&*%”3%%%%”R1-0verb111-pgm01aagmg
+  			Last character on second line of note for each timestamp: Y2l5c3R2a2gg63 -> remove 63 since it produces invalid character
+  	                Translate to base64 -> ciystvkh -> Vigenere(salmon) -> kingfish
+    
