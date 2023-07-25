@@ -32,28 +32,32 @@ State: 07/25/2023 11:23am UTC+3
 
 ```mermaid
 graph TD;
-    defaultuser-->observer33-4;
-    observer33-4-->galgalgal;
-    galgalgal-->observer54-5;
-    observer54-5--IRL-Paris-->revizor;
-    observer54-5--IRL-LA-->marzqiz;
-    observer54-5--IRL-St.Petersburg-->baker;
-    observer54-5--IRL-Tokyo-->lemondeep;
-    baker-->minerva;
-    minerva-->analyst;
-    analyst-->overseer545;
-    overseer545-->observer001;
-    observer001-->observer993;
-    observer993--X-->russiaEnd["end of this branch"];
-    marzqiz-->observer93-5;
-    observer93-5-->readonly;
-    revizor-->seeker;
-    lemondeep-->boston;
-    boston-->chief;
-    chief-->animal;
-    animal-->preston;
-    preston-->grim;
-    grim--X-->japanEnd["end of this branch"];
+    defaultuser --> observer33-4;
+    observer33-4 --> galgalgal;
+    galgalgal --> observer54-5;
+
+    observer54-5 --IRL-St.Petersburg--> baker;
+    baker --> minerva;
+    minerva --> analyst;
+    analyst --> overseer545;
+    overseer545 --> observer001;
+    observer001 --> observer993;
+    observer993 --X--> russiaEnd["end of this branch"];
+
+    observer54-5 --IRL-LA--> marzqiz;
+    marzqiz --> observer93-5;
+    observer93-5 --> readonly;
+
+    observer54-5 --IRL-Paris--> revizor;
+    revizor --> seeker;
+
+    observer54-5 --IRL-Tokyo--> lemondeep;
+    lemondeep --> boston;
+    boston --> chief;
+    chief --> animal;
+    animal --> preston;
+    preston --> grim;
+    grim --X--> japanEnd["end of this branch"];
 ```
 
 
