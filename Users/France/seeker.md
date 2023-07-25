@@ -38,6 +38,12 @@
     [06:14:29] Volume size: 358.27GB<br>
     [06:14:37] -----<br>
     <br>
+
+    ```
+    data_ray_YmVm.txt -> YmVm
+    data_ray_b3Jl.txt -> b3Jl
+    YmVmb3Jl -> base64 -> "before"
+    ```
     
 * notes<br>
   * note044svt<br>
