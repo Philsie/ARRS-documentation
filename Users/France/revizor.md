@@ -12,6 +12,7 @@
 	Notes: Have a Vision.  <br>
 
 		List of red fish:
+  		Salmon
 		Scarlet Shiner (Notropis lentiginosus)
 		Squirrelfish
 		Sergeant Major (Abudefduf saxatilis)
@@ -67,3 +68,5 @@
 			Text fixes:
    			D&*%”MachineRootSystem --> DriveMachineRootSystem
    			G%Service%%%”ider --> GDServiceProvider
+
+      			missing/wrong letters: hVY2lc&*%”3%%%%”R1-0verb111-pgm01aagmg

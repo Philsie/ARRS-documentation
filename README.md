@@ -1,6 +1,8 @@
 ## ARRS Season 3 
-# DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE!!!
-State: 07/24/2023 8:36pm UTC+3
+# DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE !!!
+# DONT GO INGAME !!!
+State: 07/25/2023 11:23am UTC+3
+
 
 | User                                       | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
 |--------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
@@ -22,6 +24,7 @@ State: 07/24/2023 8:36pm UTC+3
 | [observer993](./Users/observer993.md)      | 333winner3                        | observer | Active     | unknown       | Finished                 |
 | [grim](./Users/grim.md)                    | doomed5leader                     | observer | Active     | unknown       | Finished                 |
 
+
 ```mermaid
 graph TD;
     defaultuser-->observer33-4;
@@ -36,39 +39,48 @@ graph TD;
     analyst-->overseer545;
     overseer545-->observer001;
     observer001-->observer993;
-    observer993--X-->russiaEnd["end of this branch,\n likely"]
+    observer993--X-->russiaEnd["end of this branch,\n likely"];
     marzqiz-->observer93-5;
-    revizor-->?;
+    observer93-5-->readonly;
+    revizor--Current Theory-->seeker;
     lemondeep-->boston;
     boston-->chief;
+    chief-->animal;
+    animal-->preston;
+    preston-->grim;
 ```
 
 
 # For newest info check users/
 ---
 # Pword currently not used 
-### Tokyo
+### Japan
 * pw2: llpymhbec <-- from chief - diary5 and 8<br>
 
 # Needs decoding / unused
 * The Supreme Admin 
 ### USA
-* login: readonly <-- from observer93-5 - Seven.zip using base64 and Affine (A7B4)<br>
 * ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
+* all files in readonly<br>
 ### France
 * seeker <-- appeared in revizor - user<br>
-### Tokyo
+### Japan  
+* animal <-- appeared in chief<br>
 
 
 # Decoders / Ciphers used  
-1. https://gchq.github.io/CyberChef/
-2. https://www.dcode.fr/cipher-identifier
-3. https://www.boxentriq.com/
-4. https://cryptii.com  
-Affine - Vignere cipher  
-Playfair  
-base64  
-Rot23 
+1. https://gchq.github.io/CyberChef/<br>
+2. https://www.dcode.fr/cipher-identifier<br>
+3. https://www.boxentriq.com/<br>
+4. https://cryptii.com  <br>
+5. https://sladex.org/blowfish.js/<br>
+Affine<br>
+Vignere cipher <br> 
+Playfair<br>  
+base64 <br> 
+Rot\*<br>
+railfence  <br>
+blowfish  <br>
 
 # Sonnet Progress  
 1. verse --> trash_can_foto.jpg
@@ -100,3 +112,7 @@ Rot23
     Save, where you are how happy you make those.
     So true a fool is love that in your will
     Though you do anything, he thinks no ill.
+
+# Github credit:
+* [3ncy](https://github.com/3ncy) - Discord:3ncy<br>
+* [Niklas R](https://github.com/NiklasRosenkranz) - Discord:petermaffay<br>
