@@ -24,6 +24,8 @@ State: 07/25/2023 11:23am UTC+3
 | [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
 | [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
 | [preston](./Users/Japan/preston.md)                | sceptical4medic                   | observer | Active     | confidential  | WIP                      |
+| [grim](./Users/Japan/grim.md)                      | doomed5leader                     |    -/-   |     -/-    |     -/-       | Finished                 |
+
 
 
 ```mermaid
@@ -40,7 +42,7 @@ graph TD;
     analyst-->overseer545;
     overseer545-->observer001;
     observer001-->observer993;
-    observer993--X-->russiaEnd["end of this branch,\n likely"];
+    observer993--X-->russiaEnd["end of this branch"];
     marzqiz-->observer93-5;
     observer93-5-->readonly;
     revizor--Current Theory-->seeker;
@@ -48,6 +50,8 @@ graph TD;
     boston-->chief;
     chief-->animal;
     animal-->preston;
+    preston-->grim;
+    grim--X-->japanEnd["end of this branch"];
 ```
 
 
