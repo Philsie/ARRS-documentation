@@ -87,6 +87,27 @@
       reali...             > realises      >                > ses (or zes, american spelling)
       
       ```
+
+      ```
+      lemondeep:
+      diary_item022_bostonZG.txt
+      diary_item095_boston.txt
+      diary_item101_boston8g.txt  -> ZG8g
+
+      boston:
+      diary_item073_chiefb2.txt
+      diary_item090_chief.txt
+      diary_item021_chief0g.txt -> b20g
+
+      chief -> fmj -> already used in Vigenere as key
+      
+      animal:
+      diary_item025_prestonZW.txt
+      diary_item028_preston.txt
+      diary_item031_prestonQg.txt -> ZWQg
+
+      ZG8gb20gZWQg -> base64 -> do om ed -> doomed5leader      
+      ```
   
 * notes
   * preston_details
