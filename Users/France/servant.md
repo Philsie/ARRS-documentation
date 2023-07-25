@@ -79,12 +79,14 @@
         -->
         sphere
   * RK757<br>
-      1. VH<br>
-      2. 1N<br>
-      3. LMM<br>
-      4. 1A9<br>
-      5. 3X8<br>
-      6. 5U<br>
-      A little present<br>
+    ```
+      1. VH
+      2. 1N
+      3. LMM
+      4. 1A9
+      5. 3X8
+      6. 5U
+      A little present
+    ```
       
         RK757-VH1NL-MM1A9-3X85U --> Gamecode?
