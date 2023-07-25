@@ -13,6 +13,9 @@
   <br>
   Notes: Explosive marine creature<br>
 
+      SHELL    Explosive protection for marine life (5)
+      CORAL    Carbon test for marine life form (5)
+
 * dir<br>
   * data_ray_YmVm.txt<br>
     [SH:12:54] Access protocol ray: 98j2b4210cd complete<br>
@@ -60,7 +63,7 @@
       As of 9.25.17, to xlIHe, no penetration, nor unauthorized entry to on campus facilities of gc2Ftcrsity Corporate System was observed. However, that doesn’t mean it gc2Ftcppen.Zz09 JuxlIH point of reference: ThleHQast week wleHQere warned by hackers regarding breaching into to<br>
       <br>
 
-        In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple splaces
+        In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple spaces
         
         N2tVUEUzM
         DU2WitN
@@ -77,3 +80,6 @@
         3 - GxlI
 
         Summer bugs And famous band Is the key --> The Beatles
+
+        File endings:
+        svtearn
