@@ -83,8 +83,11 @@
         Our Cyber Security Team has identified Team as those closest  to hack into (the)? systems with influence over one or all of our intranets,
         & laptop & backup media storage.
         The transfer of such abilities was enough leverage for me to immediately obtain your on camera testimony and video presented today.
-
-        In note046rn after closset there are 2 non-breaking-spaces (&nbsp) instead of simple spaces
+ 
+        As of 9.25.17, to ----e,
+        no penetration, nor unauthorized entry to on campus facilities of (unive)?rsity Corporate System was observed.
+        However, that doesn’t mean it (can't ha)?ppen.
+        Just a point of reference: The last week we were warned by hackers regarding breaching into to
  
   * combined notes<br>
   
