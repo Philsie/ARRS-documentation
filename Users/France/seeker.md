@@ -54,6 +54,14 @@
   * note044svt<br>
       We m\*kJ inst\*&amp;2ct our new interns on the secuxlIHy measures.N2tVUEUzM Our department is crusial in building core pGxlItion.DU2WitN We provide solutions via soc2FRre and tcGrdware.The Colc2FRe’s entire campus is coxlIc2FRcted through various networks. There are still security gaxc2FRthat must be xlIHressed. Summer bugs.<br>
       <br>
+
+          Most likely fixed version: 
+          We must instruct our new interns on the security measures.
+          Our department is crucial in building core protection.
+          We provide solutions via software and Hardware.
+          The College’s entire campus is connected through various networks.
+          There are still security gaps that must be addressed.
+    
   * note045ea<br>
       In our last two auditors meetings, I have requested soc2FRone whose professional skills complement those of the CD Team to assist us with fixing the GxlIlems thgc2Ftcive. On a regular basis, we clean up, erleHQor encrypt data that leaves the gc2Ftcs.eHo0TF We still have critical concerns that wGxlInt their rapid, continual attention and remgc2Ftce coxlIHaints were regarded with curiosity and appropriate respect. And famous band.<br>
       <br>
