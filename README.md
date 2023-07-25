@@ -56,7 +56,7 @@ graph TD;
 
     observer54-5 --IRL-France--> revizor;
     revizor --> seeker;
-    seeker --assumed--> servant;
+    seeker --> servant;
 
     observer54-5 --IRL-Japan--> lemondeep;
     lemondeep --> boston;
