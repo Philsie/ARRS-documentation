@@ -33,7 +33,12 @@
 
 			wrong characters:
    			onincsahhouisma
-			0512kR4W:0Y1ZR4 
+			0512kR4W:0Y1ZR4
+
+  			filename 03 -> take every 3rd character from the first part (MyctrHggcr xinOeriitBhitg Yo WadQ Azl) -> "cHcxOiBtYWQz" -> 
+			-> base64 decode -> "pw1: mad3"
+   			-> the whole password for the next account is pw1+pw2 -> mad3grenadier
+   			
 
 
 	* diary_item05m_animal.txt<br>
@@ -58,6 +63,9 @@
 			cH cy Oi Bs bH B5 bW hi ZW Mg <br>
 			-> base64 ->  <br>
 			pw2: llpymhbec <br>
+
+   			letters in the file names (03f, 05m, 08j) -> fjm -> fullmetaljacket <br>
+   			llpymhbec -> Vigenere(fullmetaljacket) -> grenadier
 
 * notes <br>
 	*  chief_details
