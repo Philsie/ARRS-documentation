@@ -59,8 +59,8 @@ graph TD;
 # For newest info check users/
 ---
 # Pword currently not used 
-### Japan
-* pw2: llpymhbec <-- from chief - diary5 and 8<br>
+### USA
+### France
 
 # Needs decoding / unused
 * The Supreme Admin 
@@ -69,8 +69,6 @@ graph TD;
 * all files in readonly<br>
 ### France
 * seeker <-- appeared in revizor - user<br>
-### Japan  
-* animal <-- appeared in chief<br>
 
 
 # Decoders / Ciphers used  
