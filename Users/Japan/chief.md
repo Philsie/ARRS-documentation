@@ -64,7 +64,7 @@
 			-> base64 ->  <br>
 			pw2: llpymhbec <br>
 
-   			letters in the file names (03f, 05m, 08j) -> fjm -> fullmetaljacket <br>
+   			letters in the file names (03f, 05m, 08j) -> fmj -> fullmetaljacket <br>
    			llpymhbec -> Vigenere(fullmetaljacket) -> grenadier
 
 * notes <br>
