@@ -1,6 +1,6 @@
 | User         | Password                          | Level    | Status     | Name          |  
 |--------------|-----------------------------------|----------|------------|---------------|    
-| animal       | mad3grenadier                     | observer | Not Active | Deleted       | 
+| animal       | mad3grenadier                     | observer | Not Active | confidential  | 
 
 # animal:mad3grenadier  
 * user  
@@ -8,11 +8,8 @@
 	Access level: observer <br>
         Name: confidential <br>
 	Status: Active  <br>
-    ############<br>
 	Description: <br>
-    ############ <br>
-    Notes:<br>
-    ########################
+    	Notes: Play-fair this cypher<br>    
 
 
 
