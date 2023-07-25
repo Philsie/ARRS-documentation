@@ -48,6 +48,7 @@ graph TD;
     chief-->animal;
     animal-->preston;
     preston-->grim;
+    grim--X-->japanEnd["end of this branch,\n likely"];
 ```
 
 
