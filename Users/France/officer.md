@@ -32,6 +32,8 @@
     PROMOOOTED!!! PROMOOOOTED!!!<br>
     I have no idea what happened. I think, I’ve had some sort of test. My “sycvwj” was very angry with me, people were shouting something about security breach and how dead I am. I was trying my best to sit and smile. And it worked! As I expected to have my last email, suddenly, I had got an email with promotion. So I packed my things and walked directly to an elevator, to get one floor above. They all were smiling when I was leaving. Eugene is a big W.<br>
 
+        Eugene --> User?
+
   * important<br>
       
       
