@@ -36,6 +36,9 @@
       soubjAxMzlaUVk4d     > sounds        > bjAxMzlaUVk4d  > nds
       commXdtOENkTmdjS     > command       > XdtOENkTmdjS   > and
       somethTI0MldjL0s1Q0R > something     > TI0MldjL0s1Q0R > ing
+
+      uadrraingoldonsapeansionndsanding
+      a0FpZVpNR1FBUHFQd2c4OVVkS1NpWmhhyaWo3YWdtS0RVU2F6bVR3RWY5M3BNOW9XWTg3RWxUYUJaSEJJbjAxMzlaUVk4dXdtOENkTmdjSTI0MldjL0s1Q0R
       ```
     
   * diary_item147_grim.txt <br>
@@ -50,6 +53,9 @@
       bloodlNZ0xPT05kZVJS  > bloodloss     > NZ0xPT05kZVJS  > oss
       accepYmVoalV3Z3ZQc   > accepted      > YmVoalV3Z3ZQc  > ted
       seEkyeDY0YVVXO       > seems         > eEkyeDY0YVVXO  > ems
+
+      osstedems
+      NZ0xPT05kZVJSYmVoalV3Z3ZQceEkyeDY0YVVXO
       ```
 
   * diary_item150_grim.txt <br>
@@ -72,6 +78,14 @@
       injurMVFmc1hNWHZ0    > injuries      > MVFmc1hNWHZ0   > ies
       PresK01UWThCUE8y     > Preston       > K01UWThCUE8y   > ton
       unknUnowYWlaSzc4     > unknown       > UnowYWlaSzc4   > own
+
+      tertleelyughoutiestonown
+      GphRndmWVAxdXNIVkpYeTBWQ3l2Tjk5ZXdPZ1MyVnZXU2d2b0RZK1c0aHk0ZGNaMVFmc1hNWHZ0K01UWThCUE8yUnowYWlaSzc4
+
+      postp...             > postpone      >                > one
+      bleed...             > bleeding      >                > ing
+      reali...             > realises      >                > ses (or zes, american spelling)
+      
       ```
   
 * notes
