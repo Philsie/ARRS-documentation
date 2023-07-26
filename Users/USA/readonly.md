@@ -91,7 +91,7 @@
     10.07.2023 15:19:44 UTC +3 Error: Transmission Password Interrupted Part2: LsvJbi23<br>
     10.07.2023 15:22:13 UTC +3 Error: Transmission Password Interrupted Part3: bmeui21<br>
 
-        Mac-Adress has error
+        Mac-Adress has error - a valid version of it would be 2d:0c:23:10:3f:04
         Part1: vspxry192
         Part2: LsvJbi23
         Part3: bmeui21
