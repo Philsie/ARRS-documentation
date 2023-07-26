@@ -4,14 +4,12 @@
 
 # master:edgebeforedarkness
 * user<br>
-  Login: master
-  Access level: observer
-  Name: confidential
-  Status: Active
-
-  Description:
-
-  Notes:
+  Login: master<br>
+  Access level: observer<br>
+  Name: confidential<br>
+  Status: Active<br>
+  Description:<br>
+  Notes:<br>
 
 * Fail_1_3 <br>
   Sadly, you couldn't get here first!
