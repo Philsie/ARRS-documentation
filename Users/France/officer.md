@@ -94,7 +94,12 @@
 
   * probability<br>
     this is the main word, but different - cliff, ahead of, no light
-    
+ 
+    ```
+    cliff    - officer(base64(ZWRnZSAg))   -> "Edge "
+    ahead of - seeker(base64(YmVmb3Jl))    -> "before"
+    no light - grunt(base64(ZGFya25lc3Mg)) -> "darkness"
+    ```
         Edge of Darkness?
         Icarus?
         Abyss?
