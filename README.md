@@ -28,6 +28,7 @@ State: 07/25/2023 11:23am UTC+3
 | [servant](./Users/France/servant.md)               | yellowsubmarine                   |          |            |               | WIP                      |
 | [grunt](./Users/France/grunt.md)                   | perfectcircle                     | observer | Active     | confidential  | WIP                      |
 | [officer](./Users/France/officer.md)               | blackout                          | observer | Active     | confidential  | WIP                      |
+| [master](./Users/France/master.md)                 | edgebeforedarkness                | observer | Active     | confidential  | WIP                      |
 | Japan                                              |                                   |          |            |               |                          | 
 | [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
 | [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
@@ -61,6 +62,8 @@ graph TD;
     seeker --> servant;
     servant --> grunt;
     grunt --> officer;
+    officer --> master;
+    master --X--> franceEnd["end of this branch"];
 
     observer54-5 --IRL-Japan--> lemondeep;
     lemondeep --> boston;

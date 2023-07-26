@@ -36,6 +36,8 @@
     Eugene --> User?
 
     ? sycvwj --vigenere(key: shadow)--> arcsin
+
+    Currently we guessed the next username based on prior knowledge; a six-letter derogatory term for their boss would be a "master"; the other user account was called servant. We still need to reverse engineer this to figure out why this username was valid.
     ```
 
   * important<br>

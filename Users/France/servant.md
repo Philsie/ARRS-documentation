@@ -27,6 +27,10 @@
       vhyns yuUnL evEople eNSMio <br>
       gWeF 1ider unSOntAc"lI <br>
       lSIon 01utEd <br>
+      ```
+      Extract first letter from each line -> htyjvgl
+      htyjvgl -> Vigenere(sphere) -> perfect
+      ```
       <br>
       u COtCles, SIon comrWud <br>
       xd1ungTAToodChcaZid 0aJy <br>
@@ -34,16 +38,19 @@
       gbout SHit EnSu-UtImans <br>
       cawVa (JoA46ec j1ERko)Jp| pt stmFOeeLns <br>
       ijmnN02tI tttp tcob flhtYu<br>
-      <br>
+      
+      ```
+      Extract first letter from each line -> uxygci
+      uxygci -> Vigenere(sphere) -> circle
+      ```
       Data Access and Synchronization Howto 'd link to <br>
       use the data that you are building on to all of your QGdydW50<br>
-      <br>
+      
+      ```
+      QGdydW50--base64-->@grunt
+      ```
 
-        htyjvgl -> Vigenere(sphere) -> perfect
-        uxygci -> Vigenere(sphere) -> circle
-
-        QGdydW50--base64-->@grunt
-    
+      Username and password derived `grunt:perfectcircle`
   * note256<br>
   
         __________________________________________░░░░░░░░░░________________________________________________
