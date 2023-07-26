@@ -95,6 +95,9 @@
         Part1: vspxry192
         Part2: LsvJbi23
         Part3: bmeui21
+        -> vspxry192LsvJbi23bmeui21
+
+        Connected key parts from the previous messages: 3534Jn3pedklTYy3452fd
 
 * notes<br>
   * lllll<br>
