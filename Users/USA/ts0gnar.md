@@ -79,8 +79,8 @@
     eztavxwpzm -> bestwalker
 
     note: both [A:15, B:19] and [A:7, B:23] work for Affine
-    ```   
-
+    ```
+    
     ```
     some of the passwords belong to accounts we already have:
       rtoezje -> marzqiz
@@ -89,6 +89,12 @@
       sd0fgto -> ts0gnar
 
     These should all be active by their user data
+
+    These known accounts were used to get the substitution alphabet:
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+    x e l s z g n ? b i p w d ? r y f m t a h o v c ? q
+
+    However this is now probably not needed anymore since the Affine cipher keys were cracked (by trying and checking).
     ```
 
 * notes
