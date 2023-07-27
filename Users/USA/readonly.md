@@ -99,6 +99,22 @@
 
         Connected key parts from the previous messages: 3534Jn3pedklTYy3452fd
 
+        Password Part1 - bmeui21
+        Key vigenere Keyn3pedkl - right21
+        Key vigenere  KeyTYy3452fd - rigbk21
+        Key vigenere  Key3534J - rigly21
+        Password Part2 - LsvJbi23
+        Key vigenere Keyn3pedkl - boxwme23
+        Key vigenere  KeyTYy3452fd - boxqdk23
+        Key vigenere  Key3534J - BoxAre23
+        Password Part3 - vspxry192
+        Key vigenere Keyn3pedkl - lorkcu192
+        Key vigenere  KeyTYy3452fd - loreta192
+        Key vigenere  Key3534J - lorohu192
+
+        loreta192BoxAre23right21 --> new pw
+
+
 * notes<br>
   * lllll<br>
   
