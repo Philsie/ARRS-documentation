@@ -54,24 +54,29 @@
       --------------------------------------------------------------------------------------------------------------------
     ```
 
-        sd0fgto --Affine decode with A15 B19 --> ts0gnar
-        rtoezje -> marzqiz
-        vidbowbo93-5 -> observer93-5
-        obtmvgcp -> readonly
-          rtdsvmvg -> mastodon
-          ibcNovw -> belKrov
-        sd0fgto -> ts0gnar
-          bwbokbkbo -> everpeper
-          lvcqxtdsbo -> wolfcaster
-          ivovw -> borov
-          ctdsxutvd -> lastchaos
-          ividrjsu -> bobsmith
-          vidbowbo25-2 -> observer25-2
-          ftocjxtax -> garlicaxc
-          otaotaota -> raxraxrax
-          eztavxwpzm -> bestwalker
-          
-        
+    ```
+    sd0fgto --Affine decode with A15 B19 --> ts0gnar
+    rtoezje -> marzqiz
+    vidbowbo93-5 -> observer93-5
+    obtmvgcp -> readonly
+      rtdsvmvg -> mastodon
+      ibcNovw -> belKrov
+    sd0fgto -> ts0gnar
+      bwbokbkbo -> everpeper
+      lvcqxtdsbo -> wolfcaster
+      ivovw -> borov
+      ctdsxutvd -> lastchaos
+      ividrjsu -> bobsmith
+      vidbowbo25-2 -> observer25-2
+      ftocjxtax -> garlicaxc
+      otaotaota -> raxraxrax
+      eztavxwpzm -> zqaxocvyqd
+
+    but if we ENcode instead of DEcode the last username with Affine we get
+    eztavxwpzm -> bestwalker
+
+    note: both [A:15, B:19] and [A:7, B:23] work for Affine
+    ```   
 
     ```
     some of the passwords belong to accounts we already have:
@@ -80,8 +85,7 @@
       obtmvgcp -> readonly
       sd0fgto -> ts0gnar
 
-      These should all be active by their user data
-    
+    These should all be active by their user data
     ```
 
 * notes
