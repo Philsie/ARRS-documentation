@@ -53,6 +53,17 @@
       eztavxwpzm             DELETED                                       Deactivated                AEC
       --------------------------------------------------------------------------------------------------------------------
     ```
+    ```
+    some of the passwords belong to accounts we already have:
+      rtoezje -> marzqiz
+      vidbowbo93-5 -> observer93-5
+      obtmvgcp -> readonly
+      rtdsvmvg -> ?
+      ibcNovw -> ?
+      sd0fgto -> ts0gnar
+    
+      vidbowbo25-2 -> observer25-5
+    ```
 
 * notes
   * note1 <br>
