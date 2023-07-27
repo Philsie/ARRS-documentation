@@ -153,6 +153,7 @@
             ?&;@@@@&;PYJ??7!!~~~VmpGU1MyRnRVWGxVYkd4VVltdGFhRmR1YjNkUFVUMDk=~~~?&;@@@@&;PYJ??7!
     ---
             VmpGU1MyRnRVWGxVYkd4VVltdGFhRmR1YjNkUFVUMDk= --5x base64--> cg0qrjf
+            cg0qrjf --Vigenere with key joke--> ts0gnar
             
 
   * alphabet<br>
