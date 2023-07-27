@@ -70,7 +70,7 @@
     Made a request to pull all the users in our regional branch, but something went wrong and it put all those who are currently "Active" and "Deactivated" in the same list. I need to find the root cause of the problem.
   * note2 <br>
     Looks like I found the problem. Turned out it’s the “5-3-2” – I'll try to fix it now.
-  * note3
+  * note3 <br>
     No, that wasn't it. It wasn't about that part at all. I'll keep looking for the problem.
   * note4 <br>
     Also, for some reason all the logins are encrypted 1-20-8-5-14-1. I lost the key somewhere. I'll have to pick A & B at random. There's only a million options. Although it's clear that A is with a minus.
