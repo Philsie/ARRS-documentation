@@ -53,12 +53,33 @@
       eztavxwpzm             DELETED                                       Deactivated                AEC
       --------------------------------------------------------------------------------------------------------------------
     ```
+
+        sd0fgto --Affine decode with A15 B19 --> ts0gnar
+        rtoezje -> marzqiz
+        vidbowbo93-5 -> observer93-5
+        obtmvgcp -> readonly
+          rtdsvmvg -> mastodon
+          ibcNovw -> belKrov
+        sd0fgto -> ts0gnar
+          bwbokbkbo -> everpeper
+          lvcqxtdsbo -> wolfcaster
+          ivovw -> borov
+          ctdsxutvd -> lastchaos
+          ividrjsu -> bobsmith
+          vidbowbo25-2 -> observer25-2
+          ftocjxtax -> garlicaxc
+          otaotaota -> raxraxrax
+          eztavxwpzm -> bestwalker
+          
+        
+
     ```
     some of the passwords belong to accounts we already have:
       rtoezje -> marzqiz
       vidbowbo93-5 -> observer93-5
       obtmvgcp -> readonly
       sd0fgto -> ts0gnar
+    
     ```
 
 * notes
