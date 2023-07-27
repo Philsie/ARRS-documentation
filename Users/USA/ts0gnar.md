@@ -116,5 +116,5 @@
     My skeleton key to the door has been chiseled, and now rests in the palm of my hand. One step and the door will be open. On another side of the door I see a small pit. Nathan in my head said, “if you can survive the fall and you reach the bottom of the pit you can climb up.” Light and air exist between me and the hole. I ascend roughly 6 feet to the bottom and then another 12 to the top. Gasoline pours from a yellow flame. Hanging beneath the fire are two axes. Through the steel grate of the bunker doors I see that the runway has grown cold. <br>
     \*\*\*<br>
     ```
-    First letter of each sentence -> MOONLIGHT
+    First letter of each sentence from the story -> MOONLIGHT
     ```
