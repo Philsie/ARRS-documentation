@@ -148,6 +148,7 @@
     ```
     1-20-8-5-14-1 --letters--> ATHENA
 
+    maybe the A and B are?:
     A -> user -> vidbowbo25-2 -> observer25-2
     B -> pw
     ```
