@@ -1,7 +1,7 @@
 ## ARRS Season 3 
 # DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE !!!
 # DONT GO INGAME !!!
-State: 07/25/2023 11:23am UTC+3
+State: 07/27/2023 12:10am UTC+3
 
 
 | User                                               | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
@@ -22,6 +22,7 @@ State: 07/25/2023 11:23am UTC+3
 | [marzqiz](./Users/USA/marzqiz.md)                  | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
 | [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
 | [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| [ts0gnar](./Users/USA/ts0gnar.md)                  | loreta192BoxAre23right21          | observer | Active     | Tern Sognar   | WIP                      |
 | France                                             |                                   |          |            |               |                          | 
 | [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
 | [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
@@ -56,6 +57,7 @@ graph TD;
     observer54-5 --IRL-USA--> marzqiz;
     marzqiz --> observer93-5;
     observer93-5 --> readonly;
+    readonly --> ts0gnar;
 
     observer54-5 --IRL-France--> revizor;
     revizor --> seeker;
