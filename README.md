@@ -26,7 +26,7 @@ State: 07/27/2023 12:10am UTC+3
 | France                                             |                                   |          |            |               |                          | 
 | [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
 | [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
-| [servant](./Users/France/servant.md)               | yellowsubmarine                   |          |            |               | WIP                      |
+| [servant](./Users/France/servant.md)               | yellowsubmarine                   | observer | Active     | confidential  | WIP                      |
 | [grunt](./Users/France/grunt.md)                   | perfectcircle                     | observer | Active     | confidential  | WIP                      |
 | [officer](./Users/France/officer.md)               | blackout                          | observer | Active     | confidential  | WIP                      |
 | [master](./Users/France/master.md)                 | edgebeforedarkness                | observer | Active     | confidential  | Finished                 |
