@@ -92,7 +92,7 @@
 
     These known accounts were used to get the substitution alphabet:
     A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-    x e l s z g n ? b i p w d ? r y f m t a h o v c ? q
+    x e l s z g n u b i p w d k r y f m t a h o v c j q
 
     However this is now probably not needed anymore since the Affine cipher keys were cracked (by trying and checking).
       ----------------------------------------------------------------------------------------------------------------------------
