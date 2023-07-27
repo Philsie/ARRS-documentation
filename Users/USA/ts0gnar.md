@@ -79,6 +79,8 @@
       vidbowbo93-5 -> observer93-5
       obtmvgcp -> readonly
       sd0fgto -> ts0gnar
+
+      These should all be active by their user data
     
     ```
 
