@@ -54,6 +54,8 @@
       --------------------------------------------------------------------------------------------------------------------
     ```
 
+        Affine key was got by noticing old passwords and trying to match the encrypted password to the known user name.
+        
         sd0fgto --Affine decode with A15 B19 --> ts0gnar
         rtoezje -> marzqiz
         vidbowbo93-5 -> observer93-5
