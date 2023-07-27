@@ -96,6 +96,9 @@
     Also, for some reason all the logins are encrypted 1-20-8-5-14-1. I lost the key somewhere. I'll have to pick A & B at random. There's only a million options. Although it's clear that A is with a minus.<br>
     ```
     1-20-8-5-14-1 --letters--> ATHENA
+
+    A -> user -> vidbowbo25-2 -> observer25-2
+    B -> pw
     ```
   * note5 <br>
     \*\*\*<br>
