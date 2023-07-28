@@ -78,7 +78,7 @@
     but if we ENcode instead of DEcode the last username with Affine we get
     eztavxwpzm -> bestwalker
 
-    note: both [A:15, B:19] and [A:7, B:23] work for Affine
+    note: both [A:15, B:19] and [A:7, B:23] work for Affine, just [7, 23] has to be used the other way - Encrypt where you would be Decrypting with [15, 19] and Decrypt on the other places
     ```
     
     ```
