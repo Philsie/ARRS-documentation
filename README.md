@@ -1,268 +1,65 @@
 ## ARRS Season 3 
-State: 07/23/2023 4:05AM UTC+3
-
-| User         | Password                  | Level    | Status     | Name          |  
-|--------------|---------------------------|----------|------------|---------------|  
-| defaultuser  | 123456test                | observer | Active     | System user   |  
-| observer33-4 | 098712345                 | observer | Not Active | James Torwind |  
-| galgalgal    | 6.62607015*10^−34J*Hz^−1  | ?        | ?          | Max Planck    |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
-| observer54-5 | ?                         | ?        | ?          | ?             |  
-  
-# defaultuser:123456test
-
-* dir
-     
-	logins.txt  
-	pic-link  
-	copy_error.log  
-
-  * logins.txt  
-  
-	<- file ->  
-	Name: James Torwind  
-	User 1  
-	login: observer33-4  
-	password: ?  
-  
-	User 2  
-	Name: Max Planck  
-	login: ?   
-	password: ?  
-	<- end of file ->  
-
-  * pic.link  
-  
-	https://drive.google.com/drive/u/2/folders/1bUeHwVanV8tW6XsPIWXSs7thuKOPo98n  
-  
-	Being your slave, what should I do but tend  --> Sonnet 57 - Shakespear
-		
-  
-	Trash can foto  
-  
-	l: galx3  
-	p: 6.62 ~607015x~ 10^-34JxHz^-1  	--> planck constant  
-  
-  *  copy_error.log  
-  < - file - >  
-VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdG  
-2023-07-01 13:51:34.089 +03:00|0.11.01.7.12380|Info|EncryptSystemHash: OK   
-hlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMu  
-2023-07-01 13:51:34.108 +03:00|0.11.01.7.12380|Info|application|Application awaken, updateQueue:'Update'&nbsp;  
-2023-07-01 13:51:35.123 +03:00|0.11.01.7.12380|Info|application|Assert.raiseExceptions:'True'&nbsp;  
-VGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg==  
-2023-07-01 13:51:36.456 +03:00|0.11.01.7.12380|Info|application|Application obfuscation succeed.&nbsp;  
-VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4=  
-2023-07-01 13:51:36.315 +03:00|0.11.01.7.12380|Info|application|MSHU2L is available on this machine, Status: MsHU2L_OK.&nbsp;  
-2023-07-01 13:51:40.815 +03:00|0.11.01.7.12380|Info|application|ApplyLoadAppDOc: OK  
-2021-07-01 13:51:46.651 +03:00|0.11.01.7.12380|Info|MSHU2L_backendA|---&gt; Request&nbsp;URL: :  
-2021-07-01 13:51:47.265 +03:00|0.11.01.7.12380|Info|MSHU2L_backendA|&lt;--- response URL: :, time: 0.591 seconds:  
-2021-07-01 13:51:47.278 +03:00|0.11.01.7.12380|Info|MSHU2L_backendB|---&gt; Request&nbsp;URL: :  
-2021-07-01 13:51:47.593 +03:00|0.11.01.7.12380|Info|MSHU2L_backendB|&lt;--- response URL: :, time: 0.301 seconds:  
-2021-07-01 13:51:47.617 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|---&gt; Request&nbsp;URL: :  
-2021-07-01 13:51:47.776 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 60.149 seconds: FAIL  
-2021-07-01 13:52:47.163 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 52.121 seconds: FAIL  
-2021-07-01 13:53:47.567 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 55.137 seconds: FAIL  
-2021-07-01 13:54:47.231 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 58.114 seconds: FAIL  
-2021-07-01 13:55:47.453 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC|&lt;--- response URL: :, time: 58.114 seconds: FAIL  
-2023-07-01 13:55:48.409 +03:00|0.11.01.7.12380|Error|MSHU2L_backendC|Don't Request  
-VGhlIG1vcmUgeW91IHNlZSBib3VuZGFyaWVzLCB0aGUgbW9yZSB5b3Ugd2FudCB0byBnbyBiZXlvbmQgdGhlbS4u  
-2023-07-01 13:55:53.209 +03:00|0.11.01.7.12380|Error|MSHU2L_backendC|Use local machine backend C  
-2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---&gt; Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099  
-2023-07-01 13:56:01.102 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local| Success Login  
-< - end of file - >  
-
-   ---
-  	 	2023-07-01 13:55:55.523 +03:00|0.11.01.7.12380|Info|MSHU2L_backendC_Local|---> Request|Login: 728dec3865ffbdf7905b24d093ad7987095227d2|Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099
-  		Login: 728dec3865ffbdf7905b24d093ad7987095227d2 --> sha1 of observer33-4  
-  		Password: eb4b79cfaa8dd99988f2b6f9bffbcd2e9d6a2099 --> sha1 of 098712345
-  		https://md5decrypt.net/en/Sha1/#answer  
+# DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE !!!
+# DONT GO INGAME !!!
+State: 07/27/2023 12:10am UTC+3
 
 
-		## new login: observer33-4 | 098712345 ##  
+| User                                               | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
+|----------------------------------------------------|-----------------------------------|----------|------------|---------------|--------------------------|
+| Pre-IRL                                            |                                   |          |            |               |                          | 
+| [defaultuser](./Users/Pre_IRL/defaultuser.md)      | 123456test                        | observer | Active     | System user   | Solved                   | 
+| [observer33-4](./Users/Pre_IRL/observer33-4.md)    | 098712345                         | observer | Not Active | James Torwind | Solved                   |   
+| [galgalgal](./Users/Pre_IRL/galgalgal.md)          | 6.62607015\*10^−34J\*Hz^−1        | observer | Active     | Max Planck    | Solved                   |  
+| [observer54-5](./Users/Pre_IRL/observer54-5.md)    | rtuihfij34fi23poetgy3wed23sdc2125 | observer | Not Active | Deleted       | Solved                   |
+| Russia                                             |                                   |          |            |               |                          | 
+| [baker](./Users/Russia/baker.md)                   | blueJuih4ol23ik1                  | observer | Active     | Mike          | Solved                   | 
+| [minerva](./Users/Russia/minerva.md)               | 8vwz/tW//vc=                      | analyst  | Active     | Minnie        | Solved                   |
+| [analyst](./Users/Russia/analyst.md)               | athenarole                        | analyst  | not Active | Jack          | Solved                   |
+| [overseer545](./Users/Russia/overseer545.md)       | 8719a72bef8885db906d376cd6713479  | overseer | Active     | Hash          | Solved                   |
+| [observer001](./Users/Russia/observer001.md)       | 12c19389f01ca269                  | observer | Active     | unknown       | Solved                   |
+| [observer993](./Users/Russia/observer993.md)       | 333winner3                        | observer | Active     | unknown       | Finished                 |
+| USA                                                |                                   |          |            |               |                          | 
+| [marzqiz](./Users/USA/marzqiz.md)                  | redKL3245pfvkl3j4                 | observer | Active     | System user   | Solved                   |
+| [observer93-5](./Users/USA/observer93-5.md)        | Jje=2ksxkk2p;1                    | observer | Active     | Homer Smith   | WIP                      |
+| [readonly](./Users/USA/readonly.md)                | ME3krfm234icmMI5O3xsd             | observer | Active     | DELETED       | WIP                      |
+| [ts0gnar](./Users/USA/ts0gnar.md)                  | loreta192BoxAre23right21          | observer | Active     | Tern Sognar   | WIP                      |
+| France                                             |                                   |          |            |               |                          | 
+| [revizor](./Users/France/revizor.md)               | greenJNefimpo234                  | observer | Active     | confidential  | Solved                   |
+| [seeker](./Users/France/seeker.md)                 | kingfish                          | observer | Active     | confidential  | WIP                      |
+| [servant](./Users/France/servant.md)               | yellowsubmarine                   | observer | Active     | confidential  | WIP                      |
+| [grunt](./Users/France/grunt.md)                   | perfectcircle                     | observer | Active     | confidential  | WIP                      |
+| [officer](./Users/France/officer.md)               | blackout                          | observer | Active     | confidential  | WIP                      |
+| [master](./Users/France/master.md)                 | edgebeforedarkness                | observer | Active     | confidential  | Finished                 |
+| Japan                                              |                                   |          |            |               |                          | 
+| [lemondeep](./Users/Japan/lemondeep.md)            | yellowL23k4jn6ddjx                | observer | Active     | confidential  | Solved                   |
+| [boston](./Users/Japan/boston.md)                  | lucky1marksman                    | observer | Active     | confidential  | Solved                   |
+| [chief](./Users/Japan/chief.md)                    | cheerful2rifleman                 | observer | Active     | confidential  | Solved                   |
+| [animal](./Users/Japan/animal.md)                  | mad3grenadier                     | observer | Active     | confidential  | WIP                      |
+| [preston](./Users/Japan/preston.md)                | sceptical4medic                   | observer | Active     | confidential  | Solved                   |
+| [grim](./Users/Japan/grim.md)                      | doomed5leader                     |    -/-   |     -/-    |     -/-       | Finished                 |
 
 
-	 ---  
-	 	Scrabled text --> base64  
-	    
-	 	VGhlIG1vcmUgeW91IGxpdmUgaW4gdGhpcyB3b3JsZCwgdGhlIG1vcmUgeW91IGJlZ2luIHRvIHNlZSBzZXF1ZW5jZXMuVGhlIG1vcmUgc2VxdWVuY2VzIHlvdSBzZWUsIHRoZSBtb3JlIGN5Y2xlcyB5b3Ugc2VlLg  
-		VGhlIG1vcmUgeW91IHNlZSBjeWNsZXMsIHRoZSBtb3JlIHlvdSBzZWUgYm91bmRhcmllcy4  
-	
-	  
-		The more you live in this world, the more you begin to see sequences.The more sequences you see, the more cycles you see.  
-	 	The more you see cycles, the more you see boundaries.  
-		The more you see boundaries, the more you want to go beyond them..    
-	      
 
-* notes
-	* for_you
-  
-		Saw my hint to drop by here? Awesome. Curiosity is a great trait of yours. I'm glad you're keeping up with your progress and sharing your information with everyone.  
-	  
-		But all right, let's cut to the chase.&nbsp;  
-	  
-		A guy who owes me sent some interesting photos before he was caught. We need to capitalize on the situation before it gets shut down.  
-	  
-		Mr. Kerman  
+```mermaid
+graph TD;
+    defaultuser --> observer33-4;
+    observer33-4 --> galgalgal;
+    galgalgal --> observer54-5;
 
-# observer33-4:098712345  
-* user
-	Login: observer33-4  
-	Access level: observer  
-	Name: James Torwind  
-	Status: Not Active  
-	  
-	Description:  
-	SWYgeW91IGxvb2sgZnJvbSB0aGUgb3V0c2lkZSwgbW92aW5nIGFzIGZhciBhcyBwb3NzaWJsZSwgdGhlbiBhIGxpdHRsZSB0cnV0aCBpcyByZXZlYWxlZC4KVHJ1dGgsIHdoaWNoIGlzIG9mdGVuIG5vdCB2aXNp  
-	Default user for ARRS terminal.&nbsp;  
-	
-	Notes: User's position has been suspended. Contract not renewed. Reason: Evasion of duties, Project sabotage.  
-	YmxlIGlmIHlvdSB0cnkgdG8gbG9vayB1cC4KRnJvbSBiZWxvdywgeW91IG9ubHkgc2VlIHdoYXQgZ2V0cyBpbiB5b3VyIHdheS4KRnJvbSBhYm92ZSwgeW91IHNlZSBldmVyeXRoaW5nLCBldmVuIHNtYWxsIGRldGFpbHMuLi4K
-	  
- 	***
-  		scrambled text  + base64
-  		SWYgeW91IGxvb2sgZnJvbSB0aGUgb3V0c2lkZSwgbW92aW5nIGFzIGZhciBhcyBwb3NzaWJsZSwgdGhlbiBhIGxpdHRsZSB0cnV0aCBpcyByZXZlYWxlZC4KVHJ1dGgsIHdoaWNoIGlzIG9mdGVuIG5vdCB2aXNp
-  		YmxlIGlmIHlvdSB0cnkgdG8gbG9vayB1cC4KRnJvbSBiZWxvdywgeW91IG9ubHkgc2VlIHdoYXQgZ2V0cyBpbiB5b3VyIHdheS4KRnJvbSBhYm92ZSwgeW91IHNlZSBldmVyeXRoaW5nLCBldmVuIHNtYWxsIGRldGFpbHMuLi4K  
-  		The more you see boundaries, the more you want to go beyond them..  
-  		If you look from the outside, moving as far as possible, then a little truth is revealed.
-		Truth, which is often not visi  
-* dir
-	* task.exe  
-   		TASK MANAGEMENT  
-    
-		Task 1: Parse all project documents with the DELETED key  
-		Status: Not completed  
-		  
-		Task 2: Parse the project documentation for the Bunker application and its activation keys  
-		  
-		Status: Not completed  
-		  
-		Task 3: DELETED  
-		  
-		Status: Not completed  
-		  
-		Task 4: Parse the project information with the DELETED key. Project is in an inactive profile  
-		L: NAQMCRMECLWRHLPAHEUFCLWR  
-		P: DELETED  
-		  
-		Status: Not completed  
-		  
-		Task 5: Stop drawing at work. Or at least try to.  
-		  
-		Status: Not completed  
-		  
-		Task 6: Draw myself  
-		  
-		Status: Completed  
-  
-		***
-  
-			NAQMCRMECLWRHLPAHEUFCLWR  
-		 	+   
-			R E M B A  
-			C D F G H  
-			I K L N O  
-			P Q S T U  
-			V W X Y Z  
-		  
-			from note1 using playfair cipher -->   OBSERVERFIVEFOURDASHFIVE
-		
-			## OBSERVERFIVEFOURDASHFIVE  / observer54-5 ##  
-   
-* notes
-	* note1
-     
-		TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
-		Been given a lot of tasks. SBwZW9wbGUgc2VlIHRvIHRoZSBob3Jpem9uLCB3aGlsZSBvdG  
-		Don't want to do them. hlcnMgc2VlIGJleW9uZCB0aGUgaG9yaXpvbi4KSSByZWFsbH Failed so many inspections that the fines are higher than my paycheck now. I feel like this guy in the pic when I look at my bank account. kgYXNwaXJlIHRvIGJlY29tZSB0aGF0IHBlcnNvbiB3aG8gc2V At this rate I'm not gonna have enough money to buy myself that fancy P square.  
-		───────▄▀▀▀▀▀▀▀▀▀▀▄▄  
-		────▄▀▀─────────────▀▄  
-		──▄▀──────────────────▀▄  
-		──█─────────────────────▀▄  
-		─▐▌────────▄▄▄▄▄▄▄───────▐▌  
-		─█───────────▄▄▄▄──▀▀▀▀▀──█  
-		▐R▌───────▀E▀▀─────▀M▀▀▀B───▐A▌  
-		█─────────▄▄▀▀▀▀▀────▀▀▀▀▄─█  
-		█────────────────▀───▐─────▐▌  
-		▐C▌────────D─▐▀▀██▄─F───G──▄▄H▐▌  
-		─█───────────▀▀▀──────▀▀██──█  
-		─▐▌────▄─────────────▌──────█  
-		──▐▌──▐──────────────▀▄─────█  
-		───█───▌────────▐▀────▄▀───▐▌  
-		─I─▐▌──▀▄──K──────▀─L▀─▀▀N───▄O▀  
-		───▐▌──▐▀▄────────────────█  
-		─P─▐▌───▌─▀▄Q────▀▀S▀▀▀─T──█U  
-		───█───▀────▀▄──────────▄▀  
-		──▐▌──────────▀▄──────▄▀  
-		─V▄▀───▄▀───W─────▀X▀▀█Y▀───Z  
-		▀───▄▀──────────▀───▀▀▀▀▄▄▄▄▄  
-	  
-			lcyBiZXlvbmQgdGhlIGhvcml6b24uCkV2ZXJ5IHRpbWUgS  
-	  
-		***
-			scrambled text  + base64  
-			TWFua2luZCBpcyBidWlsdCBpbiBzdWNoIGEgd2F5IHRoYXQgc29tZ  
-			SBwZW9wbGUgc2VlIHRvIHRoZSBob3Jpem9uLCB3aGlsZSBvdG  
-			hlcnMgc2VlIGJleW9uZCB0aGUgaG9yaXpvbi4KSSByZWFsbH  
-			kgYXNwaXJlIHRvIGJlY29tZSB0aGF0IHBlcnNvbiB3aG8gc2V   
-			lcyBiZXlvbmQgdGhlIGhvcml6b24uCkV2ZXJ5IHRpbWUgS  
-			  
-			Mankind is built in such a way that some people see to the horizon, while others see beyond the horizon.  
-			I really aspire to become that person who sees beyond the horizon.    
-			Every time     
-	
-	  
+    observer54-5 --IRL-Russia--> baker;
+    baker --> minerva;
+    minerva --> analyst;
+    analyst --> overseer545;
+    overseer545 --> observer001;
+    observer001 --> observer993;
+    observer993 --X--> russiaEnd["end of this branch"];
 
-	* note2 
-	
-		SBtYW5hZ2UgdG8gZ2V0IGNsb3NlIHRvIHRoZSBob3J  <br>
-		They told me today that if I don't start working, I'll get fired.  <br>
-		pem9uLCBtb3JlIGFuZCBtb3JlIGRldGFpbHMgYXJl I just feel so empty right now.  <br>
-		Wanted to just lie on the couch, but decided to draw a little.  <br>
-		Showed it to my coworkers, but they didn't like it. IHJldmVhbGVkIHRvIG1lLgpBbmQgdGhlc2Ug  <br>
-		&nbsp;&nbsp;██▄▄▄▄▄▄▄▄▄&nbsp;&nbsp;  <br>
-		&nbsp;&nbsp;▒▒▒▒▒▒▒▒▒▒▓██&nbsp;&nbsp;  <br>
-		&nbsp;&nbsp;▀▀▒▒▒▀▀▒▒▒▓▓▓▓█&nbsp;  <br>
-		&nbsp;▄▄▄▒▒░&nbsp;&nbsp;░░▒▒▒▓█&nbsp;  <br>
-		&nbsp;▀▀▀▒▄▄▄&nbsp;&nbsp;░░▒▒▒▓█&nbsp;  <br>
-		&nbsp;&nbsp;█▄░&nbsp;&nbsp;░░▒▒▒▒▓▓█&nbsp;  <br>
-		&nbsp;&nbsp;▀█▄▄▄▄▄▄▄▄▄▀▀&nbsp;  <br>
-		
-		---
-			scrambled text  + base64  
-			SBtYW5hZ2UgdG8gZ2V0IGNsb3NlIHRvIHRoZSBob3J 
-			pem9uLCBtb3JlIGFuZCBtb3JlIGRldGFpbHMgYXJl 
-			IHJldmVhbGVkIHRvIG1lLgpBbmQgdGhlc2Ug
-			  
-			i manage to get close to the horizon, more and more details are revealed to me.  
-			And these
-	
-	* note3
-	
-		ZGV0YWlscyBhcmUgd29ydGggc2hv Before I got fired, I thought I'd see what my boss was doing.  
-		d2luZywgaXQncyBpbXBvcn Caught a glimpse of his username and password.  
-		RhbnQgdG8gcmVhY2gg But I should probably keep it to myself.  
-		Maybe I'll leak it to someone later. Overseers you are assholes.  
-		I DON'T GIVE A SHIT THAT YOU READ MY NOTES!    
-		dGhlIGhvcml6b24gdG    
-		9nZXRoZXIu
-		
-		---
-			scrambled text  + base64   
-			ZGV0YWlscyBhcmUgd29ydGggc2hv
-			d2luZywgaXQncyBpbXBvcn
-			RhbnQgdG8gcmVhY2gg
-			dGhlIGhvcml6b24gdG
-			9nZXRoZXIu
-			details are worth showing, it's important to reach the horizon together.
-     
-	* note1-3
-	
-		Mankind is built in such a way that some people see to the horizon, while others see beyond the horizon. <br>
-		I really aspire to become that person who sees beyond the horizon. <br>
-		Every time i manage to get close to the horizon, more and more details are revealed to me. <br>
-		And these details are worth showing, it's important to reach the horizon together. <br>
+    observer54-5 --IRL-USA--> marzqiz;
+    marzqiz --> observer93-5;
+    observer93-5 --> readonly;
+    readonly --> ts0gnar;
 
+<<<<<<< HEAD
 # galgalgal:6.62607015*10^−34J*Hz^−1
 * dir
 	* task.exe
@@ -345,16 +142,82 @@ galx3 and 6.62607015x10^-34JxHz^-1
 observer54-5  
 MSHU2L / MsHU2L  
 Change in decoded texts  
+=======
+    observer54-5 --IRL-France--> revizor;
+    revizor --> seeker;
+    seeker --> servant;
+    servant --> grunt;
+    grunt --> officer;
+    officer --> master;
+    master --X--> franceEnd["end of this branch"];
 
-# Hints  Appl3zOr
-1.  
-	Log: pw 98buh9o-nioin  
-	  
-	Reply: Wrong password  
-	  
-	Log: pw 98buh9o—nioin  
-2.  
-	0150 bad 0151 good --> https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/R02%20Ascii/completeASCII.htm
+    observer54-5 --IRL-Japan--> lemondeep;
+    lemondeep --> boston;
+    boston --> chief;
+    chief --> animal;
+    animal --> preston;
+    preston --> grim;
+    grim --X--> japanEnd["end of this branch"];
+```
 
-# Testing
 
+# For newest info check users/
+---
+# Pword currently not used 
+### USA
+### France
+
+# Needs decoding / unused
+* The Supreme Admin 
+### USA
+* ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
+>>>>>>> upstream/main
+
+# Decoders / Ciphers used  
+1. https://gchq.github.io/CyberChef/<br>
+2. https://www.dcode.fr/cipher-identifier<br>
+3. https://www.boxentriq.com/<br>
+4. https://cryptii.com  <br>
+5. https://sladex.org/blowfish.js/<br>
+Affine<br>
+Vignere cipher <br> 
+Playfair<br>  
+base64 <br> 
+Rot\*<br>
+railfence  <br>
+blowfish  <br>
+
+# Sonnet Progress  
+1. verse --> trash_can_foto.jpg
+2. verse --> alpha_case.png
+3. verse --> see_it.png
+4. verse --> battle.png
+5. verse --> ??? probaply in lemondeep
+6. verse --> Minerva.jpg
+7. verse --> Avatar.jpg  (we are probably here)
+8. verse --> ...
+9. verse --> ...
+10. verse --> ...
+11. verse --> ...
+12. verse --> ...
+13. verse --> ...
+14. verse --> ...
+---
+    Being your slave, what should I do but tend
+    Upon the hours and times of your desire?
+    I have no precious time at all to spend,
+    Nor services to do, till you require.
+    Nor dare I chide the world-without-end hour
+    Whilst I, my sovereign, watch the clock for you.
+    Nor think the bitterness of absence sour
+    When you have bid your servant once adieu;
+    Nor dare I question with my jealous thought
+    Where you may be, or your affairs suppose,
+    But like a sad slave, stay and think of nought,
+    Save, where you are how happy you make those.
+    So true a fool is love that in your will
+    Though you do anything, he thinks no ill.
+
+# Github credit:
+* [3ncy](https://github.com/3ncy) - Discord:3ncy<br>
+* [Niklas R](https://github.com/NiklasRosenkranz) - Discord:petermaffay<br>
