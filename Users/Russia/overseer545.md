@@ -87,7 +87,11 @@
 
         KU757-1A2WJ-VWWUM-57M5U Gamecode
      
+---
 
-
+   Password was derived by collecting the hex values from all three notes and running them through this [MD5 decoder](https://md5hashing.net/hash/md5).
+   ```
+   e6906be14150328e8f5b9e942fb434c5 -(reverse hash value)> 12c19389f01ca269
+   ```
 
     
