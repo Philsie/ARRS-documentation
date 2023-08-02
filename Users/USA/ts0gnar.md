@@ -148,9 +148,8 @@
     ```
     1-20-8-5-14-1 --letters--> ATHENA
 
-    maybe the A and B are?:
-    A -> user -> vidbowbo25-2 -> observer25-2
-    B -> pw
+    Affine keys: A:-11, B:19 work to decrypt the usernames. This was what was likely meant by "A is with a minus."
+ 
     ```
   * note5 <br>
     Wanted to mess around with story generators. My first attempt was a bust. But what can you do? I wanted to generate a story about bones laid out in a square and inscribed in flaming letter keys to the meaning of existence. But something went wrong. I'll have to write it myself.
@@ -160,4 +159,5 @@
     \*\*\*<br>
     ```
     First letter of each sentence from the story -> MOONLIGHT
+    Could possibly be a reference to wolves and imply that wolfcaster is the next username.
     ```
