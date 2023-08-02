@@ -77,7 +77,7 @@ graph TD;
 ```
 
 
-# For newest info check users/
+# For newest info check the `Users/` folder
 ---
 # Pword currently not used 
 ### USA
