@@ -60,7 +60,7 @@ graph TD;
     observer93-5 --> readonly;
     readonly --> ts0gnar;
     ts0gnar --> garlicaxc;
-    garlicaxc --> bestwalker;
+    garlicaxc --current theory--> bestwalker;
     bestwalker --X--> usaEnd["end of this branch"];
 
     observer54-5 --IRL-France--> revizor;
@@ -85,7 +85,6 @@ graph TD;
 ---
 # Pword currently not used 
 ### USA
-### France
 
 # Needs decoding / unused
 * The Supreme Admin 
