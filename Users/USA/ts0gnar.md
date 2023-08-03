@@ -154,6 +154,9 @@
     First letter of each sentence from the story -> MOONLIGHT
     ```
 
+## garlicaxc
+@Zephirim tried playfair cipher against all accounts with key `MONLIGHTABCDEFKPQRSUVWXYZ` which returned a cleartext password LYCANTHROPEXEATPIGSX; this needs to be converted to all lowercase to be useful for a password.<br> 
+
 ## Current Theories
 
 ### wolfcaster
