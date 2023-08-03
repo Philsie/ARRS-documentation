@@ -53,7 +53,7 @@
   https://sladex.org/blowfish.js/
 
   We also know the username is presumably `bestwalker` beacuse of the note best and deleted password.
-  Ciphertext: `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br> is in hex format using blowfish key "resord" it gives us `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br> translating from base64 gives us `marader78outbase12HT`<br>
+  Ciphertext: `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br> is in hex format and using blowfish key "resord" creates `bWFyYWRlcjc4b3V0YmFzZTEySFQ=`<br> and base64 produces `marader78outbase12HT`<br>
   
   
 
