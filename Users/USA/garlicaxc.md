@@ -32,6 +32,7 @@
   Encoding:   UTF-8<br>
   Algorithm:  Blowfish<br>
   Mode:       ECB<br>
+  This site seems pretty solid: https://www.lddgo.net/en/encrypt/blowfish
 
   We have a string from observer93-5 `ln;3jn3rfg` which could be a key for the decryption process. We also know the username is presumably `bestwalker`.
 
