@@ -25,7 +25,8 @@
       https://drive.google.com/drive/u/2/folders/1GNlQnDP7NufYQNck770BJ7phioGtTPb5
       ```
   This contains a file named `blowfish.png`; it's just a picture of a blowfish.<br>
-  `https://stegonline.georgeom.net/image` this website allowed us to identify a chunk of text embedded in the image, it's below and a bit to the left of the fish's mouth. Best visible on the "Red 3" Bit Plane.
+  `https://stegonline.georgeom.net/image` this website allowed us to identify a chunk of text embedded in the image, it's below and a bit to the left of the fish's mouth. Best visible on the "Red 3" Bit Plane. The word makes out msord, or resord. 
+
   
 
   ## What we Know
@@ -40,4 +41,19 @@
 
   We have a string from observer93-5  which could be a key for the decryption process. We also know the username is presumably `bestwalker`.
 
+---------
+
+  Ciphertext: `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br>
+  `Blowfish`     - garlicaxc
+  `pkcs5padding` - readonly<br>
+  `ECB`          - ts0gnar<br>
+
+  Used to decipher
+  https://www.lddgo.net/en/encrypt/blowfish
+  https://sladex.org/blowfish.js/
+
+  We also know the username is presumably `bestwalker` beacuse of the note best and deleted password.
+  Ciphertext: `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br> is in hex format using blowfish key "resord" it gives us `53a9d72a122be8e991028997b05d8658ec81f0cd11c29990`<br> translating from base64 gives us `marader78outbase12HT`<br>
+  
+  
 
