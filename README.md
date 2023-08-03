@@ -59,6 +59,9 @@ graph TD;
     marzqiz --> observer93-5;
     observer93-5 --> readonly;
     readonly --> ts0gnar;
+    ts0gnar --> garlicaxc;
+    garlicaxc --> bestwalker;
+    bestwalker --X--> usaEnd["end of this branch"];
 
     observer54-5 --IRL-France--> revizor;
     revizor --> seeker;
