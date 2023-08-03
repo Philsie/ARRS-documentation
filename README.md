@@ -84,13 +84,6 @@ graph TD;
 
 # For newest info check the `Users/` folder
 ---
-# Pword currently not used 
-### USA
-
-# Needs decoding / unused
-* The Supreme Admin 
-### USA
-* ln;3jn3rfg <-- observer93-5 - copy_message_65<br>
 
 # Decoders / Ciphers used  
 1. https://gchq.github.io/CyberChef/<br>
