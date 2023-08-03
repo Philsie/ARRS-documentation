@@ -1,7 +1,7 @@
 ## ARRS Season 3 
 # DONT USE CHAT-GPT UNDER ANY CIRCUMSTANCE !!!
 # DONT GO INGAME !!!
-State: 07/27/2023 12:10am UTC+3
+State: 03. 08. 2023 18:00 UTC+2
 
 
 | User                                               | Password                          | Level    | Status     | Name          | Solved-Status (Presumed) |
