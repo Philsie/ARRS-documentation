@@ -106,20 +106,20 @@ railfence  <br>
 blowfish  <br>
 
 # Sonnet Progress  
-1. verse --> trash_can_foto.jpg
-2. verse --> alpha_case.png
-3. verse --> see_it.png
-4. verse --> battle.png
+1. verse --> trash_can_foto.jpg (Global/defaultuser)
+2. verse --> alpha_case.png (Global/galgalgal)
+3. verse --> see_it.png (USA/marzqiz)
+4. verse --> battle.png (USA/observer93-5)
 5. verse --> ??? probaply in lemondeep
-6. verse --> Minerva.jpg
-7. verse --> Avatar.jpg  (we are probably here)
+6. verse --> Minerva.jpg (Russia/minerva)
+7. verse --> Avatar.jpg (Russia/analyst)
 8. verse --> ...
 9. verse --> ...
 10. verse --> ...
 11. verse --> ...
 12. verse --> ...
 13. verse --> ...
-14. verse --> ...
+14. verse --> Blowfish.png (USA/garlicaxc)
 ---
     Being your slave, what should I do but tend
     Upon the hours and times of your desire?
