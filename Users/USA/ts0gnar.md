@@ -155,26 +155,4 @@
     ```
 
 ## garlicaxc
-@Zephirim tried playfair cipher against all accounts with key `MONLIGHTABCDEFKPQRSUVWXYZ` which returned a cleartext password LYCANTHROPEXEATPIGSX; this needs to be converted to all lowercase to be useful for a password.<br> 
-
-## Current Theories
-
-### wolfcaster
-
-While reviewing the already compromised user accounts, it was noticed that there was an initial pattern in them:
-
-1. *m*arzqiz
-2. *o*bserver93-5
-3. *r*eadonly
-4. *t*s0gnar
-
-* We can see that the accounts, listed in order, occur in alphabetical order. Currently, the only account in users.table that meets the criteria is wolfcaster.
-* If you further review the pattern of the compromised accounts, you will see a pattern in the jumps between each account in alphabetical order.
-
-| M | N | O | P | Q | R | S | T | U | V | W |
-|---|---|---|---|---|---|---|---|---|---|---|
-| X | 1 | X | 1 | 2 | X | 1 | X | 1 | 2 | X |
-
-The pattern shows a 1 letter gap until the next account, followed by a 2 letter gap, etc.
-* The Affine keys when added together (-11+19) = 8, wolfcaster is the 8th account in the userstable (both upward and downward).
-* Note: the sentences in note5's story spell out the word MOONLIGHT. Wolves are known for howling at the moon.
+@Zephirim tried playfair cipher against all accounts with key `MONLIGHTABCDEFKPQRSUVWXYZ` (MOONLIGHT was derived from note5) which returned a cleartext password LYCANTHROPEXEATPIGSX; this needs to be converted to all lowercase to be useful for a password.<br> 
