@@ -61,7 +61,7 @@ graph TD;
     observer93-5 --> readonly;
     readonly --> ts0gnar;
     ts0gnar --> garlicaxc;
-    garlicaxc --current theory--> bestwalker;
+    garlicaxc --> bestwalker;
     bestwalker --X--> usaEnd["end of this branch"];
 
     observer54-5 --IRL-France--> revizor;
