@@ -1,10 +1,10 @@
 | User         | Password                          | Level    | Status     | Name          |  
 |--------------|-----------------------------------|----------|------------|---------------|   
-| marzqiz      | redKL3245pfvkl3j4                 | Observer | Active     | System user   | 
+| bestwalker     | marader78outbase12HT                 | Observer | Active     | System user   | 
 
 # marzqiz : redKL3245pfvkl3j4
 * user  
-	Login: marzqiz  <br>
+	Login: bestwalker  <br>
 	Access level: observer  <br>
 	Name: System user  <br>
 	Status: Active  <br>
