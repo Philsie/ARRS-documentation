@@ -24,9 +24,9 @@
       ```
       https://drive.google.com/drive/u/2/folders/1GNlQnDP7NufYQNck770BJ7phioGtTPb5
       ```
-  This contains a file named `blowfish.png`; it's just a picture of a blowfish.
-  ```https://stegonline.georgeom.net/image```
-  This allowed us to identify a chunk of text embedded in the image. Check the Red 3 bitplane.
+  This contains a file named `blowfish.png`; it's just a picture of a blowfish.<br>
+  `https://stegonline.georgeom.net/image` this website allowed us to identify a chunk of text embedded in the image, it's below and a bit to the left of the fish's mouth. Best visible on the "Red 3" Bit Plane.
+  
 
   ## What we Know
 
