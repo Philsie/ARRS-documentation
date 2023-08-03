@@ -152,6 +152,7 @@
     \*\*\*<br>
     ```
     First letter of each sentence from the story -> MOONLIGHT
+    Could possibly be a reference to wolves and imply that wolfcaster is the next username.
     ```
 
 ## garlicaxc
