@@ -55,46 +55,40 @@
     ```
 
 
+
+    The key used for encoding the usernames was acquired by conducting a known-plaintext attack using previously obtained passwords from the branch; after identifying that an Affine cipher should be used, we were able to decode all of the usernames after bruteforcing an initial working key:
     ```
-    Affine key was got by noticing old passwords and trying to match the encrypted password to the known user name.
-    
-    sd0fgto --Affine decode with A15 B19 --> ts0gnar
-    rtoezje -> marzqiz
-    vidbowbo93-5 -> observer93-5
-    obtmvgcp -> readonly
-      rtdsvmvg -> mastodon
-      ibcNovw -> belKrov
-    sd0fgto -> ts0gnar
-      bwbokbkbo -> everpeper
-      lvcqxtdsbo -> wolfcaster
-      ivovw -> borov
-      ctdsxutvd -> lastchaos
-      ividrjsu -> bobsmith
-      vidbowbo25-2 -> observer25-2
-      ftocjxtax -> garlicaxc
-      otaotaota -> raxraxrax
-      eztavxwpzm -> zqaxocvyqd
-
-    but if we ENcode instead of DEcode the last username with Affine we get
-    eztavxwpzm -> bestwalker
-
-    note: both [A:15, B:19] and [A:7, B:23] work for Affine, just [7, 23] has to be used the other way - Encrypt where you would be Decrypting with [15, 19] and Decrypt on the other places
+      rtoezje       -> marzqiz
+      vidbowbo93-5  -> observer93-5
+      obtmvgcp      -> readonly
+      rtdsvmvg      -> mastodon
+      ibcNovw       -> belKrov
+      sd0fgto       -> ts0gnar
+      bwbokbkbo     -> everpeper
+      lvcqxtdsbo    -> wolfcaster
+      ivovw         -> borov
+      ctdsxutvd     -> lastchaos
+      ividrjsu      -> bobsmith
+      vidbowbo25-2  -> observer25-2
+      ftocjxtax     -> garlicaxc
+      otaotaota     -> raxraxrax
+      eztavxwpzm    -> zqaxocvyqd
     ```
-    
-    ```
-    some of the passwords belong to accounts we already have:
-      rtoezje -> marzqiz
-      vidbowbo93-5 -> observer93-5
-      obtmvgcp -> readonly
-      sd0fgto -> ts0gnar
+    If we encode instead of decode the last username with Affine, we get:
+      `eztavxwpzm   -> bestwalker`
 
-    These should all be active by their user data
+    Please note: [A:-11, B:19], [A:15, B:19], and [A:7, B:23] are all valid keys for the cipher.
 
-    These known accounts were used to get the substitution alphabet:
-    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-    x e l s z g n u b i p w d k r y f m t a h o v c j q
+    The accounts we already have the passwords to can be seen in the textblock below:
+     ```
+      rtoezje       -> marzqiz
+      vidbowbo93-5  -> observer93-5
+      obtmvgcp      -> readonly
+      sd0fgto       -> ts0gnar
+     ```
+    These should all be active by their user data and have had their status updated in the table below.
 
-    However this is now probably not needed anymore since the Affine cipher keys were cracked (by trying and checking).
+  ```
       ----------------------------------------------------------------------------------------------------------------------------
       USER                       PASSWORD                                     STATUS                  MODE                  VALID
       ----------------------------------------------------------------------------------------------------------------------------
@@ -112,7 +106,7 @@
       ----------------------------------------------------------------------------------------------------------------------------
       everpeper              WX7571A4GE6XPRDRMY5U                          Deactivated                AEC                   N
       ----------------------------------------------------------------------------------------------------------------------------
-      wolfcaster             XY3451B4HR5LV3RZ                              Deactivated                AEC                   N
+      wolfcaster             XY3451B4HR5LV3RZ                              *                          AEC                   N
       ----------------------------------------------------------------------------------------------------------------------------
       borov                  jiwerfplihuhec                                Deactivated                AEC                   N
       ----------------------------------------------------------------------------------------------------------------------------
@@ -146,10 +140,9 @@
   * note4 <br>
     Also, for some reason all the logins are encrypted 1-20-8-5-14-1. I lost the key somewhere. I'll have to pick A & B at random. There's only a million options. Although it's clear that A is with a minus.<br>
     ```
-    1-20-8-5-14-1 --letters--> ATHENA
+    1-20-8-5-14-1 --A1Z26--> ATHENA historically points to the Affine cipher.
 
-    Affine keys: A:-11, B:19 work to decrypt the usernames. This was what was likely meant by "A is with a minus."
- 
+    [A:-11, B:19] was determined to be a valid key that allows us to decipher the usernames in the aforementioned `users.table` table.
     ```
   * note5 <br>
     Wanted to mess around with story generators. My first attempt was a bust. But what can you do? I wanted to generate a story about bones laid out in a square and inscribed in flaming letter keys to the meaning of existence. But something went wrong. I'll have to write it myself.
@@ -161,3 +154,6 @@
     First letter of each sentence from the story -> MOONLIGHT
     Could possibly be a reference to wolves and imply that wolfcaster is the next username.
     ```
+
+## garlicaxc
+@Zephirim tried playfair cipher against all accounts with key `MONLIGHTABCDEFKPQRSUVWXYZ` (MOONLIGHT was derived from note5) which returned a cleartext password LYCANTHROPEXEATPIGSX; this needs to be converted to all lowercase to be useful for a password.<br> 
